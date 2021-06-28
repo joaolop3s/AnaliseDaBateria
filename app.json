@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "d3-project",
+    "slug": "d3-project",
+    "version": "1.0.0",
+    "orientation": "landscape",
+    "icon": "./assets/icone.png",
+    "sdkVersion": "41.0.0",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.joaolop3s.d3project"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icone.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.joaolop3s.d3project"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

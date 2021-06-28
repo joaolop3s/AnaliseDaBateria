@@ -1,0 +1,2414 @@
+[
+ {
+   "FIELD1": "263;104;2017-10-09 11:17:05;Discharging;92.00;Europe/Zurich;ch;482220;482872;2746648;49100;unplugged;Good;4.06;29.80;0.39;739884;559167;WIFI;WIFI;lte;disconnected;none;enabled;-57;144;1;-1;0;0;0;0;0;0;2621;26036;249;3610"
+ },
+ {
+   "FIELD1": "3680;104;2017-10-09 11:17:58;Discharging;92.00;Europe/Zurich;ch;472344;481588;2746648;138616;unplugged;Good;4.02;30.00;0.29;739936;559167;WIFI;WIFI;lte;disconnected;none;enabled;-59;144;1;-1;0;0;0;0;0;0;2623;26036;249;3610"
+ },
+ {
+   "FIELD1": "3681;104;2017-10-09 11:23:46;Discharging;91.00;Europe/Zurich;ch;560596;562352;2746648;47388;unplugged;Good;3.98;29.00;0.56;740285;559215;lte;MOBILE;lte;connected;inout;enabled;-127;-1;1;-1;0;1;0;0;0;0;2621;26036;249;3610"
+ },
+ {
+   "FIELD1": "3682;104;2017-10-09 11:23:57;Discharging;90.00;Europe/Zurich;ch;556308;557204;2746648;48300;unplugged;Good;3.97;29.00;0.32;740296;559215;lte;MOBILE;lte;connected;inout;enabled;-127;-1;1;-1;0;1;0;0;0;0;2622;26036;249;3610"
+ },
+ {
+   "FIELD1": "3683;104;2017-10-09 11:26:58;Discharging;89.00;Europe/Zurich;ch;551352;543968;2746648;48664;unplugged;Good;4.09;27.80;0.01;740477;559215;lte;MOBILE;lte;connected;inout;enabled;-127;-1;0;-1;0;1;0;0;0;0;2623;26036;249;3610"
+ },
+ {
+   "FIELD1": "3684;104;2017-10-09 11:31:28;Discharging;88.00;Europe/Zurich;ch;566632;550004;2746648;47624;unplugged;Good;4.07;26.60;0.01;740747;559215;disconnected;MOBILE;lte;connected;inout;enabled;-127;-1;0;-1;0;1;0;0;0;0;2625;26036;249;3610"
+ },
+ {
+   "FIELD1": "3685;104;2017-10-09 11:36:59;Discharging;87.00;Europe/Zurich;ch;571188;547196;2746648;62348;unplugged;Good;4.06;25.80;0.40;741078;559215;disconnected;MOBILE;lte;connected;inout;enabled;-127;-1;0;-1;0;1;0;0;0;0;2627;26036;249;3610"
+ },
+ {
+   "FIELD1": "3686;104;2017-10-09 11:39:59;Discharging;86.00;Europe/Zurich;ch;539460;519628;2746648;47512;unplugged;Good;4.05;26.50;0.01;741258;559215;lte;MOBILE;lte;connected;inout;enabled;-127;-1;0;-1;0;1;0;0;0;0;2629;26036;249;3610"
+ },
+ {
+   "FIELD1": "3687;104;2017-10-09 11:45:00;Discharging;85.00;Europe/Zurich;ch;537796;535988;2746648;48196;unplugged;Good;4.03;26.00;0.01;741559;559215;disconnected;MOBILE;hspap;connected;inout;enabled;-127;-1;0;-1;0;1;0;0;0;0;2631;26036;249;3610"
+ },
+ {
+   "FIELD1": "3688;104;2017-10-09 11:50:00;Discharging;84.00;Europe/Zurich;ch;543628;530640;2746648;62772;unplugged;Good;4.02;26.20;0.01;741859;559215;disconnected;MOBILE;lte;connected;inout;enabled;-127;-1;0;-1;0;1;0;0;0;0;2633;26036;249;3610"
+ },
+ {
+   "FIELD1": "3689;104;2017-10-09 11:55:01;Discharging;83.00;Europe/Zurich;ch;543420;546568;2746648;61692;unplugged;Good;4.01;26.20;0.01;742160;559215;disconnected;MOBILE;lte;connected;inout;enabled;-127;-1;0;-1;0;1;0;0;0;0;2650;26036;249;3610"
+ },
+ {
+   "FIELD1": "3690;104;2017-10-09 12:00:01;Discharging;82.00;Europe/Zurich;ch;553312;548820;2746648;55404;unplugged;Good;4.01;26.40;0.01;742460;559215;disconnected;MOBILE;lte;connected;inout;enabled;-127;-1;0;-1;0;1;0;0;0;0;2650;26036;249;3610"
+ },
+ {
+   "FIELD1": "3691;104;2017-10-09 12:05:32;Discharging;81.00;Europe/Zurich;ch;553872;542264;2746648;63796;unplugged;Good;4.01;26.60;0.01;742791;559215;disconnected;MOBILE;lte;connected;inout;enabled;-127;-1;0;-1;0;1;0;0;0;0;2650;26036;249;3610"
+ },
+ {
+   "FIELD1": "3692;104;2017-10-09 12:11:02;Discharging;80.00;Europe/Zurich;ch;555820;549928;2746648;63776;unplugged;Good;3.99;26.80;0.01;743121;559215;disconnected;MOBILE;lte;connected;inout;enabled;-127;-1;0;-1;0;1;0;0;0;0;2650;26036;249;3610"
+ },
+ {
+   "FIELD1": "3693;104;2017-10-09 12:15:03;Discharging;79.00;Europe/Zurich;ch;538548;528996;2746648;52352;unplugged;Good;3.98;27.10;0.01;743362;559215;lte;MOBILE;lte;connected;inout;enabled;-127;-1;0;-1;0;1;0;0;0;0;2650;26036;249;3610"
+ },
+ {
+   "FIELD1": "3694;104;2017-10-09 12:19:03;Discharging;78.00;Europe/Zurich;ch;557268;530752;2746648;53372;unplugged;Good;3.96;27.50;0.01;743602;559215;disconnected;MOBILE;hspap;connected;inout;enabled;-127;-1;0;-1;0;1;0;0;0;0;2650;26036;249;3610"
+ },
+ {
+   "FIELD1": "3695;104;2017-10-09 12:23:04;Discharging;77.00;Europe/Zurich;ch;580388;528052;2746648;48248;unplugged;Good;3.95;27.80;0.26;743843;559215;hsupa;MOBILE;hsupa;connected;inout;enabled;-127;-1;0;-1;0;1;0;0;0;0;2650;26036;249;3610"
+ },
+ {
+   "FIELD1": "3696;104;2017-10-09 12:24:34;Discharging;76.00;Europe/Zurich;ch;589876;590048;2746648;47548;unplugged;Good;3.76;28.90;0.48;743933;559215;WIFI;WIFI;edge;disconnected;inout;enabled;-79;13;1;-1;0;1;0;0;0;0;2649;26036;249;3610"
+ },
+ {
+   "FIELD1": "3697;104;2017-10-09 12:27:04;Discharging;75.00;Europe/Zurich;ch;593756;550260;2746648;57376;unplugged;Good;3.79;28.80;0.25;744083;559215;hspap;MOBILE;hspap;connected;inout;enabled;-127;-1;1;-1;0;0;0;0;0;0;2649;26036;249;3610"
+ },
+ {
+   "FIELD1": "3698;104;2017-10-09 12:28:04;Discharging;74.00;Europe/Zurich;ch;600920;542300;2746648;62584;unplugged;Good;3.78;28.80;0.38;744143;559215;lte;MOBILE;lte;connected;inout;enabled;-127;-1;1;-1;0;0;0;0;0;0;2648;26036;249;3610"
+ },
+ {
+   "FIELD1": "3699;104;2017-10-09 12:30:04;Discharging;73.00;Europe/Zurich;ch;561184;558500;2746648;48164;unplugged;Good;3.81;30.50;0.24;744263;559215;disconnected;unknown;hspap;disconnected;out;enabled;-127;-1;1;-1;0;0;0;0;0;0;2647;26036;249;3610"
+ },
+ {
+   "FIELD1": "3700;104;2017-10-09 12:34:05;Discharging;72.00;Europe/Zurich;ch;516216;510828;2746648;36344;unplugged;Good;3.94;29.30;0.48;744504;559215;WIFI;WIFI;edge;disconnected;out;enabled;-81;19;0;-1;0;0;0;0;0;0;2647;26036;249;3610"
+ },
+ {
+   "FIELD1": "3701;104;2017-10-09 12:37:05;Discharging;71.00;Europe/Zurich;ch;482324;496400;2746648;47020;unplugged;Good;3.83;29.60;0.17;744684;559215;WIFI;WIFI;hsupa;disconnected;out;enabled;-73;6;0;-1;0;0;0;0;0;0;2647;26036;249;3610"
+ },
+ {
+   "FIELD1": "3702;104;2017-10-09 12:40:05;Discharging;70.00;Europe/Zurich;ch;507228;504932;2746648;50860;unplugged;Good;3.88;29.20;0.00;744865;559215;WIFI;WIFI;gprs;disconnected;out;enabled;-73;6;0;-1;0;0;0;0;0;0;2647;26036;249;3610"
+ },
+ {
+   "FIELD1": "3703;104;2017-10-09 12:44:06;Discharging;69.00;Europe/Zurich;ch;503580;506272;2746648;46784;unplugged;Good;3.85;29.10;0.24;745105;559215;WIFI;WIFI;edge;disconnected;out;enabled;-67;13;1;-1;0;0;0;0;0;0;2646;26036;249;3610"
+ },
+ {
+   "FIELD1": "3704;104;2017-10-09 12:47:06;Discharging;68.00;Europe/Zurich;ch;502272;499880;2746648;51468;unplugged;Good;3.89;29.40;0.00;745286;559215;WIFI;WIFI;edge;disconnected;out;enabled;-65;26;0;-1;0;0;0;0;0;0;2646;26036;249;3610"
+ },
+ {
+   "FIELD1": "3705;104;2017-10-09 12:55:07;Discharging;67.00;Europe/Zurich;ch;489780;490780;2746648;47700;unplugged;Good;3.93;29.50;0.01;745766;559215;disconnected;WIFI;lte;disconnected;out;enabled;-70;65;0;-1;0;0;0;0;0;0;2652;26036;249;3610"
+ },
+ {
+   "FIELD1": "3706;104;2017-10-09 13:00:38;Discharging;66.00;Europe/Zurich;ch;574976;574104;2746648;47808;unplugged;Good;3.80;29.40;0.35;746097;559215;WIFI;WIFI;edge;disconnected;out;enabled;-63;18;1;-1;0;0;0;0;0;0;2651;26036;249;3610"
+ },
+ {
+   "FIELD1": "3707;104;2017-10-09 13:06:08;Discharging;65.00;Europe/Zurich;ch;524932;526136;2746648;47528;unplugged;Good;3.91;29.70;0.00;746427;559215;disconnected;WIFI;hsupa;disconnected;out;enabled;-61;48;0;-1;0;0;0;0;0;0;2651;26036;249;3610"
+ },
+ {
+   "FIELD1": "3708;104;2017-10-09 13:16:09;Discharging;64.00;Europe/Berlin;de;557452;558264;2746648;48060;unplugged;Good;3.73;29.80;0.27;747027;559215;WIFI;WIFI;0;disconnected;none;enabled;-68;117;1;-1;0;0;0;0;0;0;2651;26036;249;3610"
+ },
+ {
+   "FIELD1": "3709;104;2017-10-09 13:18:10;Discharging;63.00;Europe/Berlin;de;501628;502580;2746648;48464;unplugged;Good;3.66;29.60;0.35;747149;559215;WIFI;WIFI;0;disconnected;none;enabled;-79;58;1;-1;0;0;0;0;0;0;2655;26036;249;3610"
+ },
+ {
+   "FIELD1": "3710;104;2017-10-09 13:20:40;Discharging;62.00;Europe/Berlin;de;508004;511860;2746648;48460;unplugged;Good;3.84;30.30;0.30;747299;559215;WIFI;WIFI;0;disconnected;none;enabled;-79;52;1;-1;0;0;0;0;0;0;2655;26036;249;3610"
+ },
+ {
+   "FIELD1": "3711;104;2017-10-09 13:24:10;Discharging;61.00;Europe/Berlin;de;515424;511540;2746648;57552;unplugged;Good;3.81;30.80;0.26;747509;559215;WIFI;WIFI;0;disconnected;none;enabled;-81;78;1;-1;0;0;0;0;0;0;2655;26036;249;3610"
+ },
+ {
+   "FIELD1": "3712;104;2017-10-09 13:27:40;Discharging;60.00;Europe/Berlin;de;466556;466516;2746648;46580;unplugged;Good;3.82;31.00;0.20;747720;559215;WIFI;WIFI;0;disconnected;none;enabled;-81;39;1;-1;0;0;0;0;0;0;2654;26036;249;3610"
+ },
+ {
+   "FIELD1": "3713;104;2017-10-09 13:30:41;Discharging;59.00;Europe/Berlin;de;448716;429524;2746648;49124;unplugged;Good;3.80;31.20;0.35;747900;559215;WIFI;WIFI;0;disconnected;none;enabled;-78;52;1;-1;0;0;0;0;0;0;2653;26036;249;3610"
+ },
+ {
+   "FIELD1": "3714;104;2017-10-09 13:33:41;Discharging;58.00;Europe/Berlin;de;457408;458964;2746648;55220;unplugged;Good;3.80;31.10;0.29;748080;559215;WIFI;WIFI;0;disconnected;none;enabled;-83;78;1;-1;0;0;0;0;0;0;2653;26036;249;3610"
+ },
+ {
+   "FIELD1": "3715;104;2017-10-09 13:36:11;Discharging;57.00;Europe/Berlin;de;339500;414848;2746648;138768;unplugged;Good;3.75;31.40;0.29;748231;559215;WIFI;WIFI;0;disconnected;none;enabled;-77;39;1;-1;0;0;0;0;0;0;2664;26036;249;3610"
+ },
+ {
+   "FIELD1": "3716;104;2017-10-09 13:38:42;Discharging;56.00;Europe/Berlin;de;381020;376808;2746648;60580;unplugged;Good;3.75;31.50;0.32;748380;559215;WIFI;WIFI;0;disconnected;none;enabled;-80;52;1;-1;0;0;0;0;0;0;2651;26036;249;3610"
+ },
+ {
+   "FIELD1": "3717;104;2017-10-09 13:41:12;Discharging;55.00;Europe/Berlin;de;398492;398620;2746648;71432;unplugged;Good;3.73;32.20;0.28;748530;559215;WIFI;WIFI;0;disconnected;none;enabled;-83;78;1;-1;0;0;0;0;0;0;2648;26036;249;3610"
+ },
+ {
+   "FIELD1": "3718;104;2017-10-09 13:43:42;Discharging;54.00;Europe/Berlin;de;399860;401548;2746648;52248;unplugged;Good;3.70;32.60;0.33;748682;559215;WIFI;WIFI;0;disconnected;none;enabled;-82;26;1;-1;0;0;0;0;0;0;2646;26036;249;3610"
+ },
+ {
+   "FIELD1": "3719;104;2017-10-09 13:45:42;Discharging;53.00;Europe/Berlin;de;430012;394800;2746648;61036;unplugged;Good;3.75;33.10;0.28;748802;559215;WIFI;WIFI;0;disconnected;none;enabled;-82;39;1;-1;0;0;0;0;0;0;2645;26036;249;3610"
+ },
+ {
+   "FIELD1": "3720;104;2017-10-09 13:47:43;Discharging;52.00;Europe/Berlin;de;419400;417868;2746648;67972;unplugged;Good;3.76;33.20;0.33;748921;559215;WIFI;WIFI;0;disconnected;none;enabled;-82;78;1;-1;0;0;0;0;0;0;2645;26036;249;3610"
+ },
+ {
+   "FIELD1": "3721;104;2017-10-09 13:50:43;Discharging;51.00;Europe/Berlin;de;412564;413680;2746648;49008;unplugged;Good;3.73;33.30;0.39;749102;559215;WIFI;WIFI;0;disconnected;none;enabled;-80;52;1;-1;0;0;0;0;0;0;2644;26036;249;3610"
+ },
+ {
+   "FIELD1": "3722;104;2017-10-09 13:53:43;Discharging;50.00;Europe/Berlin;de;398792;414616;2746648;54604;unplugged;Good;3.75;33.30;0.28;749282;559215;WIFI;WIFI;0;disconnected;none;enabled;-78;78;1;-1;0;0;0;0;0;0;2703;26036;249;3610"
+ },
+ {
+   "FIELD1": "3723;104;2017-10-09 13:56:44;Discharging;49.00;Europe/Berlin;de;398068;401956;2746648;66416;unplugged;Good;3.78;33.20;0.33;749462;559215;WIFI;WIFI;0;disconnected;none;enabled;-83;78;1;-1;0;0;0;0;0;0;2701;26036;249;3610"
+ },
+ {
+   "FIELD1": "3724;104;2017-10-09 13:59:44;Discharging;48.00;Europe/Berlin;de;411072;407924;2746648;50400;unplugged;Good;3.74;32.90;0.28;749644;559215;WIFI;WIFI;0;disconnected;none;enabled;-79;39;1;-1;0;0;0;0;0;0;2701;26036;249;3610"
+ },
+ {
+   "FIELD1": "3725;104;2017-10-09 14:02:14;Discharging;47.00;Europe/Berlin;de;305820;397388;2746648;161400;unplugged;Good;3.75;33.00;0.26;749793;559215;WIFI;WIFI;0;disconnected;none;enabled;-79;78;1;-1;0;0;0;0;0;0;2698;26036;249;3610"
+ },
+ {
+   "FIELD1": "3726;104;2017-10-09 14:05:15;Discharging;46.00;Europe/Berlin;de;363036;363804;2746648;72456;unplugged;Good;3.74;32.50;0.36;749973;559215;WIFI;WIFI;0;disconnected;none;enabled;-77;78;1;-1;0;0;0;0;0;0;2697;26036;249;3610"
+ },
+ {
+   "FIELD1": "3727;104;2017-10-09 14:08:15;Discharging;45.00;Europe/Berlin;de;380156;385560;2746648;69336;unplugged;Good;3.71;32.10;0.29;750153;559215;WIFI;WIFI;0;disconnected;none;enabled;-80;26;1;-1;0;0;0;0;0;0;2697;26036;249;3610"
+ },
+ {
+   "FIELD1": "3728;104;2017-10-09 14:11:46;Discharging;44.00;Europe/Berlin;de;395708;395476;2746648;47624;unplugged;Good;3.65;32.00;0.36;750364;559215;WIFI;WIFI;0;disconnected;none;enabled;-81;39;1;-1;0;0;0;0;0;0;2696;26036;249;3610"
+ },
+ {
+   "FIELD1": "3729;104;2017-10-09 14:14:16;Discharging;43.00;Europe/Berlin;de;315164;338796;2746648;177784;unplugged;Good;3.68;31.80;0.34;750514;559215;WIFI;WIFI;0;disconnected;none;enabled;-81;58;1;-1;0;0;0;0;0;0;2695;26036;249;3610"
+ },
+ {
+   "FIELD1": "3730;104;2017-10-09 14:21:17;Discharging;42.00;Europe/Berlin;de;417288;441844;2746648;59092;unplugged;Good;3.78;31.60;0.43;750935;559215;WIFI;WIFI;0;disconnected;none;enabled;-88;19;0;-1;0;0;0;0;0;0;2694;26036;249;3610"
+ },
+ {
+   "FIELD1": "3731;104;2017-10-09 14:34:03;Discharging;41.00;Europe/Zurich;ch;457420;458676;2746648;47144;unplugged;Good;3.78;29.90;0.78;751703;559215;lte;MOBILE;lte;connected;inout;enabled;-127;-1;1;-1;0;1;0;0;0;0;2694;26036;249;3610"
+ },
+ {
+   "FIELD1": "3732;104;2017-10-09 14:35:18;Discharging;40.00;Europe/Zurich;ch;422024;422676;2746648;48000;unplugged;Good;3.74;29.50;0.01;751777;559215;lte;MOBILE;lte;connected;inout;enabled;-127;-1;0;-1;0;1;0;0;0;0;2694;26036;249;3610"
+ },
+ {
+   "FIELD1": "3736;104;2017-10-09 16:56:06;Charging;18.00;Europe/Zurich;ch;419236;419292;2746648;59772;ac;Good;3.54;27.10;0.56;760226;561187;WIFI;WIFI;lte;disconnected;none;enabled;-66;104;0;-1;0;0;0;0;0;0;2693;26036;249;3610"
+ },
+ {
+   "FIELD1": "3737;104;2017-10-09 15:47:11;Discharging;25.00;Europe/Zurich;ch;393000;392608;2746648;46964;unplugged;Good;3.69;28.00;0.37;756091;559318;disconnected;WIFI;lte;disconnected;inout;enabled;-64;117;0;-1;0;0;0;0;0;0;2694;26036;249;3610"
+ },
+ {
+   "FIELD1": "3739;104;2017-10-09 16:56:10;Charging;18.00;Europe/Zurich;ch;426768;436440;2746648;54084;ac;Good;3.69;27.20;0.28;760229;561187;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;0;0;0;0;0;2693;26036;249;3610"
+ },
+ {
+   "FIELD1": "3743;104;2017-10-09 15:44:09;Discharging;26.00;Europe/Zurich;ch;411120;413952;2746648;54528;unplugged;Good;3.62;27.50;0.36;755908;559318;disconnected;MOBILE;lte;connected;inout;enabled;-127;-1;0;-1;0;1;0;0;0;0;2694;26036;249;3610"
+ },
+ {
+   "FIELD1": "3745;104;2017-10-09 15:39:09;Discharging;27.00;Europe/Zurich;ch;408920;409200;2746648;59904;unplugged;Good;3.68;27.50;0.01;755608;559318;disconnected;MOBILE;lte;connected;inout;enabled;-127;-1;0;-1;0;1;0;0;0;0;2694;26036;249;3610"
+ },
+ {
+   "FIELD1": "3748;104;2017-10-09 15:34:08;Discharging;28.00;Europe/Zurich;ch;411528;413724;2746648;60344;unplugged;Good;3.69;27.40;0.01;755307;559318;disconnected;MOBILE;lte;connected;inout;enabled;-127;-1;0;-1;0;1;0;0;0;0;2694;26036;249;3610"
+ },
+ {
+   "FIELD1": "3751;104;2017-10-09 15:29:38;Discharging;29.00;Europe/Zurich;ch;405900;409028;2746648;73180;unplugged;Good;3.67;27.40;0.01;755036;559318;disconnected;MOBILE;lte;connected;inout;enabled;-127;-1;0;-1;0;1;0;0;0;0;2694;26036;249;3610"
+ },
+ {
+   "FIELD1": "3755;104;2017-10-09 15:24:07;Discharging;30.00;Europe/Zurich;ch;407664;408284;2746648;74056;unplugged;Good;3.71;27.60;0.30;754705;559318;disconnected;MOBILE;lte;connected;inout;enabled;-127;-1;0;-1;0;1;0;0;0;0;2694;26036;249;3610"
+ },
+ {
+   "FIELD1": "3756;104;2017-10-09 15:18:36;Discharging;31.00;Europe/Zurich;ch;412252;415456;2746648;62520;unplugged;Good;3.69;27.80;0.50;754375;559318;hspap;MOBILE;hspap;connected;inout;enabled;-127;-1;0;-1;0;1;0;0;0;0;2694;26036;249;3610"
+ },
+ {
+   "FIELD1": "3758;104;2017-10-09 15:16:36;Discharging;32.00;Europe/Zurich;ch;417868;434688;2746648;52136;unplugged;Good;3.53;27.90;0.41;754255;559318;hspap;MOBILE;hspap;connected;inout;enabled;-127;-1;1;-1;0;1;0;0;0;0;2694;26036;249;3610"
+ },
+ {
+   "FIELD1": "3762;104;2017-10-09 15:11:22;Discharging;33.00;Europe/Zurich;ch;411260;400960;2746648;77620;unplugged;Good;3.70;27.70;0.00;753940;559215;disconnected;MOBILE;hspap;connected;inout;enabled;-127;-1;0;-1;0;1;0;0;0;0;2694;26036;249;3610"
+ },
+ {
+   "FIELD1": "3763;104;2017-10-09 15:07:21;Discharging;34.00;Europe/Zurich;ch;409200;412700;2746648;75300;unplugged;Good;3.70;27.50;0.01;753699;559215;disconnected;MOBILE;lte;connected;inout;enabled;-127;-1;0;-1;0;1;0;0;0;0;2694;26036;249;3610"
+ },
+ {
+   "FIELD1": "3765;104;2017-10-09 15:01:51;Discharging;35.00;Europe/Zurich;ch;413668;413580;2746648;67668;unplugged;Good;3.72;27.40;0.01;753369;559215;disconnected;MOBILE;lte;connected;inout;enabled;-127;-1;0;-1;0;1;0;0;0;0;2694;26036;249;3610"
+ },
+ {
+   "FIELD1": "3767;104;2017-10-09 14:56:50;Discharging;36.00;Europe/Zurich;ch;418144;419856;2746648;54216;unplugged;Good;3.72;27.40;0.01;753069;559215;disconnected;MOBILE;lte;connected;inout;enabled;-127;-1;0;-1;0;1;0;0;0;0;2694;26036;249;3610"
+ },
+ {
+   "FIELD1": "3770;104;2017-10-09 14:51:50;Discharging;37.00;Europe/Zurich;ch;423812;416904;2746648;58456;unplugged;Good;3.71;27.30;0.01;752769;559215;disconnected;MOBILE;lte;connected;inout;enabled;-127;-1;0;-1;0;1;0;0;0;0;2694;26036;249;3610"
+ },
+ {
+   "FIELD1": "3771;104;2017-10-09 14:46:19;Discharging;38.00;Europe/Zurich;ch;423092;416316;2746648;55892;unplugged;Good;3.73;27.60;0.33;752438;559215;disconnected;MOBILE;lte;connected;inout;enabled;-127;-1;0;-1;0;1;0;0;0;0;2694;26036;249;3610"
+ },
+ {
+   "FIELD1": "3773;104;2017-10-09 14:41:19;Discharging;39.00;Europe/Zurich;ch;423720;418268;2746648;58552;unplugged;Good;3.73;28.20;0.01;752138;559215;lte;MOBILE;lte;connected;inout;enabled;-127;-1;0;-1;0;1;0;0;0;0;2694;26036;249;3610"
+ },
+ {
+   "FIELD1": "3775;104;2017-10-09 16:56:21;Charging;18.00;Europe/Zurich;ch;438920;439412;2746648;48444;ac;Good;3.90;27.30;0.34;760241;561188;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;0;0;0;0;0;2693;26036;249;3610"
+ },
+ {
+   "FIELD1": "3777;104;2017-10-09 16:56:23;Charging;18.00;Europe/Zurich;ch;408780;439260;2746648;78292;ac;Good;3.90;27.40;0.20;760242;561188;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;0;0;0;0;0;2693;26036;249;3610"
+ },
+ {
+   "FIELD1": "3779;104;2017-10-09 16:56:39;Charging;19.00;Europe/Zurich;ch;428736;422652;2746648;75928;ac;Good;3.92;27.50;0.29;760257;561188;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;0;0;0;0;0;2692;26036;249;3610"
+ },
+ {
+   "FIELD1": "3781;104;2017-10-09 16:56:34;Charging;18.00;Europe/Zurich;ch;420664;438960;2746648;70760;ac;Good;3.90;27.50;0.00;760253;561188;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;0;0;0;0;0;2692;26036;249;3610"
+ },
+ {
+   "FIELD1": "3783;104;2017-10-09 16:56:27;Charging;18.00;Europe/Zurich;ch;412576;439064;2746648;76208;ac;Good;3.92;27.40;0.01;760247;561188;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;0;0;0;0;0;2692;26036;249;3610"
+ },
+ {
+   "FIELD1": "3784;104;2017-10-09 16:56:49;Charging;19.00;Europe/Zurich;ch;432816;433928;2746648;51864;ac;Good;3.91;27.50;0.25;760268;561189;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;0;0;0;0;0;2692;26036;249;3610"
+ },
+ {
+   "FIELD1": "3785;104;2017-10-09 16:57:44;Charging;20.00;Europe/Zurich;ch;424316;432332;2746648;60768;ac;Good;3.94;27.80;0.01;760323;561220;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;0;0;0;0;0;2693;26036;249;3610"
+ },
+ {
+   "FIELD1": "5706;104;2017-10-09 16:57:56;Charging;20.00;Europe/Zurich;ch;419608;422252;2746648;79104;ac;Good;3.95;27.80;0.22;760334;561220;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;0;0;0;0;0;2692;26036;249;3610"
+ },
+ {
+   "FIELD1": "5707;104;2017-10-09 16:58:00;Charging;20.00;Europe/Zurich;ch;412952;421300;2746648;86072;ac;Good;3.92;27.80;0.15;760338;561220;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;0;0;0;0;0;2692;26036;249;3610"
+ },
+ {
+   "FIELD1": "5708;104;2017-10-09 16:57:50;Charging;20.00;Europe/Zurich;ch;422540;427012;2746648;68076;ac;Good;3.98;27.80;0.01;760329;561220;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;0;0;0;0;0;2692;26036;249;3610"
+ },
+ {
+   "FIELD1": "5710;104;2017-10-09 16:58:50;Charging;21.00;Europe/Zurich;ch;424976;447328;2746648;46868;ac;Good;3.96;27.90;0.01;760389;561259;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;0;0;0;0;0;2692;26036;249;3610"
+ },
+ {
+   "FIELD1": "5713;104;2017-10-09 16:59:58;Charging;22.00;Europe/Zurich;ch;425496;446092;2746648;47976;ac;Good;3.97;27.90;0.54;760457;561318;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;0;0;0;0;0;2692;26036;249;3610"
+ },
+ {
+   "FIELD1": "5716;104;2017-10-09 17:01:05;Charging;23.00;Europe/Zurich;ch;429960;440932;2746648;48528;ac;Good;3.98;27.90;0.01;760523;561378;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;0;0;0;0;0;2692;26036;249;3610"
+ },
+ {
+   "FIELD1": "5718;104;2017-10-09 17:02:12;Charging;24.00;Europe/Zurich;ch;433744;436476;2746648;56168;ac;Good;4.00;27.80;0.23;760590;561437;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;0;0;0;0;0;2692;26036;249;3610"
+ },
+ {
+   "FIELD1": "5721;104;2017-10-09 18:01:02;Charging;75.00;Europe/Zurich;ch;425900;441188;2746648;47192;ac;Good;4.34;28.00;0.44;764121;564571;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2692;26036;249;3610"
+ },
+ {
+   "FIELD1": "5724;104;2017-10-09 18:01:30;Charging;76.00;Europe/Zurich;ch;431524;440032;2746648;55220;ac;Good;4.35;27.90;0.62;764150;564571;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2692;26036;249;3610"
+ },
+ {
+   "FIELD1": "5727;104;2017-10-09 18:03:03;Charging;77.00;Europe/Zurich;ch;451784;434184;2746648;48168;ac;Good;4.35;27.70;0.01;764243;564606;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2692;26036;249;3610"
+ },
+ {
+   "FIELD1": "5730;104;2017-10-09 18:04:25;Charging;78.00;Europe/Zurich;ch;433760;433704;2746648;62208;ac;Good;4.35;27.60;0.27;764324;564656;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2692;26036;249;3610"
+ },
+ {
+   "FIELD1": "5734;104;2017-10-09 18:06:06;Charging;79.00;Europe/Zurich;ch;431820;443848;2746648;48528;ac;Good;4.36;27.40;0.01;764425;564714;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2692;26036;249;3610"
+ },
+ {
+   "FIELD1": "5737;104;2017-10-09 18:07:32;Charging;80.00;Europe/Zurich;ch;436048;435332;2746648;48248;ac;Good;4.35;27.10;0.58;764511;564790;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2692;26036;249;3610"
+ },
+ {
+   "FIELD1": "5740;104;2017-10-09 18:09:24;Charging;81.00;Europe/Zurich;ch;443076;442308;2746648;48532;ac;Good;4.36;26.90;0.28;764623;564892;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2691;26036;249;3610"
+ },
+ {
+   "FIELD1": "5742;104;2017-10-09 18:11:21;Charging;82.00;Europe/Zurich;ch;443960;443240;2746648;46968;ac;Good;4.36;26.60;0.40;764740;565001;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2691;26036;249;3610"
+ },
+ {
+   "FIELD1": "5743;104;2017-10-09 18:13:37;Charging;83.00;Europe/Zurich;ch;446988;438008;2746648;47796;ac;Good;4.36;26.30;0.46;764876;565123;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2691;26036;249;3610"
+ },
+ {
+   "FIELD1": "5744;104;2017-10-09 18:15:33;Charging;84.00;Europe/Zurich;ch;439124;438896;2746648;57064;ac;Good;4.36;26.20;0.21;764992;565181;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2691;26036;249;3610"
+ },
+ {
+   "FIELD1": "5745;104;2017-10-09 18:16:08;Charging;85.00;Europe/Zurich;ch;438156;437984;2746648;58748;ac;Good;4.36;26.10;0.51;765028;565212;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2691;26036;249;3610"
+ },
+ {
+   "FIELD1": "5746;104;2017-10-09 18:17:15;Charging;86.00;Europe/Zurich;ch;443704;442520;2746648;47216;ac;Good;4.35;26.00;0.69;765094;565274;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2691;26036;249;3610"
+ },
+ {
+   "FIELD1": "5747;104;2017-10-09 18:18:04;Charging;87.00;Europe/Zurich;ch;443196;439428;2746648;50780;ac;Good;4.35;25.90;1.02;765143;565319;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2691;26036;249;3610"
+ },
+ {
+   "FIELD1": "36116;104;2017-10-09 18:18:17;Charging;87.00;Europe/Zurich;ch;421916;427044;2746648;83808;ac;Good;4.35;25.90;0.14;765155;565320;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2691;26036;249;3610"
+ },
+ {
+   "FIELD1": "36119;104;2017-10-09 18:18:08;Charging;87.00;Europe/Zurich;ch;430508;424480;2746648;79104;ac;Good;4.35;25.90;0.01;765148;565319;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2691;26036;249;3610"
+ },
+ {
+   "FIELD1": "36122;104;2017-10-09 18:18:15;Charging;87.00;Europe/Zurich;ch;423264;427920;2746648;81832;ac;Good;4.35;25.90;0.01;765153;565319;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2691;26036;249;3610"
+ },
+ {
+   "FIELD1": "36125;104;2017-10-09 18:19:11;Charging;88.00;Europe/Zurich;ch;421916;430532;2746648;79536;ac;Good;4.35;25.80;0.01;765210;565364;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2691;26036;249;3610"
+ },
+ {
+   "FIELD1": "36128;104;2017-10-09 18:20:04;Charging;89.00;Europe/Zurich;ch;423288;440016;2746648;66016;ac;Good;4.35;25.70;0.32;765262;565409;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2691;26036;249;3610"
+ },
+ {
+   "FIELD1": "36132;104;2017-10-09 18:21:26;Charging;90.00;Europe/Zurich;ch;426356;455384;2746648;51516;ac;Good;4.35;25.60;0.01;765344;565478;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2691;26036;249;3610"
+ },
+ {
+   "FIELD1": "36134;104;2017-10-09 18:23:07;Charging;91.00;Europe/Zurich;ch;427500;452996;2746648;52668;ac;Good;4.35;25.50;0.18;765446;565565;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2691;26036;249;3610"
+ },
+ {
+   "FIELD1": "44710;104;2017-10-10 10:05:43;Charging;26.00;Europe/Zurich;ch;453460;453688;2746648;48612;ac;Good;3.65;31.40;0.61;822003;609170;WIFI;WIFI;lte;disconnected;none;enabled;-66;72;0;-1;0;0;0;0;0;0;2662;26036;249;3610"
+ },
+ {
+   "FIELD1": "44715;104;2017-10-09 20:56:29;Discharging;97.00;Europe/Zurich;ch;507988;508440;2746648;48016;unplugged;Good;4.20;24.50;0.34;774649;573531;disconnected;WIFI;lte;disconnected;none;enabled;-64;104;0;-1;0;0;0;0;0;0;2657;26036;249;3610"
+ },
+ {
+   "FIELD1": "44721;104;2017-10-09 20:26:17;Discharging;98.00;Europe/Zurich;ch;505008;506908;2746648;46936;unplugged;Good;4.16;26.10;0.30;772836;572129;WIFI;WIFI;lte;disconnected;none;enabled;-63;104;1;-1;0;0;0;0;0;0;2661;26036;249;3610"
+ },
+ {
+   "FIELD1": "44726;104;2017-10-10 10:05:48;Charging;26.00;Europe/Zurich;ch;459460;463380;2746648;46944;ac;Good;3.80;31.00;0.75;822008;609170;WIFI;WIFI;lte;disconnected;none;enabled;-66;72;0;-1;0;0;0;0;0;0;2662;26036;249;3610"
+ },
+ {
+   "FIELD1": "44730;104;2017-10-09 20:25:16;Discharging;99.00;Europe/Zurich;ch;433024;441752;2746648;46844;unplugged;Good;4.16;25.50;0.56;772776;572129;WIFI;WIFI;lte;disconnected;none;enabled;-62;130;1;-1;0;0;0;0;0;0;2669;26036;249;3610"
+ },
+ {
+   "FIELD1": "44735;104;2017-10-09 18:38:33;Full;100.00;Europe/Zurich;ch;445680;445640;2746648;48848;ac;Good;4.36;24.30;0.01;766372;566407;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2691;26036;249;3610"
+ },
+ {
+   "FIELD1": "44742;104;2017-10-09 18:23:07;Charging;91.00;Europe/Zurich;ch;427500;452996;2746648;52668;ac;Good;4.35;25.50;0.18;765446;565565;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2691;26036;249;3610"
+ },
+ {
+   "FIELD1": "44747;104;2017-10-09 18:24:06;Charging;92.00;Europe/Zurich;ch;427340;450496;2746648;54056;ac;Good;4.36;25.40;0.29;765504;565617;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2691;26036;249;3610"
+ },
+ {
+   "FIELD1": "44755;104;2017-10-09 18:25:30;Charging;93.00;Europe/Zurich;ch;429180;454008;2746648;48744;ac;Good;4.36;25.30;0.20;765589;565694;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2691;26036;249;3610"
+ },
+ {
+   "FIELD1": "44762;104;2017-10-09 18:26:42;Charging;94.00;Europe/Zurich;ch;445028;441380;2746648;49620;ac;Good;4.36;25.20;0.01;765661;565759;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2691;26036;249;3610"
+ },
+ {
+   "FIELD1": "44769;104;2017-10-09 18:28:42;Charging;95.00;Europe/Zurich;ch;443664;442976;2746648;48472;ac;Good;4.36;25.00;0.68;765781;565869;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2691;26036;249;3610"
+ },
+ {
+   "FIELD1": "44774;104;2017-10-09 18:30:24;Charging;96.00;Europe/Zurich;ch;444052;443664;2746648;48576;ac;Good;4.35;25.00;0.47;765883;565965;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2691;26036;249;3610"
+ },
+ {
+   "FIELD1": "44779;104;2017-10-09 18:32:02;Charging;97.00;Europe/Zurich;ch;441524;441452;2746648;54212;ac;Good;4.35;24.80;0.56;765981;566057;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2691;26036;249;3610"
+ },
+ {
+   "FIELD1": "44787;104;2017-10-09 18:33:58;Charging;98.00;Europe/Zurich;ch;443200;443748;2746648;48020;ac;Good;4.36;24.60;0.32;766097;566163;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2691;26036;249;3610"
+ },
+ {
+   "FIELD1": "44790;104;2017-10-09 18:36:15;Charging;99.00;Europe/Zurich;ch;442992;443076;2746648;49492;ac;Good;4.36;24.50;0.45;766234;566286;WIFI;WIFI;lte;disconnected;none;enabled;-65;104;0;-1;0;1;0;0;0;0;2691;26036;249;3610"
+ },
+ {
+   "FIELD1": "44795;104;2017-10-10 12:10:17;Discharging;100.00;Europe/Zurich;ch;529056;526992;2746648;42468;unplugged;Good;4.36;23.30;0.60;829477;615464;WIFI;WIFI;lte;disconnected;none;enabled;-58;104;1;-1;0;0;0;0;0;0;2054;26036;249;3610"
+ },
+ {
+   "FIELD1": "44801;104;2017-10-10 12:12:45;Discharging;99.00;Europe/Zurich;ch;496644;497600;2746648;47608;unplugged;Good;4.17;25.30;0.37;829624;615464;WIFI;WIFI;lte;disconnected;none;enabled;-69;58;1;-1;0;0;0;0;0;0;1921;26036;249;3610"
+ },
+ {
+   "FIELD1": "44802;104;2017-10-10 12:15:45;Discharging;98.00;Europe/Zurich;ch;497256;517488;2746648;73868;unplugged;Good;4.11;27.10;0.29;829804;615464;WIFI;WIFI;lte;disconnected;none;enabled;-62;104;1;-1;0;0;0;0;0;0;1901;26036;249;3610"
+ },
+ {
+   "FIELD1": "44803;104;2017-10-10 12:31:59;Discharging;97.00;Europe/Zurich;ch;534892;534408;2746648;48832;unplugged;Good;4.23;25.80;0.01;830779;616057;disconnected;WIFI;lte;disconnected;none;enabled;-50;144;0;-1;0;0;0;0;0;0;1885;26036;249;3610"
+ },
+ {
+   "FIELD1": "44805;104;2017-10-10 13:16:59;Discharging;96.00;Europe/Zurich;ch;540680;565608;2746648;47132;unplugged;Good;4.21;25.30;0.01;833478;618104;WIFI;WIFI;lte;disconnected;none;enabled;-50;104;0;-1;0;0;0;0;0;0;1883;26036;249;3610"
+ },
+ {
+   "FIELD1": "88265;104;2017-10-10 13:17:29;Discharging;96.00;Europe/Zurich;ch;551360;551420;2746648;48744;unplugged;Good;4.20;25.20;0.01;833509;618104;WIFI;WIFI;lte;disconnected;none;enabled;-50;104;0;-1;0;0;0;0;0;0;1883;26036;249;3610"
+ },
+ {
+   "FIELD1": "88267;104;2017-10-10 13:51:59;Discharging;95.00;Europe/Zurich;ch;550460;550648;2746648;48136;unplugged;Good;4.20;24.70;0.54;835579;619705;disconnected;WIFI;lte;disconnected;none;enabled;-50;104;0;-1;0;0;0;0;0;0;1883;26036;249;3610"
+ },
+ {
+   "FIELD1": "88270;104;2017-10-10 13:54:32;Discharging;94.00;Europe/Zurich;ch;568160;579148;2746648;55464;unplugged;Good;3.97;26.40;0.52;835731;619736;WIFI;WIFI;lte;disconnected;none;enabled;-71;78;1;-1;0;0;0;0;0;0;1874;26036;249;3610"
+ },
+ {
+   "FIELD1": "88272;104;2017-10-10 13:56:32;Discharging;93.00;Europe/Zurich;ch;543004;548172;2746648;50236;unplugged;Good;3.79;27.50;0.31;835851;619736;WIFI;WIFI;lte;disconnected;none;enabled;-64;78;1;-1;0;0;0;0;0;0;1873;26036;249;3610"
+ },
+ {
+   "FIELD1": "88287;104;2017-10-10 13:58:03;Discharging;92.00;Europe/Zurich;ch;483796;491836;2746648;79640;unplugged;Good;3.92;28.60;0.45;835941;619736;WIFI;WIFI;lte;disconnected;none;enabled;-71;104;1;-1;0;0;0;0;0;0;1905;26036;249;3610"
+ },
+ {
+   "FIELD1": "88460;104;2017-10-10 23:55:47;Charging;29.00;Europe/Zurich;ch;594916;594992;2746648;49668;ac;Good;3.69;30.10;0.51;871806;644051;WIFI;WIFI;lte;disconnected;none;enabled;-65;52;1;-1;0;0;0;0;0;0;2041;26036;249;3610"
+ },
+ {
+   "FIELD1": "88487;104;2017-10-10 17:04:56;Discharging;68.00;Europe/Zurich;ch;647972;637140;2746648;48208;unplugged;Good;3.59;18.60;0.44;847154;626646;lte;MOBILE;lte;connected;inout;enabled;-127;-1;1;-1;0;0;0;0;0;0;2262;26036;249;3610"
+ },
+ {
+   "FIELD1": "88509;104;2017-10-10 23:56:01;Charging;29.00;Europe/Zurich;ch;563012;581304;2746648;48044;ac;Good;3.90;30.40;0.05;871821;644051;WIFI;WIFI;lte;disconnected;none;enabled;-62;104;0;-1;0;0;0;0;0;0;2041;26036;249;3610"
+ },
+ {
+   "FIELD1": "88511;104;2017-10-10 23:56:08;Charging;29.00;Europe/Zurich;ch;561604;556948;2746648;67972;ac;Good;3.86;30.60;0.28;871827;644055;WIFI;WIFI;lte;disconnected;none;enabled;-62;104;0;-1;0;0;0;0;0;0;2041;26036;249;3610"
+ },
+ {
+   "FIELD1": "88513;104;2017-10-10 13:58:03;Discharging;92.00;Europe/Zurich;ch;483796;491836;2746648;79640;unplugged;Good;3.92;28.60;0.45;835941;619736;WIFI;WIFI;lte;disconnected;none;enabled;-71;104;1;-1;0;0;0;0;0;0;1905;26036;249;3610"
+ },
+ {
+   "FIELD1": "88515;104;2017-10-10 14:00:03;Discharging;91.00;Europe/Zurich;ch;497028;504548;2746648;47308;unplugged;Good;3.94;30.00;0.43;836062;619736;WIFI;WIFI;lte;disconnected;none;enabled;-67;78;1;-1;0;0;0;0;0;0;1851;26036;249;3610"
+ },
+ {
+   "FIELD1": "88516;104;2017-10-10 14:02:03;Discharging;90.00;Europe/Zurich;ch;467560;472012;2746648;73144;unplugged;Good;3.98;31.50;0.40;836182;619736;WIFI;WIFI;lte;disconnected;none;enabled;-64;144;1;-1;0;0;0;0;0;0;1849;26036;249;3610"
+ },
+ {
+   "FIELD1": "88517;104;2017-10-10 14:04:03;Discharging;89.00;Europe/Zurich;ch;477280;477016;2746648;44220;unplugged;Good;3.89;32.20;0.70;836302;619736;WIFI;WIFI;lte;disconnected;none;enabled;-64;117;1;-1;0;0;0;0;0;0;1838;26036;249;3610"
+ },
+ {
+   "FIELD1": "88518;104;2017-10-10 14:06:04;Discharging;88.00;Europe/Zurich;ch;478580;487140;2746648;47284;unplugged;Good;4.00;32.00;0.44;836423;619736;WIFI;WIFI;lte;disconnected;none;enabled;-65;117;1;-1;0;0;0;0;0;0;1838;26036;249;3610"
+ },
+ {
+   "FIELD1": "88520;104;2017-10-10 14:08:04;Discharging;87.00;Europe/Zurich;ch;696188;696180;2746648;48264;unplugged;Good;3.85;32.30;0.42;836543;619736;WIFI;WIFI;lte;disconnected;none;enabled;-70;58;1;-1;0;0;0;0;0;0;2299;26036;249;3610"
+ },
+ {
+   "FIELD1": "88522;104;2017-10-10 14:11:04;Discharging;86.00;Europe/Zurich;ch;698804;657768;2746648;48232;unplugged;Good;4.03;32.70;0.26;836723;619736;WIFI;WIFI;lte;disconnected;none;enabled;-64;78;1;-1;0;0;0;0;0;0;2298;26036;249;3610"
+ },
+ {
+   "FIELD1": "88524;104;2017-10-10 14:16:05;Discharging;85.00;Europe/Zurich;ch;678544;665252;2746648;60628;unplugged;Good;4.04;32.00;0.23;837024;619736;WIFI;WIFI;lte;disconnected;none;enabled;-65;117;1;-1;0;0;0;0;0;0;2299;26036;249;3610"
+ },
+ {
+   "FIELD1": "88545;104;2017-10-10 14:20:05;Discharging;84.00;Europe/Zurich;ch;661676;652440;2746648;48588;unplugged;Good;4.03;32.10;0.27;837264;619736;WIFI;WIFI;lte;disconnected;none;enabled;-62;104;1;-1;0;0;0;0;0;0;2299;26036;249;3610"
+ },
+ {
+   "FIELD1": "88594;104;2017-10-10 14:36:59;Discharging;83.00;Europe/Zurich;ch;623988;624756;2746648;49032;unplugged;Good;4.08;26.10;0.00;838279;620414;disconnected;WIFI;lte;disconnected;none;enabled;-60;144;0;-1;0;0;0;0;0;0;2297;26036;249;3610"
+ },
+ {
+   "FIELD1": "98796;104;2017-10-10 23:58:18;Charging;31.00;Europe/Zurich;ch;615700;614732;2746648;48608;ac;Good;3.93;30.60;0.01;871957;644078;WIFI;WIFI;lte;disconnected;none;enabled;-72;117;0;-1;0;0;0;0;0;0;2128;26036;249;3610"
+ },
+ {
+   "FIELD1": "98797;104;2017-10-10 23:58:23;Charging;31.00;Europe/Zurich;ch;638004;594172;2746648;50692;ac;Good;3.89;30.60;0.79;871962;644080;WIFI;WIFI;lte;disconnected;none;enabled;-72;117;0;-1;0;0;0;0;0;0;2128;26036;249;3610"
+ },
+ {
+   "FIELD1": "98800;104;2017-10-10 23:58:33;Charging;31.00;Europe/Zurich;ch;619396;590884;2746648;76944;ac;Good;3.90;30.70;0.01;871972;644081;WIFI;WIFI;lte;disconnected;none;enabled;-72;117;0;-1;0;0;0;0;0;0;2128;26036;249;3610"
+ },
+ {
+   "FIELD1": "98803;104;2017-10-10 23:58:43;Charging;31.00;Europe/Zurich;ch;655912;594056;2746648;48960;ac;Good;3.91;31.00;0.19;871982;644081;WIFI;WIFI;lte;disconnected;none;enabled;-63;52;1;-1;0;0;0;0;0;0;2128;26036;249;3610"
+ },
+ {
+   "FIELD1": "98807;104;2017-10-10 23:56:58;Charging;30.00;Europe/Zurich;ch;587660;587596;2746648;47608;ac;Good;3.94;30.70;0.01;871878;644061;WIFI;WIFI;lte;disconnected;none;enabled;-62;104;0;-1;0;0;0;0;0;0;2041;26036;249;3610"
+ },
+ {
+   "FIELD1": "98809;104;2017-10-10 23:56:21;Charging;29.00;Europe/Zurich;ch;571372;559964;2746648;61524;ac;Good;3.88;30.70;0.67;871840;644057;WIFI;WIFI;lte;disconnected;none;enabled;-62;104;0;-1;0;0;0;0;0;0;2041;26036;249;3610"
+ },
+ {
+   "FIELD1": "98811;104;2017-10-10 17:03:25;Discharging;69.00;Europe/Zurich;ch;593172;623072;2746648;94100;unplugged;Good;3.65;20.00;0.26;847064;626646;lte;MOBILE;lte;connected;inout;enabled;-127;-1;1;-1;0;0;0;0;0;0;2262;26036;249;3610"
+ },
+ {
+   "FIELD1": "98812;104;2017-10-10 17:01:55;Discharging;70.00;Europe/Zurich;ch;697176;684748;2746648;61796;unplugged;Good;3.66;19.70;0.25;846974;626646;lte;MOBILE;lte;connected;inout;enabled;-127;-1;1;-1;0;0;0;0;0;0;2279;26036;249;3610"
+ },
+ {
+   "FIELD1": "98815;104;2017-10-10 23:58:53;Charging;31.00;Europe/Zurich;ch;643680;587344;2746648;48212;ac;Good;3.94;31.20;0.30;871991;644081;WIFI;WIFI;lte;disconnected;none;enabled;-62;65;1;-1;0;0;0;0;0;0;2128;26036;249;3610"
+ },
+ {
+   "FIELD1": "98818;104;2017-10-10 16:59:55;Discharging;71.00;Europe/Zurich;ch;668332;658440;2746648;62964;unplugged;Good;3.70;20.40;0.22;846854;626646;lte;MOBILE;lte;connected;inout;enabled;-127;-1;1;-1;0;0;0;0;0;0;2279;26036;249;3610"
+ },
+ {
+   "FIELD1": "98821;104;2017-10-10 23:59:03;Charging;31.00;Europe/Zurich;ch;602060;599328;2746648;63828;ac;Good;3.87;31.40;0.32;872001;644081;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2128;26036;249;3610"
+ },
+ {
+   "FIELD1": "98827;104;2017-10-10 23:59:09;Charging;31.00;Europe/Zurich;ch;603824;597912;2746648;59356;ac;Good;3.91;31.30;0.01;872008;644082;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2128;26036;249;3610"
+ },
+ {
+   "FIELD1": "98829;104;2017-10-10 23:59:13;Charging;31.00;Europe/Zurich;ch;613804;599108;2746648;47520;ac;Good;3.90;31.30;0.01;872012;644083;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2128;26036;249;3610"
+ },
+ {
+   "FIELD1": "98834;104;2017-10-10 14:36:59;Discharging;83.00;Europe/Zurich;ch;623988;624756;2746648;49032;unplugged;Good;4.08;26.10;0.00;838279;620414;disconnected;WIFI;lte;disconnected;none;enabled;-60;144;0;-1;0;0;0;0;0;0;2297;26036;249;3610"
+ },
+ {
+   "FIELD1": "98838;104;2017-10-10 15:22:29;Discharging;82.00;Europe/Zurich;ch;621260;631960;2746648;49400;unplugged;Good;4.08;23.80;0.00;841008;622434;disconnected;WIFI;lte;disconnected;none;enabled;-60;144;0;-1;0;0;0;0;0;0;2297;26036;249;3610"
+ },
+ {
+   "FIELD1": "98842;104;2017-10-10 16:26:56;Discharging;81.00;Europe/Zurich;ch;651840;652292;2746648;47392;unplugged;Good;4.04;23.80;0.41;844875;626032;WIFI;WIFI;lte;disconnected;none;enabled;-61;78;0;-1;0;0;0;0;0;0;2298;26036;249;3610"
+ },
+ {
+   "FIELD1": "98849;104;2017-10-10 16:34:58;Discharging;80.00;Europe/Zurich;ch;621864;613068;2746648;48244;unplugged;Good;3.88;23.20;0.47;845357;626277;lte;MOBILE;lte;connected;inout;enabled;-127;-1;1;-1;0;0;0;0;0;0;2297;26036;249;3610"
+ },
+ {
+   "FIELD1": "98852;104;2017-10-10 16:41:58;Discharging;79.00;Europe/Zurich;ch;665376;642416;2746648;49272;unplugged;Good;4.01;23.60;0.40;845777;626485;lte;MOBILE;lte;connected;none;enabled;-127;-1;0;-1;0;0;0;0;0;0;2298;26036;249;3610"
+ },
+ {
+   "FIELD1": "98854;104;2017-10-10 16:45:48;Discharging;78.00;Europe/Zurich;ch;709312;704700;2746648;48016;unplugged;Good;3.83;23.00;0.34;846007;626597;lte;MOBILE;lte;connected;inout;enabled;-127;-1;1;-1;0;0;0;0;0;0;2297;26036;249;3610"
+ },
+ {
+   "FIELD1": "98856;104;2017-10-10 16:48:55;Discharging;77.00;Europe/Zurich;ch;638092;638144;2746648;47492;unplugged;Good;3.77;21.50;0.32;846194;626644;lte;MOBILE;lte;connected;none;enabled;-127;-1;1;-1;0;0;0;0;0;0;2297;26036;249;3610"
+ },
+ {
+   "FIELD1": "98859;104;2017-10-10 16:51:24;Discharging;76.00;Europe/Zurich;ch;671592;671592;2746648;47944;unplugged;Good;3.76;21.10;0.32;846343;626646;lte;MOBILE;lte;connected;inout;enabled;-127;-1;1;-1;0;0;0;0;0;0;2297;26036;249;3610"
+ },
+ {
+   "FIELD1": "98861;104;2017-10-10 16:53:25;Discharging;75.00;Europe/Zurich;ch;664224;659220;2746648;48416;unplugged;Good;3.73;20.60;0.47;846463;626646;lte;MOBILE;lte;connected;inout;enabled;-127;-1;1;-1;0;0;0;0;0;0;2296;26036;249;3610"
+ },
+ {
+   "FIELD1": "98862;104;2017-10-10 16:55:25;Discharging;74.00;Europe/Zurich;ch;637076;614592;2746648;47288;unplugged;Good;3.74;20.50;0.30;846583;626646;lte;MOBILE;lte;connected;none;enabled;-127;-1;1;-1;0;0;0;0;0;0;2295;26036;249;3610"
+ },
+ {
+   "FIELD1": "98865;104;2017-10-10 16:56:55;Discharging;73.00;Europe/Zurich;ch;554856;580248;2746648;67200;unplugged;Good;3.62;21.20;0.60;846674;626646;lte;MOBILE;lte;connected;none;enabled;-127;-1;1;-1;0;0;0;0;0;0;2282;26036;249;3610"
+ },
+ {
+   "FIELD1": "98866;104;2017-10-10 16:57:55;Discharging;72.00;Europe/Zurich;ch;637240;654048;2746648;69024;unplugged;Good;3.65;21.10;0.34;846734;626646;lte;MOBILE;lte;connected;inout;enabled;-127;-1;1;-1;0;0;0;0;0;0;2279;26036;249;3610"
+ },
+ {
+   "FIELD1": "98867;104;2017-10-10 23:59:22;Charging;31.00;Europe/Zurich;ch;612668;612300;2746648;48428;ac;Good;3.92;31.20;0.22;872021;644086;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2128;26036;249;3610"
+ },
+ {
+   "FIELD1": "98868;104;2017-10-10 23:59:50;Charging;32.00;Europe/Zurich;ch;596652;606596;2746648;74500;ac;Good;3.93;31.00;0.01;872049;644102;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2128;26036;249;3610"
+ },
+ {
+   "FIELD1": "98869;104;2017-10-11 00:01:28;Charging;33.00;Europe/Zurich;ch;615940;615808;2746648;48256;ac;Good;3.96;30.10;0.24;872147;644179;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2128;26036;249;3610"
+ },
+ {
+   "FIELD1": "98870;104;2017-10-11 00:02:19;Charging;34.00;Europe/Zurich;ch;603228;617628;2746648;80672;ac;Good;3.98;29.70;0.01;872197;644179;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2128;26036;249;3610"
+ },
+ {
+   "FIELD1": "98871;104;2017-10-11 00:03:55;Charging;35.00;Europe/Zurich;ch;613248;619456;2746648;61048;ac;Good;3.98;29.20;0.55;872294;644255;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2128;26036;249;3610"
+ },
+ {
+   "FIELD1": "98872;104;2017-10-11 00:04:48;Charging;36.00;Europe/Zurich;ch;603240;609668;2746648;87660;ac;Good;3.96;28.90;0.24;872347;644297;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2126;26036;249;3610"
+ },
+ {
+   "FIELD1": "98873;104;2017-10-11 00:06:04;Charging;37.00;Europe/Zurich;ch;614264;618624;2746648;67648;ac;Good;3.98;28.70;0.44;872423;644364;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2126;26036;249;3610"
+ },
+ {
+   "FIELD1": "98874;104;2017-10-11 00:07:20;Charging;38.00;Europe/Zurich;ch;618832;641284;2746648;58304;ac;Good;4.03;28.40;0.01;872499;644385;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2126;26036;249;3610"
+ },
+ {
+   "FIELD1": "98875;104;2017-10-11 00:08:35;Charging;39.00;Europe/Zurich;ch;631608;631520;2746648;49052;ac;Good;3.98;28.30;0.01;872574;644442;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2126;26036;249;3610"
+ },
+ {
+   "FIELD1": "98876;104;2017-10-11 00:09:54;Charging;40.00;Europe/Zurich;ch;610600;602732;2746648;109324;ac;Good;4.00;28.20;0.78;872653;644509;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2128;26036;249;3610"
+ },
+ {
+   "FIELD1": "98877;104;2017-10-11 00:11:04;Charging;41.00;Europe/Zurich;ch;613168;601192;2746648;108420;ac;Good;4.01;28.00;0.53;872723;644575;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2128;26036;249;3610"
+ },
+ {
+   "FIELD1": "98878;104;2017-10-11 00:12:20;Charging;42.00;Europe/Zurich;ch;606484;623544;2746648;102676;ac;Good;4.05;27.90;0.01;872798;644598;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2128;26036;249;3610"
+ },
+ {
+   "FIELD1": "98879;104;2017-10-11 00:13:37;Charging;43.00;Europe/Zurich;ch;615468;626164;2746648;77436;ac;Good;4.02;27.80;0.40;872876;644660;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2128;26036;249;3610"
+ },
+ {
+   "FIELD1": "98880;104;2017-10-11 00:14:44;Charging;44.00;Europe/Zurich;ch;617224;625304;2746648;75968;ac;Good;4.04;27.70;0.24;872942;644721;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2128;26036;249;3610"
+ },
+ {
+   "FIELD1": "98881;104;2017-10-11 00:16:04;Charging;45.00;Europe/Zurich;ch;602856;625044;2746648;90540;ac;Good;4.03;27.60;0.24;873022;644795;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2128;26036;249;3610"
+ },
+ {
+   "FIELD1": "98882;104;2017-10-11 00:17:19;Charging;46.00;Europe/Zurich;ch;608388;642652;2746648;78488;ac;Good;4.08;27.60;0.01;873097;644818;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2128;26036;249;3610"
+ },
+ {
+   "FIELD1": "98883;104;2017-10-11 00:18:45;Charging;47.00;Europe/Zurich;ch;610072;644320;2746648;72196;ac;Good;4.05;27.50;0.34;873183;644891;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2128;26036;249;3610"
+ },
+ {
+   "FIELD1": "98884;104;2017-10-11 00:19:45;Charging;48.00;Europe/Zurich;ch;608072;642460;2746648;75868;ac;Good;4.05;27.50;0.25;873243;644949;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2128;26036;249;3610"
+ },
+ {
+   "FIELD1": "98885;104;2017-10-11 00:21:05;Charging;49.00;Europe/Zurich;ch;607456;641856;2746648;79944;ac;Good;4.07;27.50;0.32;873323;645023;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2128;26036;249;3610"
+ },
+ {
+   "FIELD1": "98886;104;2017-10-11 00:22:09;Charging;50.00;Europe/Zurich;ch;612576;646980;2746648;79360;ac;Good;4.11;27.50;0.37;873387;645046;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "98887;104;2017-10-11 00:23:22;Charging;51.00;Europe/Zurich;ch;614668;653148;2746648;64048;ac;Good;4.08;27.40;0.23;873461;645097;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "98888;104;2017-10-11 00:24:50;Charging;52.00;Europe/Zurich;ch;624856;654084;2746648;48024;ac;Good;4.08;27.40;0.21;873548;645178;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "98889;104;2017-10-11 00:25:55;Charging;53.00;Europe/Zurich;ch;627524;649984;2746648;48412;ac;Good;4.10;27.40;0.36;873613;645240;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "98890;104;2017-10-11 00:27:46;Charging;54.00;Europe/Zurich;ch;638132;638584;2746648;42340;ac;Good;4.10;27.50;0.38;873724;645286;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "101329;104;2017-10-11 06:01:53;Discharging;100.00;Europe/Zurich;ch;641332;641216;2746648;42344;unplugged;Good;4.27;22.10;0.53;893773;662802;WIFI;WIFI;lte;disconnected;none;enabled;-62;78;1;-1;0;0;0;0;0;0;1977;26036;249;3610"
+ },
+ {
+   "FIELD1": "101330;104;2017-10-11 01:04:06;Charging;82.00;Europe/Zurich;ch;683908;587228;2746648;48548;ac;Good;4.30;27.30;0.01;875905;646841;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2060;26036;249;3610"
+ },
+ {
+   "FIELD1": "101331;104;2017-10-11 01:02:23;Charging;81.00;Europe/Zurich;ch;633488;633868;2746648;45568;ac;Good;4.31;27.10;0.67;875802;646820;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2095;26036;249;3610"
+ },
+ {
+   "FIELD1": "101332;104;2017-10-11 01:00:38;Charging;80.00;Europe/Zurich;ch;617072;658788;2746648;61500;ac;Good;4.32;27.10;0.01;875697;646793;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "101333;104;2017-10-11 00:59:38;Charging;79.00;Europe/Zurich;ch;644908;640300;2746648;48872;ac;Good;4.31;27.10;0.01;875637;646756;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "101334;104;2017-10-11 00:58:07;Charging;78.00;Europe/Zurich;ch;643920;640620;2746648;51380;ac;Good;4.29;27.10;0.26;875546;646668;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "101335;104;2017-10-11 00:56:48;Charging;77.00;Europe/Zurich;ch;648644;648788;2746648;47984;ac;Good;4.31;27.10;0.35;875467;646632;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "101336;104;2017-10-11 00:55:33;Charging;76.00;Europe/Zurich;ch;646900;643764;2746648;50680;ac;Good;4.28;27.20;0.01;875392;646579;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "101337;104;2017-10-11 00:54:39;Charging;75.00;Europe/Zurich;ch;634924;637724;2746648;63208;ac;Good;4.27;27.20;0.01;875338;646530;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "101338;104;2017-10-11 00:52:59;Charging;74.00;Europe/Zurich;ch;630696;644684;2746648;60140;ac;Good;4.26;27.30;0.01;875238;646435;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "101339;104;2017-10-11 00:51:39;Charging;73.00;Europe/Zurich;ch;637916;643944;2746648;54464;ac;Good;4.28;27.30;0.33;875159;646406;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "101340;104;2017-10-11 06:02:06;Discharging;100.00;Europe/Zurich;ch;636036;634576;2746648;48076;unplugged;Good;4.16;22.20;0.35;893785;662802;WIFI;WIFI;lte;disconnected;none;enabled;-71;78;0;-1;0;0;0;0;0;0;1977;26036;249;3610"
+ },
+ {
+   "FIELD1": "101341;104;2017-10-11 00:50:21;Charging;72.00;Europe/Zurich;ch;640120;646580;2746648;48536;ac;Good;4.24;27.30;0.01;875080;646342;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "101342;104;2017-10-11 06:02:09;Discharging;100.00;Europe/Zurich;ch;602696;621444;2746648;99900;unplugged;Good;4.19;22.20;0.23;893787;662802;WIFI;WIFI;lte;disconnected;none;enabled;-71;78;0;-1;0;0;0;0;0;0;1977;26036;249;3610"
+ },
+ {
+   "FIELD1": "101343;104;2017-10-11 00:49:11;Charging;71.00;Europe/Zurich;ch;641520;640952;2746648;48184;ac;Good;4.22;27.30;0.21;875010;646275;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "101344;104;2017-10-11 00:47:58;Charging;70.00;Europe/Zurich;ch;639104;639288;2746648;47900;ac;Good;4.22;27.30;0.45;874936;646204;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "101345;104;2017-10-11 00:46:38;Charging;69.00;Europe/Zurich;ch;641948;645464;2746648;51624;ac;Good;4.24;27.30;0.00;874856;646178;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "101346;104;2017-10-11 00:45:19;Charging;68.00;Europe/Zurich;ch;639996;641952;2746648;48076;ac;Good;4.18;27.40;0.47;874778;646116;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "101347;104;2017-10-11 06:02:15;Discharging;100.00;Europe/Zurich;ch;610048;616144;2746648;98200;unplugged;Good;4.14;22.20;0.18;893794;662803;WIFI;WIFI;lte;disconnected;none;enabled;-71;78;0;-1;0;0;0;0;0;0;1977;26036;249;3610"
+ },
+ {
+   "FIELD1": "101348;104;2017-10-11 00:44:25;Charging;67.00;Europe/Zurich;ch;646512;636356;2746648;53396;ac;Good;4.19;27.40;0.01;874724;646064;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "101349;104;2017-10-11 00:42:59;Charging;66.00;Europe/Zurich;ch;652896;632516;2746648;46884;ac;Good;4.18;27.40;0.16;874638;645984;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "101350;104;2017-10-11 06:02:18;Discharging;100.00;Europe/Zurich;ch;608348;614152;2746648;104504;unplugged;Good;4.20;22.30;0.01;893797;662804;WIFI;WIFI;lte;disconnected;none;enabled;-71;78;0;-1;0;0;0;0;0;0;1977;26036;249;3610"
+ },
+ {
+   "FIELD1": "101351;104;2017-10-11 00:41:28;Charging;65.00;Europe/Zurich;ch;642652;637700;2746648;47728;ac;Good;4.18;27.50;0.77;874547;645954;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "101352;104;2017-10-11 06:02:21;Discharging;100.00;Europe/Zurich;ch;610928;617840;2746648;95364;unplugged;Good;4.24;22.30;0.01;893799;662804;WIFI;WIFI;lte;disconnected;none;enabled;-71;78;0;-1;0;0;0;0;0;0;1977;26036;249;3610"
+ },
+ {
+   "FIELD1": "101353;104;2017-10-11 00:40:33;Charging;64.00;Europe/Zurich;ch;636232;639740;2746648;53428;ac;Good;4.16;27.50;0.01;874492;645901;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "101354;104;2017-10-11 06:02:23;Discharging;100.00;Europe/Zurich;ch;612516;618244;2746648;93404;unplugged;Good;4.19;22.30;0.19;893801;662804;WIFI;WIFI;lte;disconnected;none;enabled;-71;78;0;-1;0;0;0;0;0;0;1977;26036;249;3610"
+ },
+ {
+   "FIELD1": "101355;104;2017-10-11 00:39:01;Charging;63.00;Europe/Zurich;ch;640804;639152;2746648;48140;ac;Good;4.16;27.50;0.01;874400;645813;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "101356;104;2017-10-11 00:37:46;Charging;62.00;Europe/Zurich;ch;636536;638148;2746648;47524;ac;Good;4.16;27.50;0.89;874325;645743;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "101357;104;2017-10-11 06:02:26;Discharging;100.00;Europe/Zurich;ch;614260;618416;2746648;90916;unplugged;Good;4.19;22.40;0.27;893804;662805;WIFI;WIFI;lte;disconnected;none;enabled;-71;78;0;-1;0;0;0;0;0;0;1977;26036;249;3610"
+ },
+ {
+   "FIELD1": "101358;104;2017-10-11 00:36:28;Charging;61.00;Europe/Zurich;ch;638836;639244;2746648;47696;ac;Good;4.15;27.50;0.62;874247;645726;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "101359;104;2017-10-11 00:35:33;Charging;60.00;Europe/Zurich;ch;633888;647108;2746648;47928;ac;Good;4.15;27.50;0.01;874192;645673;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "101360;104;2017-10-11 00:34:00;Charging;59.00;Europe/Zurich;ch;631704;648156;2746648;51164;ac;Good;4.14;27.60;0.27;874098;645587;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "101361;104;2017-10-11 00:32:56;Charging;58.00;Europe/Zurich;ch;631416;649048;2746648;48100;ac;Good;4.11;27.60;0.39;874035;645528;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "101362;104;2017-10-11 00:31:28;Charging;57.00;Europe/Zurich;ch;627676;634444;2746648;59340;ac;Good;4.12;27.60;0.01;873947;645502;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "101364;104;2017-10-11 06:02:32;Discharging;100.00;Europe/Zurich;ch;615072;618528;2746648;90512;unplugged;Good;4.18;22.50;0.27;893810;662806;WIFI;WIFI;lte;disconnected;none;enabled;-71;78;0;-1;0;0;0;0;0;0;1977;26036;249;3610"
+ },
+ {
+   "FIELD1": "101366;104;2017-10-11 00:30:16;Charging;56.00;Europe/Zurich;ch;637248;636700;2746648;48128;ac;Good;4.11;27.60;0.33;873874;645432;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "101369;104;2017-10-11 06:02:34;Discharging;100.00;Europe/Zurich;ch;615820;618976;2746648;89276;unplugged;Good;4.21;22.50;0.28;893812;662806;WIFI;WIFI;lte;disconnected;none;enabled;-71;78;0;-1;0;0;0;0;0;0;1977;26036;249;3610"
+ },
+ {
+   "FIELD1": "101371;104;2017-10-11 00:29:16;Charging;55.00;Europe/Zurich;ch;637360;637316;2746648;47156;ac;Good;4.10;27.60;0.24;873814;645374;WIFI;WIFI;lte;disconnected;none;enabled;-68;72;0;-1;0;0;0;0;0;0;2127;26036;249;3610"
+ },
+ {
+   "FIELD1": "101373;104;2017-10-11 06:02:38;Discharging;100.00;Europe/Zurich;ch;626124;619256;2746648;79644;unplugged;Good;4.19;22.60;0.01;893818;662807;WIFI;WIFI;lte;disconnected;none;enabled;-71;78;0;-1;0;0;0;0;0;0;1977;26036;249;3610"
+ },
+ {
+   "FIELD1": "101377;104;2017-10-11 06:12:29;Discharging;99.00;Europe/Zurich;ch;629044;632032;2746648;70656;unplugged;Good;4.22;26.70;0.46;894408;663214;disconnected;MOBILE;edge;connected;none;enabled;-127;-1;0;-1;0;0;0;0;0;0;1977;26036;249;3610"
+ },
+ {
+   "FIELD1": "101379;104;2017-10-11 06:34:20;Discharging;98.00;Europe/Zurich;ch;634660;645260;2746648;64276;unplugged;Good;4.23;26.60;0.37;895719;664256;disconnected;MOBILE;edge;connected;none;enabled;-127;-1;0;-1;0;0;0;0;0;0;1977;26036;249;3610"
+ },
+ {
+   "FIELD1": "101381;104;2017-10-11 06:46:05;Discharging;97.00;Europe/Zurich;ch;641960;643480;2746648;46828;unplugged;Good;4.21;26.90;0.43;896424;664810;edge;MOBILE;edge;connected;none;enabled;-127;-1;0;-1;0;0;0;0;0;0;1977;26036;249;3610"
+ },
+ {
+   "FIELD1": "101384;104;2017-10-11 06:53:19;Discharging;96.00;Europe/Zurich;ch;630396;631244;2746648;47000;unplugged;Good;4.14;27.50;0.36;896858;665094;WIFI;WIFI;edge;disconnected;none;enabled;-80;52;1;-1;0;0;0;0;0;0;1977;26036;249;3610"
+ },
+ {
+   "FIELD1": "164767;104;2017-10-11 06:53:49;Discharging;96.00;Europe/Zurich;ch;624348;647340;2746648;62884;unplugged;Good;4.18;27.60;0.15;896889;665094;WIFI;WIFI;edge;disconnected;none;enabled;-81;78;1;-1;0;0;0;0;0;0;1976;26036;249;3610"
+ },
+ {
+   "FIELD1": "164768;104;2017-10-11 06:57:57;Discharging;95.00;Europe/Zurich;ch;591624;591284;2746648;49136;unplugged;Good;4.16;28.10;0.21;897136;665101;WIFI;WIFI;edge;disconnected;none;enabled;-81;26;1;-1;0;0;0;0;0;0;1975;26036;249;3610"
+ },
+ {
+   "FIELD1": "164769;104;2017-10-11 07:03:15;Discharging;94.00;Europe/Zurich;ch;608472;607820;2746648;49676;unplugged;Good;4.13;27.70;0.29;897455;665208;WIFI;WIFI;edge;disconnected;none;enabled;-85;19;1;-1;0;0;0;0;0;0;1973;26036;249;3610"
+ },
+ {
+   "FIELD1": "164770;104;2017-10-11 07:07:16;Discharging;93.00;Europe/Zurich;ch;589044;589488;2746648;69656;unplugged;Good;4.12;28.40;0.35;897695;665208;WIFI;WIFI;edge;disconnected;none;enabled;-81;39;1;-1;0;0;0;0;0;0;1971;26036;249;3610"
+ },
+ {
+   "FIELD1": "164771;104;2017-10-11 07:11:16;Discharging;92.00;Europe/Zurich;ch;571912;560432;2746648;79448;unplugged;Good;4.12;29.10;0.49;897935;665208;WIFI;WIFI;edge;disconnected;none;enabled;-82;52;1;-1;0;0;0;0;0;0;1971;26036;249;3610"
+ },
+ {
+   "FIELD1": "164772;104;2017-10-11 07:14:17;Discharging;91.00;Europe/Zurich;ch;468824;489984;2746648;50204;unplugged;Good;4.00;29.70;0.39;898116;665208;WIFI;WIFI;edge;disconnected;none;enabled;-82;39;1;-1;0;0;0;0;0;0;1968;26036;249;3610"
+ },
+ {
+   "FIELD1": "164773;104;2017-10-11 07:16:47;Discharging;90.00;Europe/Zurich;ch;462084;472088;2746648;50568;unplugged;Good;3.99;30.30;0.57;898266;665208;WIFI;WIFI;edge;disconnected;none;enabled;-84;39;1;-1;0;0;0;0;0;0;1954;26036;249;3610"
+ },
+ {
+   "FIELD1": "164774;104;2017-10-11 07:19:17;Discharging;89.00;Europe/Zurich;ch;526684;532932;2746648;48064;unplugged;Good;4.09;30.50;0.17;898416;665208;WIFI;WIFI;edge;disconnected;none;enabled;-84;52;1;-1;0;0;0;0;0;0;1953;26036;249;3610"
+ },
+ {
+   "FIELD1": "164775;104;2017-10-11 07:34:30;Discharging;88.00;Europe/Zurich;ch;545760;546124;2746648;47208;unplugged;Good;4.09;27.00;0.01;899329;665835;disconnected;WIFI;lte;disconnected;none;enabled;-61;54;0;-1;0;0;0;0;0;0;1959;26036;249;3610"
+ },
+ {
+   "FIELD1": "164776;104;2017-10-11 07:48:22;Discharging;87.00;Europe/Zurich;ch;547712;541072;2746648;47624;unplugged;Good;4.12;26.50;0.01;900161;666424;disconnected;MOBILE;edge;connected;none;enabled;-127;-1;0;-1;0;0;0;0;0;0;1959;26036;249;3610"
+ },
+ {
+   "FIELD1": "164777;104;2017-10-11 12:26:16;Charging;66.00;Europe/Zurich;ch;485532;491300;2746648;47296;ac;Good;3.87;29.30;0.61;916837;677840;WIFI;WIFI;lte;disconnected;none;enabled;-59;78;1;-1;0;0;0;0;0;0;1956;26036;249;3610"
+ },
+ {
+   "FIELD1": "164778;104;2017-10-11 12:27:16;Charging;67.00;Europe/Zurich;ch;515480;517000;2746648;46984;ac;Good;4.11;29.80;0.48;916897;677873;WIFI;WIFI;lte;disconnected;none;enabled;-59;104;0;-1;0;0;0;0;0;0;1957;26036;249;3610"
+ },
+ {
+   "FIELD1": "164779;104;2017-10-11 12:28:29;Charging;68.00;Europe/Zurich;ch;524104;524368;2746648;47936;ac;Good;4.18;29.80;0.37;916970;677920;WIFI;WIFI;lte;disconnected;none;enabled;-59;104;0;-1;0;0;0;0;0;0;1957;26036;249;3610"
+ },
+ {
+   "FIELD1": "164780;104;2017-10-11 12:29:41;Charging;69.00;Europe/Zurich;ch;522760;532004;2746648;57108;ac;Good;4.19;29.80;0.20;917041;677958;WIFI;WIFI;lte;disconnected;none;enabled;-59;104;0;-1;0;0;0;0;0;0;1957;26036;249;3610"
+ },
+ {
+   "FIELD1": "164781;104;2017-10-11 12:31:19;Charging;70.00;Europe/Zurich;ch;534480;533436;2746648;48840;ac;Good;4.20;29.60;0.54;917139;678002;WIFI;WIFI;lte;disconnected;none;enabled;-59;104;0;-1;0;0;0;0;0;0;1957;26036;249;3610"
+ },
+ {
+   "FIELD1": "164782;104;2017-10-11 12:32:08;Charging;71.00;Europe/Zurich;ch;534256;534780;2746648;47724;ac;Good;4.22;29.40;0.01;917188;678046;WIFI;WIFI;lte;disconnected;none;enabled;-59;104;0;-1;0;0;0;0;0;0;1957;26036;249;3610"
+ },
+ {
+   "FIELD1": "164783;104;2017-10-11 12:33:29;Charging;72.00;Europe/Zurich;ch;534736;534468;2746648;47288;ac;Good;4.24;29.20;0.31;917269;678119;WIFI;WIFI;lte;disconnected;none;enabled;-59;104;0;-1;0;0;0;0;0;0;1957;26036;249;3610"
+ },
+ {
+   "FIELD1": "164784;104;2017-10-11 13:10:10;Discharging;96.00;Europe/Zurich;ch;530348;531644;2746648;47848;unplugged;Good;4.26;24.90;0.67;919471;680069;WIFI;WIFI;hsupa;disconnected;none;enabled;-66;104;1;-1;0;0;0;0;0;0;1957;26036;249;3610"
+ },
+ {
+   "FIELD1": "164785;104;2017-10-11 23:00:39;Charging;45.00;Europe/Zurich;ch;567440;592004;2746648;47064;ac;Good;3.62;23.70;0.60;954899;707175;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "164786;104;2017-10-11 23:00:56;Charging;46.00;Europe/Zurich;ch;613552;614860;2746648;32516;ac;Good;4.00;24.30;0.65;954917;707178;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2235;26036;249;3610"
+ },
+ {
+   "FIELD1": "166483;104;2017-10-11 23:01:06;Charging;46.00;Europe/Zurich;ch;605176;606032;2746648;47692;ac;Good;3.97;24.60;0.34;954926;707178;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2235;26036;249;3610"
+ },
+ {
+   "FIELD1": "166485;104;2017-10-11 23:02:12;Charging;47.00;Europe/Zurich;ch;589744;608236;2746648;66052;ac;Good;4.03;25.50;0.01;954993;707217;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "166486;104;2017-10-11 23:03:16;Charging;48.00;Europe/Zurich;ch;590284;618352;2746648;48224;ac;Good;4.06;26.00;0.27;955056;707269;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "166488;104;2017-10-11 23:04:22;Charging;49.00;Europe/Zurich;ch;597588;611788;2746648;48596;ac;Good;4.06;26.30;0.22;955122;707328;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "166489;104;2017-10-11 23:05:25;Charging;50.00;Europe/Zurich;ch;604904;606340;2746648;47596;ac;Good;4.08;26.50;0.52;955185;707381;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2235;26036;249;3610"
+ },
+ {
+   "FIELD1": "166491;104;2017-10-11 23:06:27;Charging;51.00;Europe/Zurich;ch;606224;606104;2746648;48716;ac;Good;4.09;26.70;0.34;955247;707432;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2235;26036;249;3610"
+ },
+ {
+   "FIELD1": "166492;104;2017-10-11 23:07:34;Charging;52.00;Europe/Zurich;ch;607948;607896;2746648;48484;ac;Good;4.08;26.90;0.49;955314;707492;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2235;26036;249;3610"
+ },
+ {
+   "FIELD1": "166495;104;2017-10-11 23:08:41;Charging;53.00;Europe/Zurich;ch;604660;604468;2746648;48528;ac;Good;4.08;27.00;0.01;955381;707552;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2235;26036;249;3610"
+ },
+ {
+   "FIELD1": "166499;104;2017-10-11 23:09:35;Charging;54.00;Europe/Zurich;ch;607888;608076;2746648;48220;ac;Good;4.14;27.10;0.01;955435;707589;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2235;26036;249;3610"
+ },
+ {
+   "FIELD1": "166503;104;2017-10-11 23:10:41;Charging;55.00;Europe/Zurich;ch;603564;616464;2746648;50096;ac;Good;4.10;27.20;0.20;955501;707605;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2235;26036;249;3610"
+ },
+ {
+   "FIELD1": "166505;104;2017-10-11 23:11:48;Charging;56.00;Europe/Zurich;ch;566612;645224;2746648;52460;ac;Good;4.12;27.30;0.15;955569;707664;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "166508;104;2017-10-11 23:12:55;Charging;57.00;Europe/Zurich;ch;581788;631000;2746648;48280;ac;Good;4.12;27.40;0.55;955635;707724;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "166510;104;2017-10-11 23:13:56;Charging;58.00;Europe/Zurich;ch;615864;587900;2746648;67900;ac;Good;4.14;27.50;0.01;955697;707781;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "166512;104;2017-10-11 23:14:54;Charging;59.00;Europe/Zurich;ch;618440;592160;2746648;63316;ac;Good;4.15;27.50;0.01;955755;707834;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "166514;104;2017-10-11 23:16:01;Charging;60.00;Europe/Zurich;ch;589540;599648;2746648;86092;ac;Good;4.15;27.60;0.01;955821;707893;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "166518;104;2017-10-11 23:17:08;Charging;61.00;Europe/Zurich;ch;605296;604516;2746648;65988;ac;Good;4.15;27.60;0.73;955888;707950;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "166520;104;2017-10-11 23:18:12;Charging;62.00;Europe/Zurich;ch;609644;610912;2746648;53604;ac;Good;4.15;27.70;0.01;955953;707984;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "166523;104;2017-10-11 23:19:27;Charging;63.00;Europe/Zurich;ch;617308;615376;2746648;49476;ac;Good;4.17;27.90;0.01;956028;707999;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "166527;104;2017-10-11 23:20:43;Charging;64.00;Europe/Zurich;ch;616724;616488;2746648;48276;ac;Good;4.15;28.00;0.01;956103;708019;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "166528;104;2017-10-11 23:22:21;Charging;65.00;Europe/Zurich;ch;612572;615868;2746648;53696;ac;Good;4.17;27.90;0.24;956201;708110;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "168331;104;2017-10-11 23:22:30;Charging;65.00;Europe/Zurich;ch;609216;612136;2746648;56652;ac;Good;4.16;27.90;0.01;956212;708110;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "168332;104;2017-10-11 23:23:25;Charging;66.00;Europe/Zurich;ch;612400;612264;2746648;50652;ac;Good;4.17;27.90;0.47;956266;708151;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "168333;104;2017-10-11 23:24:28;Charging;67.00;Europe/Zurich;ch;607888;612544;2746648;54648;ac;Good;4.18;27.80;0.01;956328;708207;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "168334;104;2017-10-11 23:25:26;Charging;68.00;Europe/Zurich;ch;610280;611780;2746648;53508;ac;Good;4.20;27.80;0.01;956386;708260;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "168335;104;2017-10-11 23:27:03;Charging;69.00;Europe/Zurich;ch;612436;611416;2746648;48072;ac;Good;4.21;27.90;0.29;956483;708341;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "168336;104;2017-10-11 23:27:59;Charging;70.00;Europe/Zurich;ch;604572;615560;2746648;53972;ac;Good;4.20;27.90;0.01;956539;708393;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "168337;104;2017-10-11 23:29:06;Charging;71.00;Europe/Zurich;ch;613040;613108;2746648;48720;ac;Good;4.20;27.90;1.14;956606;708455;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "168342;104;2017-10-11 23:30:13;Charging;72.00;Europe/Zurich;ch;601328;610540;2746648;64620;ac;Good;4.21;27.90;0.01;956673;708517;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "168344;104;2017-10-11 23:31:16;Charging;73.00;Europe/Zurich;ch;608908;608620;2746648;58524;ac;Good;4.22;27.90;0.62;956736;708577;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "168350;104;2017-10-11 23:32:33;Charging;74.00;Europe/Zurich;ch;607516;612188;2746648;54636;ac;Good;4.22;27.90;0.01;956813;708647;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "168353;104;2017-10-11 23:33:39;Charging;75.00;Europe/Zurich;ch;610712;613492;2746648;49336;ac;Good;4.24;28.00;0.19;956879;708683;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "168356;104;2017-10-11 23:35:28;Charging;76.00;Europe/Zurich;ch;612372;618120;2746648;50004;ac;Good;4.23;28.00;0.01;956989;708721;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "168364;104;2017-10-11 23:36:24;Charging;77.00;Europe/Zurich;ch;604180;617832;2746648;54680;ac;Good;4.25;27.90;0.38;957044;708773;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "168366;104;2017-10-11 23:38:01;Charging;78.00;Europe/Zurich;ch;612912;612200;2746648;48344;ac;Good;4.25;27.70;0.01;957141;708858;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "168373;104;2017-10-11 23:39:03;Charging;79.00;Europe/Zurich;ch;606548;610712;2746648;58868;ac;Good;4.27;27.60;0.01;957203;708916;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "168377;104;2017-10-11 23:40:10;Charging;80.00;Europe/Zurich;ch;614980;607052;2746648;50276;ac;Good;4.28;27.60;0.24;957270;708978;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "168382;104;2017-10-11 23:42:00;Charging;81.00;Europe/Zurich;ch;621244;603184;2746648;48424;ac;Good;4.30;27.50;0.19;957380;709075;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "168387;104;2017-10-11 23:43:03;Charging;82.00;Europe/Zurich;ch;615220;602828;2746648;57808;ac;Good;4.31;27.50;0.01;957443;709134;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "168390;104;2017-10-11 23:44:10;Charging;83.00;Europe/Zurich;ch;625172;601944;2746648;48364;ac;Good;4.30;27.50;0.34;957510;709192;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2237;26036;249;3610"
+ },
+ {
+   "FIELD1": "168394;104;2017-10-11 23:45:19;Charging;84.00;Europe/Zurich;ch;608548;610900;2746648;50596;ac;Good;4.31;27.50;0.98;957579;709237;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "170282;104;2017-10-11 23:45:34;Charging;84.00;Europe/Zurich;ch;607728;609724;2746648;53760;ac;Good;4.32;27.50;0.19;957594;709239;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "170284;104;2017-10-11 23:45:22;Charging;84.00;Europe/Zurich;ch;609172;611012;2746648;48860;ac;Good;4.29;27.50;0.14;957582;709237;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "170288;104;2017-10-11 23:45:28;Charging;84.00;Europe/Zurich;ch;608160;608240;2746648;53368;ac;Good;4.29;27.50;0.20;957588;709238;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "170289;104;2017-10-11 23:45:24;Charging;84.00;Europe/Zurich;ch;610260;610676;2746648;48348;ac;Good;4.31;27.50;0.14;957584;709237;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "170291;104;2017-10-11 23:45:30;Charging;84.00;Europe/Zurich;ch;614000;609548;2746648;49296;ac;Good;4.31;27.50;0.01;957591;709238;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "170294;104;2017-10-11 23:45:26;Charging;84.00;Europe/Zurich;ch;609104;610984;2746648;49388;ac;Good;4.30;27.50;0.21;957586;709238;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "170295;104;2017-10-11 23:46:52;Charging;85.00;Europe/Zurich;ch;606656;617432;2746648;53896;ac;Good;4.30;27.50;0.32;957672;709262;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "170298;104;2017-10-11 23:48:18;Charging;86.00;Europe/Zurich;ch;607540;621936;2746648;47340;ac;Good;4.33;27.30;0.42;957758;709342;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "170300;104;2017-10-11 23:49:55;Charging;87.00;Europe/Zurich;ch;612948;612640;2746648;48948;ac;Good;4.34;27.10;0.01;957855;709435;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "170304;104;2017-10-11 23:51:29;Charging;88.00;Europe/Zurich;ch;611596;612208;2746648;48536;ac;Good;4.35;26.90;0.34;957948;709522;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "170307;104;2017-10-11 23:53:05;Charging;89.00;Europe/Zurich;ch;611480;611792;2746648;48512;ac;Good;4.32;26.70;0.20;958045;709604;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "170311;104;2017-10-11 23:54:42;Charging;90.00;Europe/Zurich;ch;610580;610612;2746648;51752;ac;Good;4.35;26.40;0.01;958142;709696;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "170314;104;2017-10-11 23:56:20;Charging;91.00;Europe/Zurich;ch;615336;610372;2746648;48252;ac;Good;4.36;26.30;0.84;958241;709781;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "170318;104;2017-10-11 23:58:51;Charging;92.00;Europe/Zurich;ch;611136;611516;2746648;51104;ac;Good;4.35;25.90;0.01;958391;709916;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "170321;104;2017-10-12 00:00:30;Charging;93.00;Europe/Zurich;ch;593412;610488;2746648;61924;ac;Good;4.35;25.70;0.01;958490;710006;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "170329;104;2017-10-12 00:02:41;Charging;94.00;Europe/Zurich;ch;620016;596344;2746648;48404;ac;Good;4.35;25.60;0.88;958621;710118;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "170335;104;2017-10-12 00:04:44;Charging;95.00;Europe/Zurich;ch;610520;595532;2746648;60420;ac;Good;4.36;25.40;0.01;958744;710232;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "170341;104;2017-10-12 00:07:54;Charging;96.00;Europe/Zurich;ch;611348;594644;2746648;60876;ac;Good;4.35;25.00;0.01;958934;710410;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "170348;104;2017-10-12 00:10:30;Charging;97.00;Europe/Zurich;ch;611980;589392;2746648;65136;ac;Good;4.35;24.90;0.19;959090;710557;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "170353;104;2017-10-12 00:13:43;Charging;98.00;Europe/Zurich;ch;620860;601156;2746648;49672;ac;Good;4.35;24.60;0.01;959283;710736;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "241759;104;2017-10-12 00:13:50;Charging;98.00;Europe/Zurich;ch;615476;595864;2746648;64412;ac;Good;4.36;24.70;0.01;959290;710736;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "241761;104;2017-10-12 00:13:55;Charging;98.00;Europe/Zurich;ch;623720;599764;2746648;52392;ac;Good;4.36;24.70;0.01;959296;710736;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "241764;104;2017-10-12 00:13:52;Charging;98.00;Europe/Zurich;ch;623752;597812;2746648;51712;ac;Good;4.35;24.70;0.01;959293;710736;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "241768;104;2017-10-12 00:13:47;Charging;98.00;Europe/Zurich;ch;615236;601680;2746648;59528;ac;Good;4.35;24.70;0.01;959287;710736;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "241771;104;2017-10-12 00:13:58;Charging;98.00;Europe/Zurich;ch;610220;599276;2746648;68356;ac;Good;4.35;24.70;0.01;959298;710737;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2236;26036;249;3610"
+ },
+ {
+   "FIELD1": "241774;104;2017-10-12 00:15:01;Charging;99.00;Europe/Zurich;ch;621096;616616;2746648;48628;ac;Good;4.36;25.00;0.67;959361;710747;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2262;26036;249;3610"
+ },
+ {
+   "FIELD1": "241778;104;2017-10-12 00:16:40;Charging;100.00;Europe/Zurich;ch;616592;611828;2746648;52992;ac;Good;4.36;25.00;0.29;959460;710832;WIFI;WIFI;lte;disconnected;none;enabled;-59;72;0;-1;0;0;0;0;0;0;2263;26036;249;3610"
+ },
+ {
+   "FIELD1": "241780;104;2017-10-12 06:11:07;Discharging;99.00;Europe/Zurich;ch;667724;664116;2746648;47948;unplugged;Good;4.14;25.70;0.39;980729;730195;WIFI;WIFI;lte;disconnected;none;enabled;-90;5;1;-1;0;0;0;0;0;0;2029;26036;249;3610"
+ },
+ {
+   "FIELD1": "241782;104;2017-10-12 06:15:03;Discharging;98.00;Europe/Zurich;ch;621804;574596;2746648;63552;unplugged;Good;4.21;26.30;0.01;980963;730257;WIFI;WIFI;edge;disconnected;none;enabled;-70;54;0;-1;0;0;0;0;0;0;2043;26036;249;3610"
+ },
+ {
+   "FIELD1": "241783;104;2017-10-12 06:31:03;Discharging;97.00;Europe/Zurich;ch;620572;619944;2746648;48732;unplugged;Good;4.24;25.70;0.01;981924;730932;disconnected;MOBILE;edge;connected;none;enabled;-127;-1;0;-1;0;0;0;0;0;0;2044;26036;249;3610"
+ },
+ {
+   "FIELD1": "241784;104;2017-10-12 06:51:29;Discharging;96.00;Europe/Zurich;ch;622956;620780;2746648;52984;unplugged;Good;4.17;26.70;0.01;983151;731948;edge;MOBILE;edge;connected;none;enabled;-127;-1;0;-1;0;0;0;0;0;0;2043;26036;249;3610"
+ },
+ {
+   "FIELD1": "241785;104;2017-10-12 07:00:48;Discharging;95.00;Europe/Zurich;ch;618872;601192;2746648;48076;unplugged;Good;4.06;27.30;0.34;983709;732321;disconnected;WIFI;edge;disconnected;none;enabled;-82;5;1;-1;0;0;0;1;0;0;2043;26036;249;3610"
+ },
+ {
+   "FIELD1": "241787;104;2017-10-12 07:03:19;Discharging;94.00;Europe/Zurich;ch;620976;621004;2746648;47484;unplugged;Good;4.12;27.70;0.27;983860;732321;disconnected;WIFI;edge;disconnected;none;enabled;-79;39;1;-1;0;0;0;1;0;0;2042;26036;249;3610"
+ },
+ {
+   "FIELD1": "241788;104;2017-10-12 07:06:49;Discharging;93.00;Europe/Zurich;ch;631320;618256;2746648;74716;unplugged;Good;4.07;27.20;0.29;984070;732321;disconnected;WIFI;edge;disconnected;none;enabled;-79;52;1;-1;0;0;0;1;0;0;2042;26036;249;3610"
+ },
+ {
+   "FIELD1": "241789;104;2017-10-12 07:09:49;Discharging;92.00;Europe/Zurich;ch;630188;629832;2746648;78744;unplugged;Good;4.00;27.10;0.22;984250;732321;disconnected;WIFI;hsupa;disconnected;none;enabled;-78;39;1;-1;0;0;0;1;0;0;2042;26036;249;3610"
+ },
+ {
+   "FIELD1": "241790;104;2017-10-12 07:12:19;Discharging;91.00;Europe/Zurich;ch;639544;639556;2746648;60132;unplugged;Good;4.01;27.00;0.23;984401;732321;disconnected;WIFI;edge;disconnected;none;enabled;-79;39;1;-1;0;0;0;1;0;0;2042;26036;249;3610"
+ },
+ {
+   "FIELD1": "241792;104;2017-10-12 07:17:04;Discharging;90.00;Europe/Zurich;ch;612020;611884;2746648;82468;unplugged;Good;4.05;26.70;0.30;984686;732368;disconnected;WIFI;edge;disconnected;none;enabled;-75;52;1;-1;0;0;0;1;0;0;2042;26036;249;3610"
+ },
+ {
+   "FIELD1": "241794;104;2017-10-12 07:20:35;Discharging;89.00;Europe/Zurich;ch;633344;619552;2746648;75920;unplugged;Good;4.03;26.10;0.30;984896;732368;disconnected;WIFI;edge;disconnected;none;enabled;-76;52;1;-1;0;0;0;1;0;0;2042;26036;249;3610"
+ },
+ {
+   "FIELD1": "241799;104;2017-10-12 07:23:36;Discharging;88.00;Europe/Zurich;ch;637884;633820;2746648;69392;unplugged;Good;3.98;26.40;0.22;985077;732368;disconnected;WIFI;edge;disconnected;none;enabled;-75;52;1;-1;0;0;0;1;0;0;2042;26036;249;3610"
+ },
+ {
+   "FIELD1": "241804;104;2017-10-12 07:26:36;Discharging;87.00;Europe/Zurich;ch;646448;640312;2746648;47272;unplugged;Good;4.00;26.40;0.26;985258;732368;disconnected;WIFI;edge;disconnected;none;enabled;-76;52;1;-1;0;0;0;1;0;0;2042;26036;249;3610"
+ },
+ {
+   "FIELD1": "241812;104;2017-10-12 07:39:18;Discharging;86.00;Europe/Zurich;ch;627280;620056;2746648;55448;unplugged;Good;4.10;26.20;0.01;986020;732835;disconnected;MOBILE;edge;connected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;2058;26036;249;3610"
+ },
+ {
+   "FIELD1": "241817;104;2017-10-12 07:50:04;Discharging;85.00;Europe/Zurich;ch;643248;644508;2746648;55708;unplugged;Good;4.08;26.10;0.36;986665;733348;disconnected;MOBILE;lte;connected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;2058;26036;249;3610"
+ },
+ {
+   "FIELD1": "241823;104;2017-10-12 08:09:17;Discharging;84.00;Europe/Zurich;ch;653180;649256;2746648;59092;unplugged;Good;4.11;26.30;0.01;987818;734207;disconnected;WIFI;lte;disconnected;none;enabled;-53;54;0;-1;0;0;0;1;0;0;2058;26036;249;3610"
+ },
+ {
+   "FIELD1": "241829;104;2017-10-12 08:28:49;Discharging;83.00;Europe/Zurich;ch;662200;651608;2746648;52648;unplugged;Good;4.09;28.00;0.01;988991;735040;disconnected;WIFI;hsupa;disconnected;none;enabled;-87;117;0;-1;0;0;0;1;0;0;2059;26036;249;3610"
+ },
+ {
+   "FIELD1": "241834;104;2017-10-12 08:51:25;Discharging;82.00;Europe/Zurich;ch;646176;652840;2746648;55108;unplugged;Good;4.07;25.00;0.33;990346;735941;disconnected;MOBILE;lte;connected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;2059;26036;249;3610"
+ },
+ {
+   "FIELD1": "241843;104;2017-10-12 08:57:27;Discharging;81.00;Europe/Zurich;ch;584744;589564;2746648;47764;unplugged;Good;3.68;22.60;0.48;990708;736158;disconnected;MOBILE;lte;connected;inout;enabled;-127;-1;1;-1;0;0;0;1;0;0;2059;26036;249;3610"
+ },
+ {
+   "FIELD1": "241847;104;2017-10-12 08:58:57;Discharging;80.00;Europe/Zurich;ch;575880;575468;2746648;67504;unplugged;Good;3.90;22.90;0.26;990799;736158;disconnected;MOBILE;lte;connected;none;enabled;-127;-1;1;-1;0;0;0;1;0;0;2059;26036;249;3610"
+ },
+ {
+   "FIELD1": "241851;104;2017-10-12 09:02:09;Discharging;79.00;Europe/Zurich;ch;604956;531632;2746648;47828;unplugged;Good;3.88;23.70;0.30;990991;736193;disconnected;WIFI;lte;disconnected;none;enabled;-73;11;1;-1;0;0;0;1;0;0;2058;26036;249;3610"
+ },
+ {
+   "FIELD1": "241855;104;2017-10-12 09:03:09;Discharging;78.00;Europe/Zurich;ch;579660;489804;2746648;47940;unplugged;Good;3.94;24.70;0.01;991050;736193;disconnected;WIFI;lte;disconnected;none;enabled;-88;18;0;-1;0;0;0;1;0;0;2058;26036;249;3610"
+ },
+ {
+   "FIELD1": "241857;104;2017-10-12 09:34:07;Discharging;77.00;Europe/Zurich;ch;550528;551580;2746648;49272;unplugged;Good;3.99;26.30;0.35;992909;737539;disconnected;MOBILE;edge;connected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;2058;26036;249;3610"
+ },
+ {
+   "FIELD1": "241862;104;2017-10-12 09:44:19;Discharging;76.00;Europe/Zurich;ch;573980;534424;2746648;48580;unplugged;Good;4.04;26.90;0.25;993520;738009;disconnected;MOBILE;edge;connected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;2058;26036;249;3610"
+ },
+ {
+   "FIELD1": "241864;104;2017-10-12 10:21:26;Discharging;75.00;Europe/Zurich;ch;549252;549396;2746648;48468;unplugged;Good;4.02;27.20;0.29;995748;739944;disconnected;MOBILE;edge;connected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;2058;26036;249;3610"
+ },
+ {
+   "FIELD1": "241867;104;2017-10-12 10:44:32;Discharging;74.00;Europe/Zurich;ch;539504;544048;2746648;48000;unplugged;Good;3.96;27.20;0.17;997133;741030;disconnected;WIFI;edge;disconnected;none;enabled;-83;12;1;-1;0;0;0;1;0;0;2058;26036;249;3610"
+ },
+ {
+   "FIELD1": "241870;104;2017-10-12 11:05:36;Discharging;73.00;Europe/Zurich;ch;544584;545344;2746648;47200;unplugged;Good;4.01;26.80;0.01;998398;741885;disconnected;WIFI;lte;disconnected;none;enabled;-84;6;0;-1;0;0;0;1;0;0;2058;26036;249;3610"
+ },
+ {
+   "FIELD1": "241872;104;2017-10-12 11:16:56;Discharging;72.00;Europe/Zurich;ch;539604;540016;2746648;47664;unplugged;Good;3.84;28.50;0.44;999078;742310;disconnected;WIFI;edge;disconnected;none;enabled;-74;52;1;-1;0;0;0;1;0;0;2056;26036;249;3610"
+ },
+ {
+   "FIELD1": "241874;104;2017-10-12 11:18:57;Discharging;71.00;Europe/Zurich;ch;542984;540188;2746648;57248;unplugged;Good;3.91;30.20;0.26;999197;742310;disconnected;WIFI;edge;disconnected;none;enabled;-74;78;1;-1;0;0;0;1;0;0;2058;26036;249;3610"
+ },
+ {
+   "FIELD1": "241877;104;2017-10-12 11:21:57;Discharging;70.00;Europe/Zurich;ch;484304;484052;2746648;18156;unplugged;Good;3.88;31.30;0.46;999378;742310;disconnected;WIFI;edge;disconnected;none;enabled;-74;58;1;-1;0;0;0;1;0;0;2063;26036;249;3610"
+ },
+ {
+   "FIELD1": "241879;104;2017-10-12 11:24:27;Discharging;69.00;Europe/Zurich;ch;422504;431920;2746648;53736;unplugged;Good;3.84;32.50;0.50;999528;742310;disconnected;WIFI;edge;disconnected;none;enabled;-75;58;1;-1;0;0;0;1;0;0;2004;26036;249;3610"
+ },
+ {
+   "FIELD1": "241881;104;2017-10-12 11:25:57;Discharging;68.00;Europe/Zurich;ch;413504;436828;2746648;81264;unplugged;Good;3.82;33.40;0.46;999618;742310;disconnected;WIFI;edge;disconnected;none;enabled;-76;52;1;-1;0;0;0;1;0;0;2004;26036;249;3610"
+ },
+ {
+   "FIELD1": "241884;104;2017-10-12 11:28:28;Discharging;67.00;Europe/Zurich;ch;429432;429924;2746648;47816;unplugged;Good;3.78;33.80;0.49;999769;742310;disconnected;WIFI;edge;disconnected;none;enabled;-78;52;1;-1;0;0;0;1;0;0;1954;26036;249;3610"
+ },
+ {
+   "FIELD1": "241885;104;2017-10-12 11:29:58;Discharging;66.00;Europe/Zurich;ch;403604;403624;2746648;47680;unplugged;Good;3.70;34.30;0.57;999859;742310;disconnected;WIFI;edge;disconnected;none;enabled;-73;58;1;-1;0;0;0;1;0;0;1955;26036;249;3610"
+ },
+ {
+   "FIELD1": "241886;104;2017-10-12 11:31:58;Discharging;65.00;Europe/Zurich;ch;432504;432068;2746648;47928;unplugged;Good;3.74;34.70;0.51;999980;742310;disconnected;WIFI;edge;disconnected;none;enabled;-74;72;1;-1;0;0;0;1;0;0;1894;26036;249;3610"
+ },
+ {
+   "FIELD1": "241887;104;2017-10-12 11:33:59;Discharging;64.00;Europe/Zurich;ch;483480;483224;2746648;44828;unplugged;Good;3.80;35.30;0.56;1000100;742310;disconnected;WIFI;edge;disconnected;none;enabled;-72;72;1;-1;0;0;0;1;0;0;1861;26036;249;3610"
+ },
+ {
+   "FIELD1": "241888;104;2017-10-12 11:36:29;Discharging;63.00;Europe/Zurich;ch;483404;483720;2746648;48432;unplugged;Good;3.76;35.70;0.62;1000250;742310;disconnected;WIFI;edge;disconnected;none;enabled;-73;65;1;-1;0;0;0;1;0;0;1833;26036;249;3610"
+ },
+ {
+   "FIELD1": "241889;104;2017-10-12 11:37:59;Discharging;62.00;Europe/Zurich;ch;467132;473552;2746648;48048;unplugged;Good;3.75;35.90;0.56;1000341;742310;disconnected;WIFI;edge;disconnected;none;enabled;-73;52;1;-1;0;0;0;1;0;0;1831;26036;249;3610"
+ },
+ {
+   "FIELD1": "241890;104;2017-10-12 11:39:59;Discharging;61.00;Europe/Zurich;ch;458724;458432;2746648;48860;unplugged;Good;3.72;36.10;0.58;1000461;742310;disconnected;WIFI;edge;disconnected;none;enabled;-74;58;1;-1;0;0;0;1;0;0;1809;26036;249;3610"
+ },
+ {
+   "FIELD1": "241891;104;2017-10-12 16:35:34;Charging;30.00;Europe/Zurich;ch;570336;575200;2746648;47428;ac;Good;3.80;28.30;0.74;1018196;753484;disconnected;MOBILE;lte;connected;inout;enabled;-76;117;1;-1;0;0;0;1;0;0;2203;26036;249;3610"
+ },
+ {
+   "FIELD1": "241894;104;2017-10-12 22:13:10;Charging;96.00;Europe/Zurich;ch;463728;463748;2746648;47156;ac;Good;4.17;23.40;0.52;1038452;772216;WIFI;WIFI;lte;disconnected;none;enabled;-59;130;0;-1;0;0;0;1;0;0;2204;26036;249;3610"
+ },
+ {
+   "FIELD1": "2707985;104;2017-12-13 00:52:00;Charging;82.00;Europe/Lisbon;pt;524160;526840;2746644;74128;ac;Good;4.36;21.80;0.16;211614;164532;WIFI;WIFI;lte;disconnected;inout;enabled;-75;13;0;-1;0;0;0;1;0;0;419;26036;241;3610"
+ },
+ {
+   "FIELD1": "2707986;104;2017-12-13 00:51:39;Charging;82.00;Europe/Lisbon;pt;535904;537244;2746644;47824;ac;Good;4.36;21.80;0.00;211593;164529;WIFI;WIFI;lte;disconnected;inout;enabled;-75;13;0;-1;0;0;0;1;0;0;419;26036;241;3610"
+ },
+ {
+   "FIELD1": "2707987;104;2017-12-13 00:51:43;Charging;82.00;Europe/Lisbon;pt;528448;542404;2746644;47072;ac;Good;4.36;21.80;0.00;211597;164530;WIFI;WIFI;lte;disconnected;inout;enabled;-75;13;0;-1;0;0;0;1;0;0;419;26036;241;3610"
+ },
+ {
+   "FIELD1": "2708075;104;2017-12-13 20:54:06;Charging;23.00;Europe/Lisbon;pt;495220;495260;2746644;48464;ac;Good;4.06;35.00;0.44;15031;6184;WIFI;WIFI;lte;disconnected;none;enabled;-76;26;0;-1;0;0;1;1;0;0;1344;26036;294;3610"
+ },
+ {
+   "FIELD1": "2708076;104;2017-12-13 20:53:47;Charging;22.00;Europe/Lisbon;pt;508596;508708;2746644;48228;ac;Good;3.63;34.40;0.78;15011;6184;disconnected;WIFI;lte;disconnected;none;enabled;-83;19;1;-1;0;0;1;1;0;0;1340;26036;294;3610"
+ },
+ {
+   "FIELD1": "2708077;104;2017-12-13 00:51:43;Charging;82.00;Europe/Lisbon;pt;528448;542404;2746644;47072;ac;Good;4.36;21.80;0.00;211597;164530;WIFI;WIFI;lte;disconnected;inout;enabled;-75;13;0;-1;0;0;0;1;0;0;419;26036;241;3610"
+ },
+ {
+   "FIELD1": "2708078;104;2017-12-13 00:51:44;Charging;82.00;Europe/Lisbon;pt;534964;535616;2746644;48360;ac;Good;4.35;21.80;0.51;211598;164530;WIFI;WIFI;lte;disconnected;inout;enabled;-75;13;0;-1;0;0;0;1;0;0;419;26036;241;3610"
+ },
+ {
+   "FIELD1": "2708079;104;2017-12-13 00:51:55;Charging;82.00;Europe/Lisbon;pt;523832;525332;2746644;76332;ac;Good;4.35;21.80;0.16;211609;164531;WIFI;WIFI;lte;disconnected;inout;enabled;-75;13;0;-1;0;0;0;1;0;0;419;26036;241;3610"
+ },
+ {
+   "FIELD1": "2708080;104;2017-12-13 00:51:51;Charging;82.00;Europe/Lisbon;pt;522084;555332;2746644;47412;ac;Good;4.36;21.80;0.32;211605;164531;WIFI;WIFI;lte;disconnected;inout;enabled;-75;13;0;-1;0;0;0;1;0;0;419;26036;241;3610"
+ },
+ {
+   "FIELD1": "2708081;104;2017-12-13 00:53:06;Charging;83.00;Europe/Lisbon;pt;532076;543784;2746644;47056;ac;Good;4.35;21.60;0.67;211681;164570;WIFI;WIFI;lte;disconnected;inout;enabled;-75;13;0;-1;0;0;0;1;0;0;419;26036;241;3610"
+ },
+ {
+   "FIELD1": "2708082;104;2017-12-13 00:54:21;Charging;84.00;Europe/Lisbon;pt;531560;541588;2746644;46976;ac;Good;4.36;21.50;0.00;211755;164626;WIFI;WIFI;lte;disconnected;inout;enabled;-75;13;0;-1;0;0;0;1;0;0;419;26036;241;3610"
+ },
+ {
+   "FIELD1": "2708083;104;2017-12-13 00:55:59;Charging;85.00;Europe/Lisbon;pt;533212;537288;2746644;59596;ac;Good;4.35;21.40;0.17;211853;164703;WIFI;WIFI;lte;disconnected;inout;enabled;-75;13;0;-1;0;0;0;1;0;0;419;26036;241;3610"
+ },
+ {
+   "FIELD1": "2708084;104;2017-12-13 00:57:57;Charging;86.00;Europe/Lisbon;pt;534660;540320;2746644;58052;ac;Good;4.36;21.30;0.25;211971;164786;WIFI;WIFI;lte;disconnected;inout;enabled;-75;13;0;-1;0;0;0;1;0;0;419;26036;241;3610"
+ },
+ {
+   "FIELD1": "2708085;104;2017-12-13 00:59:31;Charging;87.00;Europe/Lisbon;pt;536140;549316;2746644;50744;ac;Good;4.35;21.20;0.40;212065;164854;WIFI;WIFI;lte;disconnected;inout;enabled;-75;13;0;-1;0;0;0;1;0;0;419;26036;241;3610"
+ },
+ {
+   "FIELD1": "2708086;104;2017-12-13 01:00:54;Charging;88.00;Europe/Lisbon;pt;538492;550312;2746644;47172;ac;Good;4.35;21.10;0.22;212148;164927;WIFI;WIFI;lte;disconnected;inout;enabled;-75;13;0;-1;0;0;0;1;0;0;419;26036;241;3610"
+ },
+ {
+   "FIELD1": "2708087;104;2017-12-13 11:35:22;Discharging;100.00;Europe/Lisbon;pt;545704;545808;2746644;47436;unplugged;Good;4.31;18.80;0.53;250216;199269;disconnected;WIFI;lte;disconnected;inout;enabled;-80;19;1;-1;0;0;0;1;0;0;433;26036;241;3610"
+ },
+ {
+   "FIELD1": "2708088;104;2017-12-13 11:39:16;Discharging;99.00;Europe/Lisbon;pt;474048;477544;2746644;46976;unplugged;Good;3.94;22.90;0.67;250452;199334;disconnected;WIFI;lte;disconnected;inout;enabled;-68;58;1;-1;0;0;0;1;0;0;610;26036;241;3610"
+ },
+ {
+   "FIELD1": "2708089;104;2017-12-13 11:41:16;Discharging;98.00;Europe/Lisbon;pt;518916;519736;2746644;66224;unplugged;Good;4.07;23.80;0.33;250571;199334;disconnected;WIFI;lte;disconnected;inout;enabled;-71;58;1;-1;0;0;0;1;0;0;601;26036;241;3610"
+ },
+ {
+   "FIELD1": "2708090;104;2017-12-13 11:43:47;Discharging;97.00;Europe/Lisbon;pt;491600;491076;2746644;46732;unplugged;Good;4.01;26.40;0.57;250721;199334;disconnected;WIFI;lte;disconnected;inout;enabled;-63;65;1;-1;0;0;0;1;0;0;588;26036;241;3610"
+ },
+ {
+   "FIELD1": "2708091;104;2017-12-13 11:49:39;Discharging;96.00;Europe/Lisbon;pt;494252;495328;2746644;37288;unplugged;Good;4.06;27.40;0.39;251074;199465;disconnected;WIFI;lte;disconnected;inout;enabled;-72;39;1;-1;0;0;0;1;0;0;591;26036;241;3610"
+ },
+ {
+   "FIELD1": "2708092;104;2017-12-13 11:59:07;Discharging;95.00;Europe/Lisbon;pt;497188;497056;2746644;35200;unplugged;Good;4.08;27.90;0.40;251641;199826;disconnected;WIFI;utms;disconnected;inout;enabled;-72;5;0;-1;0;0;0;1;0;0;644;26036;241;3610"
+ },
+ {
+   "FIELD1": "2708093;104;2017-12-13 20:57:34;Discharging;27.00;Europe/Lisbon;pt;559220;559360;2746644;45436;unplugged;Good;3.71;31.90;0.65;15238;6242;disconnected;WIFI;lte;disconnected;none;enabled;-82;19;1;-1;0;0;1;1;0;0;1390;26036;294;3610"
+ },
+ {
+   "FIELD1": "2708094;104;2017-12-13 21:00:31;Charging;25.00;Europe/Lisbon;pt;533568;533376;2746644;47380;ac;Good;3.84;31.20;0.59;15414;6242;disconnected;WIFI;lte;disconnected;none;enabled;-83;13;1;-1;0;0;1;1;0;0;1299;26036;294;3610"
+ },
+ {
+   "FIELD1": "2708095;104;2017-12-13 21:01:38;Charging;26.00;Europe/Lisbon;pt;538432;540400;2746644;47312;ac;Good;3.92;32.30;0.61;15482;6242;WIFI;WIFI;lte;disconnected;none;enabled;-78;26;1;-1;0;0;1;1;0;0;1287;26036;294;3610"
+ },
+ {
+   "FIELD1": "2708671;104;2017-12-13 21:01:48;Charging;26.00;Europe/Lisbon;pt;541860;535212;2746644;47936;ac;Good;3.90;32.40;0.51;15492;6242;WIFI;WIFI;lte;disconnected;none;enabled;-78;26;1;-1;0;0;1;1;0;0;1284;26036;294;3610"
+ },
+ {
+   "FIELD1": "2708672;104;2017-12-13 21:03:29;Charging;27.00;Europe/Lisbon;pt;542472;542460;2746644;46780;ac;Good;3.87;33.40;0.54;15593;6242;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;1;-1;0;0;1;1;0;0;1259;26036;294;3610"
+ },
+ {
+   "FIELD1": "2708673;104;2017-12-13 21:05:30;Charging;28.00;Europe/Lisbon;pt;514588;514156;2746644;49976;ac;Good;3.88;34.10;0.69;15712;6242;WIFI;WIFI;lte;disconnected;none;enabled;-81;26;1;-1;0;0;1;1;0;0;1147;26036;294;3610"
+ },
+ {
+   "FIELD1": "2708674;104;2017-12-13 21:07:30;Charging;29.00;Europe/Lisbon;pt;501832;504920;2746644;67460;ac;Good;3.96;33.40;0.48;15833;6242;WIFI;WIFI;lte;disconnected;none;enabled;-86;6;1;-1;0;0;1;1;0;0;1091;26036;294;3610"
+ },
+ {
+   "FIELD1": "2708675;104;2017-12-13 21:09:21;Charging;30.00;Europe/Lisbon;pt;506016;530992;2746644;70044;ac;Good;3.93;34.40;0.39;15944;6242;WIFI;WIFI;lte;disconnected;none;enabled;-83;13;1;-1;0;0;1;1;0;0;1002;26036;294;3610"
+ },
+ {
+   "FIELD1": "2708676;104;2017-12-13 21:11:12;Charging;31.00;Europe/Lisbon;pt;526620;524668;2746644;52472;ac;Good;3.88;34.80;0.55;16054;6242;WIFI;WIFI;lte;disconnected;none;enabled;-74;52;1;-1;0;0;1;1;0;0;974;26036;294;3610"
+ },
+ {
+   "FIELD1": "2708677;104;2017-12-13 21:13:23;Charging;32.00;Europe/Lisbon;pt;481608;529664;2746644;47152;ac;Good;3.91;34.90;0.49;16186;6242;WIFI;WIFI;lte;disconnected;none;enabled;-78;26;1;-1;0;0;1;1;0;0;860;26036;294;3610"
+ },
+ {
+   "FIELD1": "2708678;104;2017-12-13 21:15:13;Charging;33.00;Europe/Lisbon;pt;440984;508676;2746644;413440;ac;Good;3.93;35.40;0.41;16297;6242;WIFI;WIFI;lte;disconnected;none;enabled;-78;26;1;-1;0;0;1;1;0;0;853;26036;294;3610"
+ },
+ {
+   "FIELD1": "2708679;104;2017-12-13 21:16:49;Charging;34.00;Europe/Lisbon;pt;551972;552268;2746644;47752;ac;Good;4.13;36.20;0.01;16393;6242;WIFI;WIFI;lte;disconnected;none;enabled;-81;19;0;-1;0;0;1;1;0;0;873;26036;294;3610"
+ },
+ {
+   "FIELD1": "2708680;104;2017-12-13 21:17:29;Charging;35.00;Europe/Lisbon;pt;568276;566508;2746644;49268;ac;Good;4.16;35.90;0.01;16433;6242;WIFI;WIFI;lte;disconnected;none;enabled;-81;19;0;-1;0;0;1;1;0;0;873;26036;294;3610"
+ },
+ {
+   "FIELD1": "2708681;104;2017-12-13 21:18:00;Charging;36.00;Europe/Lisbon;pt;578004;568908;2746644;48784;ac;Good;4.17;35.40;0.01;16464;6253;WIFI;WIFI;lte;disconnected;none;enabled;-81;19;0;-1;0;0;1;1;0;0;873;26036;294;3610"
+ },
+ {
+   "FIELD1": "2708682;104;2017-12-13 21:18:39;Charging;37.00;Europe/Lisbon;pt;573744;571808;2746644;48484;ac;Good;4.19;34.80;0.24;16502;6279;WIFI;WIFI;lte;disconnected;none;enabled;-81;19;0;-1;0;0;1;1;0;0;873;26036;294;3610"
+ },
+ {
+   "FIELD1": "2708683;104;2017-12-13 21:19:36;Charging;38.00;Europe/Lisbon;pt;574624;571828;2746644;48596;ac;Good;4.21;34.00;0.51;16559;6330;WIFI;WIFI;lte;disconnected;none;enabled;-81;19;0;-1;0;0;1;1;0;0;873;26036;294;3610"
+ },
+ {
+   "FIELD1": "2708684;104;2017-12-13 21:19:51;Charging;39.00;Europe/Lisbon;pt;569756;573756;2746644;52684;ac;Good;4.21;33.90;0.02;16574;6336;WIFI;WIFI;lte;disconnected;none;enabled;-81;19;0;-1;0;0;1;1;0;0;873;26036;294;3610"
+ },
+ {
+   "FIELD1": "2708685;104;2017-12-13 21:20:32;Charging;40.00;Europe/Lisbon;pt;574356;573056;2746644;48300;ac;Good;4.22;33.60;0.22;16615;6364;WIFI;WIFI;lte;disconnected;none;enabled;-81;19;0;-1;0;0;1;1;0;0;873;26036;294;3610"
+ },
+ {
+   "FIELD1": "2708686;104;2017-12-13 21:21:03;Charging;41.00;Europe/Lisbon;pt;573516;577176;2746644;48160;ac;Good;4.23;33.40;0.61;16646;6390;WIFI;WIFI;lte;disconnected;none;enabled;-81;19;0;-1;0;0;1;1;0;0;873;26036;294;3610"
+ },
+ {
+   "FIELD1": "2708687;104;2017-12-13 21:21:41;Charging;42.00;Europe/Lisbon;pt;584552;569172;2746644;49192;ac;Good;4.24;33.30;0.02;16684;6418;WIFI;WIFI;lte;disconnected;none;enabled;-81;19;0;-1;0;0;1;1;0;0;873;26036;294;3610"
+ },
+ {
+   "FIELD1": "2708689;104;2017-12-13 21:22:15;Charging;43.00;Europe/Lisbon;pt;583468;567964;2746644;48512;ac;Good;4.25;33.20;0.01;16718;6448;WIFI;WIFI;lte;disconnected;none;enabled;-81;19;0;-1;0;0;1;1;0;0;873;26036;294;3610"
+ },
+ {
+   "FIELD1": "2708694;104;2017-12-13 21:22:52;Charging;44.00;Europe/Lisbon;pt;575852;568600;2746644;57604;ac;Good;4.26;33.00;0.01;16755;6481;WIFI;WIFI;lte;disconnected;none;enabled;-81;19;0;-1;0;0;1;1;0;0;872;26036;294;3610"
+ },
+ {
+   "FIELD1": "2708700;104;2017-12-13 21:23:33;Charging;45.00;Europe/Lisbon;pt;583160;572744;2746644;50252;ac;Good;4.27;33.00;0.01;16796;6500;WIFI;WIFI;lte;disconnected;none;enabled;-81;19;0;-1;0;0;1;1;0;0;872;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715064;104;2017-12-13 21:23:40;Charging;45.00;Europe/Lisbon;pt;583148;574800;2746644;51184;ac;Good;4.27;33.00;0.35;16804;6501;WIFI;WIFI;lte;disconnected;none;enabled;-81;19;0;-1;0;0;1;1;0;0;872;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715066;104;2017-12-13 21:23:50;Charging;45.00;Europe/Lisbon;pt;579504;569764;2746644;60728;ac;Good;4.27;32.90;0.02;16813;6501;WIFI;WIFI;lte;disconnected;none;enabled;-81;19;0;-1;0;0;1;1;0;0;872;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715067;104;2017-12-13 21:23:38;Charging;45.00;Europe/Lisbon;pt;586192;574584;2746644;47876;ac;Good;4.27;32.90;0.41;16801;6501;WIFI;WIFI;lte;disconnected;none;enabled;-81;19;0;-1;0;0;1;1;0;0;872;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715068;104;2017-12-13 21:24:05;Charging;46.00;Europe/Lisbon;pt;582436;572180;2746644;52188;ac;Good;4.27;32.90;0.01;16827;6508;WIFI;WIFI;lte;disconnected;none;enabled;-81;19;0;-1;0;0;1;1;0;0;872;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715069;104;2017-12-13 21:24:43;Charging;47.00;Europe/Lisbon;pt;578832;572908;2746644;55092;ac;Good;4.28;32.80;0.22;16865;6537;WIFI;WIFI;lte;disconnected;none;enabled;-81;19;0;-1;0;0;1;1;0;0;872;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715070;104;2017-12-13 21:25:17;Charging;48.00;Europe/Lisbon;pt;577024;576312;2746644;48964;ac;Good;4.29;32.80;0.01;16899;6565;WIFI;WIFI;lte;disconnected;none;enabled;-81;19;0;-1;0;0;1;1;0;0;872;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715071;104;2017-12-13 21:25:54;Charging;49.00;Europe/Lisbon;pt;576252;577376;2746644;51708;ac;Good;4.30;32.70;0.21;16936;6591;WIFI;WIFI;lte;disconnected;none;enabled;-81;19;0;-1;0;0;1;1;0;0;872;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715073;104;2017-12-13 21:26:33;Charging;50.00;Europe/Lisbon;pt;575604;575460;2746644;54016;ac;Good;4.30;32.60;0.31;16975;6627;WIFI;WIFI;lte;disconnected;none;enabled;-81;19;0;-1;0;0;1;1;0;0;872;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715074;104;2017-12-13 21:27:01;Charging;51.00;Europe/Lisbon;pt;578848;578144;2746644;48496;ac;Good;4.31;32.60;0.18;17004;6646;WIFI;WIFI;lte;disconnected;none;enabled;-81;19;0;-1;0;0;1;1;0;0;872;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715075;104;2017-12-13 21:27:45;Charging;52.00;Europe/Lisbon;pt;578348;578092;2746644;50812;ac;Good;4.32;32.50;0.47;17048;6685;WIFI;WIFI;lte;disconnected;none;enabled;-81;19;0;-1;0;0;1;1;0;0;872;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715076;104;2017-12-13 23:14:51;Discharging;100.00;Europe/Lisbon;pt;576516;576396;2746644;49092;unplugged;Good;4.30;20.50;0.54;23475;11800;disconnected;WIFI;lte;disconnected;none;enabled;-77;26;1;-1;0;0;1;1;0;0;673;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715077;104;2017-12-13 23:16:41;Discharging;99.00;Europe/Lisbon;pt;511648;511624;2746644;51416;unplugged;Good;3.95;23.40;0.53;23585;11800;disconnected;WIFI;lte;disconnected;none;enabled;-82;19;1;-1;0;0;1;1;0;0;688;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715078;104;2017-12-13 23:20:05;Discharging;98.00;Europe/Lisbon;pt;499244;499292;2746644;47868;unplugged;Good;4.12;26.50;0.62;23789;11809;disconnected;WIFI;lte;disconnected;none;enabled;-77;6;0;-1;0;0;1;1;0;0;687;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715079;104;2017-12-13 23:23:17;Discharging;97.00;Europe/Lisbon;pt;501096;501308;2746644;48044;unplugged;Good;4.06;27.40;0.43;23981;11817;disconnected;WIFI;lte;disconnected;none;enabled;-82;13;1;-1;0;0;1;1;0;0;680;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715080;104;2017-12-14 01:31:23;Charging;37.00;Europe/Lisbon;pt;556336;561456;2746644;50272;ac;Good;3.82;30.10;0.71;31667;11817;disconnected;WIFI;lte;disconnected;none;enabled;-77;26;1;-1;0;0;1;1;0;0;13392;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715082;104;2017-12-14 01:32:58;Charging;38.00;Europe/Lisbon;pt;541500;541632;2746644;38816;ac;Good;4.12;31.80;0.56;31762;11821;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13391;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715083;104;2017-12-14 01:33:50;Charging;39.00;Europe/Lisbon;pt;526640;537400;2746644;48452;ac;Good;4.15;32.40;0.32;31813;11857;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13391;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715084;104;2017-12-14 01:34:05;Charging;40.00;Europe/Lisbon;pt;519052;537160;2746644;60460;ac;Good;4.15;32.40;0.01;31828;11865;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13391;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715085;104;2017-12-14 01:34:40;Charging;41.00;Europe/Lisbon;pt;532780;533244;2746644;47560;ac;Good;4.16;32.40;0.33;31863;11887;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13391;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715086;104;2017-12-14 01:35:15;Charging;42.00;Europe/Lisbon;pt;537836;536308;2746644;47164;ac;Good;4.17;32.40;0.01;31898;11910;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13391;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715205;104;2017-12-14 01:35:27;Charging;42.00;Europe/Lisbon;pt;532924;535868;2746644;51116;ac;Good;4.18;32.50;0.01;31910;11911;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13391;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715206;104;2017-12-14 01:35:22;Charging;42.00;Europe/Lisbon;pt;525604;532888;2746644;63404;ac;Good;4.18;32.50;0.01;31905;11911;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13391;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715207;104;2017-12-14 01:35:18;Charging;42.00;Europe/Lisbon;pt;537216;537536;2746644;48068;ac;Good;4.17;32.40;0.45;31901;11910;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13391;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715208;104;2017-12-14 01:35:53;Charging;43.00;Europe/Lisbon;pt;516828;529572;2746644;75296;ac;Good;4.18;32.50;0.18;31935;11920;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13391;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715210;104;2017-12-14 01:36:44;Charging;44.00;Europe/Lisbon;pt;521244;545020;2746644;52680;ac;Good;4.20;32.40;0.26;31986;11964;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13391;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715211;104;2017-12-14 01:37:07;Charging;45.00;Europe/Lisbon;pt;525932;529592;2746644;64728;ac;Good;4.20;32.40;0.22;32009;11982;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13391;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715212;104;2017-12-14 01:37:37;Charging;46.00;Europe/Lisbon;pt;527552;527000;2746644;65652;ac;Good;4.21;32.30;0.01;32039;12009;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13391;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715213;104;2017-12-14 01:38:15;Charging;47.00;Europe/Lisbon;pt;529660;530404;2746644;58300;ac;Good;4.22;32.30;0.56;32077;12043;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13391;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715214;104;2017-12-14 01:38:54;Charging;48.00;Europe/Lisbon;pt;527776;514284;2746644;78852;ac;Good;4.24;32.20;0.21;32116;12074;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13391;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715215;104;2017-12-14 01:39:34;Charging;49.00;Europe/Lisbon;pt;528728;519796;2746644;71316;ac;Good;4.25;32.10;0.22;32156;12108;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13391;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715216;104;2017-12-14 01:39:59;Charging;50.00;Europe/Lisbon;pt;532504;532072;2746644;47060;ac;Good;4.25;32.20;0.32;32181;12118;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13391;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715218;104;2017-12-14 01:40:39;Charging;51.00;Europe/Lisbon;pt;510808;543112;2746644;53808;ac;Good;4.27;32.20;0.01;32222;12118;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13391;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715222;104;2017-12-14 01:41:16;Charging;52.00;Europe/Lisbon;pt;527228;526164;2746644;49112;ac;Good;4.27;32.20;0.22;32259;12142;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13391;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715225;104;2017-12-14 01:41:50;Charging;53.00;Europe/Lisbon;pt;521916;520488;2746644;61124;ac;Good;4.27;32.10;0.01;32293;12173;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13391;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715230;104;2017-12-14 01:42:29;Charging;54.00;Europe/Lisbon;pt;521948;514544;2746644;67304;ac;Good;4.29;32.10;0.51;32332;12203;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13391;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715235;104;2017-12-14 01:43:00;Charging;55.00;Europe/Lisbon;pt;545256;524500;2746644;48968;ac;Good;4.30;32.20;0.47;32363;12225;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715239;104;2017-12-14 01:43:41;Charging;56.00;Europe/Lisbon;pt;533456;534796;2746644;51832;ac;Good;4.31;32.10;0.01;32404;12258;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715244;104;2017-12-14 01:44:18;Charging;57.00;Europe/Lisbon;pt;527732;536240;2746644;55784;ac;Good;4.32;32.10;0.01;32441;12288;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715247;104;2017-12-14 01:44:52;Charging;58.00;Europe/Lisbon;pt;535672;535380;2746644;47496;ac;Good;4.33;32.10;1.05;32475;12319;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715249;104;2017-12-14 01:45:32;Charging;59.00;Europe/Lisbon;pt;538748;538476;2746644;47168;ac;Good;4.34;32.10;0.83;32515;12349;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715476;104;2017-12-14 01:45:40;Charging;59.00;Europe/Lisbon;pt;535260;538960;2746644;52584;ac;Good;4.34;32.10;0.17;32522;12350;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715477;104;2017-12-14 01:45:35;Charging;59.00;Europe/Lisbon;pt;538904;538516;2746644;50072;ac;Good;4.34;32.10;0.25;32517;12350;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715478;104;2017-12-14 01:45:46;Charging;60.00;Europe/Lisbon;pt;544280;537860;2746644;47124;ac;Good;4.34;32.20;0.01;32529;12352;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715479;104;2017-12-14 01:45:53;Charging;60.00;Europe/Lisbon;pt;539948;540080;2746644;48772;ac;Good;4.34;32.20;1.08;32537;12353;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715480;104;2017-12-14 01:45:38;Charging;59.00;Europe/Lisbon;pt;534008;538856;2746644;55156;ac;Good;4.34;32.20;0.19;32520;12350;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715481;104;2017-12-14 01:45:43;Charging;59.00;Europe/Lisbon;pt;535564;537092;2746644;54048;ac;Good;4.34;32.20;0.23;32525;12351;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715482;104;2017-12-14 01:45:57;Charging;60.00;Europe/Lisbon;pt;543040;535484;2746644;50812;ac;Good;4.34;32.20;0.49;32540;12354;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715483;104;2017-12-14 01:46:36;Charging;61.00;Europe/Lisbon;pt;539224;539112;2746644;48628;ac;Good;4.35;32.20;0.34;32579;12377;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715484;104;2017-12-14 01:47:01;Charging;62.00;Europe/Lisbon;pt;538652;538428;2746644;48444;ac;Good;4.36;32.20;0.27;32604;12398;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715485;104;2017-12-14 01:47:51;Charging;63.00;Europe/Lisbon;pt;536700;540428;2746644;50920;ac;Good;4.36;32.10;0.26;32653;12444;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715486;104;2017-12-14 01:48:11;Charging;64.00;Europe/Lisbon;pt;539784;540572;2746644;48052;ac;Good;4.36;32.10;0.02;32673;12458;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715487;104;2017-12-14 01:48:49;Charging;65.00;Europe/Lisbon;pt;540432;539920;2746644;47308;ac;Good;4.36;32.00;0.24;32711;12486;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715488;104;2017-12-14 01:49:38;Charging;66.00;Europe/Lisbon;pt;529072;540624;2746644;56852;ac;Good;4.36;31.80;0.23;32760;12525;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715489;104;2017-12-14 01:50:08;Charging;67.00;Europe/Lisbon;pt;526272;530564;2746644;68932;ac;Good;4.36;31.70;0.51;32790;12549;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715490;104;2017-12-14 01:50:52;Charging;68.00;Europe/Lisbon;pt;529264;533188;2746644;63764;ac;Good;4.36;31.60;0.25;32834;12587;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715491;104;2017-12-14 01:51:35;Charging;69.00;Europe/Lisbon;pt;531048;533560;2746644;63112;ac;Good;4.36;31.40;0.01;32879;12624;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2715492;104;2017-12-14 01:52:14;Charging;70.00;Europe/Lisbon;pt;543960;536436;2746644;48220;ac;Good;4.36;31.10;0.96;32917;12638;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2716114;104;2017-12-14 01:54:27;Charging;73.00;Europe/Lisbon;pt;541384;536464;2746644;48432;ac;Good;4.36;30.30;0.28;33050;12751;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2716116;104;2017-12-14 01:53:43;Charging;72.00;Europe/Lisbon;pt;542260;535864;2746644;51576;ac;Good;4.36;30.70;0.01;33006;12712;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2716117;104;2017-12-14 01:54:31;Charging;73.00;Europe/Lisbon;pt;530816;524592;2746644;77704;ac;Good;4.36;30.30;0.01;33054;12751;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2716118;104;2017-12-14 01:53:02;Charging;71.00;Europe/Lisbon;pt;544208;534812;2746644;48628;ac;Good;4.36;30.90;0.26;32965;12677;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2716119;104;2017-12-14 01:54:38;Charging;73.00;Europe/Lisbon;pt;532152;525136;2746644;74728;ac;Good;4.36;30.30;0.58;33061;12751;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2716120;104;2017-12-14 01:54:42;Charging;73.00;Europe/Lisbon;pt;530572;527772;2746644;73300;ac;Good;4.36;30.20;0.82;33065;12752;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13399;26036;294;3610"
+ },
+ {
+   "FIELD1": "2716121;104;2017-12-14 01:54:35;Charging;73.00;Europe/Lisbon;pt;531984;524684;2746644;75140;ac;Good;4.36;30.30;0.94;33058;12751;WIFI;WIFI;lte;disconnected;none;enabled;-80;26;0;-1;0;0;1;1;0;0;13400;26036;294;3610"
+ },
+ {
+   "FIELD1": "2716122;104;2017-12-14 01:56:16;Discharging;72.00;Europe/Lisbon;pt;584796;585084;2746644;48620;unplugged;Good;4.00;29.20;0.26;33160;12752;disconnected;WIFI;lte;disconnected;none;enabled;-85;13;1;-1;0;0;1;1;0;0;13399;26036;294;3610"
+ },
+ {
+   "FIELD1": "2716123;104;2017-12-14 01:59:47;Discharging;71.00;Europe/Lisbon;pt;591792;582104;2746644;63340;unplugged;Good;3.96;28.60;0.24;33370;12752;disconnected;WIFI;lte;disconnected;none;enabled;-84;13;1;-1;0;0;1;1;0;0;13399;26036;294;3610"
+ },
+ {
+   "FIELD1": "2716124;104;2017-12-14 02:03:17;Discharging;70.00;Europe/Lisbon;pt;589624;575464;2746644;59268;unplugged;Good;3.89;28.20;0.39;33581;12752;disconnected;WIFI;lte;disconnected;none;enabled;-87;13;1;-1;0;0;1;1;0;0;13399;26036;294;3610"
+ },
+ {
+   "FIELD1": "2716125;104;2017-12-14 02:06:48;Discharging;69.00;Europe/Lisbon;pt;569276;573516;2746644;71696;unplugged;Good;3.92;27.80;0.28;33791;12752;disconnected;WIFI;lte;disconnected;none;enabled;-81;13;1;-1;0;0;1;1;0;0;13401;26036;294;3610"
+ },
+ {
+   "FIELD1": "2716126;104;2017-12-14 02:09:48;Discharging;68.00;Europe/Lisbon;pt;571332;570848;2746644;72904;unplugged;Good;3.90;28.00;0.33;33971;12752;disconnected;WIFI;lte;disconnected;none;enabled;-90;6;1;-1;0;0;1;1;0;0;13401;26036;294;3610"
+ },
+ {
+   "FIELD1": "2716127;104;2017-12-14 02:13:18;Discharging;67.00;Europe/Lisbon;pt;573536;562068;2746644;62456;unplugged;Good;3.89;28.00;0.28;34182;12752;disconnected;WIFI;lte;disconnected;none;enabled;-80;26;1;-1;0;0;1;1;0;0;13401;26036;294;3610"
+ },
+ {
+   "FIELD1": "2716128;104;2017-12-14 02:15:49;Discharging;66.00;Europe/Lisbon;pt;627460;628220;2746644;46820;unplugged;Good;3.78;28.60;0.39;34333;12752;disconnected;WIFI;lte;disconnected;none;enabled;-86;13;1;-1;0;0;1;1;0;0;13395;26036;294;3610"
+ },
+ {
+   "FIELD1": "2716129;104;2017-12-14 02:18:49;Discharging;65.00;Europe/Lisbon;pt;612376;611316;2746644;48612;unplugged;Good;3.83;28.70;0.41;34513;12752;disconnected;WIFI;lte;disconnected;none;enabled;-82;39;1;-1;0;0;1;1;0;0;13394;26036;294;3610"
+ },
+ {
+   "FIELD1": "2716130;104;2017-12-14 02:21:49;Discharging;64.00;Europe/Lisbon;pt;605344;588036;2746644;55944;unplugged;Good;3.85;28.90;0.25;34693;12752;disconnected;WIFI;lte;disconnected;none;enabled;-82;13;1;-1;0;0;1;1;0;0;13391;26036;294;3610"
+ },
+ {
+   "FIELD1": "2716131;104;2017-12-14 02:24:20;Discharging;63.00;Europe/Lisbon;pt;568816;580856;2746644;66372;unplugged;Good;3.81;29.00;0.37;34843;12752;disconnected;WIFI;lte;disconnected;none;enabled;-81;26;1;-1;0;0;1;1;0;0;13383;26036;294;3610"
+ },
+ {
+   "FIELD1": "2716132;104;2017-12-14 02:25:59;Charging;64.00;Europe/Lisbon;pt;531748;532132;2746644;53372;ac;Good;4.26;30.00;0.83;34942;12757;WIFI;WIFI;lte;disconnected;none;enabled;-83;19;0;-1;0;0;1;1;0;0;13380;26036;294;3610"
+ },
+ {
+   "FIELD1": "2716133;104;2017-12-14 02:26:43;Charging;65.00;Europe/Lisbon;pt;535132;541324;2746644;50084;ac;Good;4.33;30.30;0.01;34986;12783;WIFI;WIFI;lte;disconnected;none;enabled;-83;19;0;-1;0;0;1;1;0;0;13380;26036;294;3610"
+ },
+ {
+   "FIELD1": "2716134;104;2017-12-14 02:27:30;Charging;66.00;Europe/Lisbon;pt;536612;537644;2746644;47272;ac;Good;4.36;30.20;0.46;35034;12820;WIFI;WIFI;lte;disconnected;none;enabled;-83;19;0;-1;0;0;1;1;0;0;13380;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740551;104;2017-12-14 02:27:42;Charging;66.00;Europe/Lisbon;pt;538376;519840;2746644;70168;ac;Good;4.36;30.20;0.22;35046;12821;WIFI;WIFI;lte;disconnected;none;enabled;-83;19;0;-1;0;0;1;1;0;0;13379;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740552;104;2017-12-14 02:27:52;Charging;67.00;Europe/Lisbon;pt;538324;522436;2746644;65216;ac;Good;4.36;30.20;0.22;35055;12822;WIFI;WIFI;lte;disconnected;none;enabled;-83;19;0;-1;0;0;1;1;0;0;13379;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740553;104;2017-12-14 02:27:35;Charging;66.00;Europe/Lisbon;pt;539976;529728;2746644;56500;ac;Good;4.36;30.20;0.73;35038;12821;WIFI;WIFI;lte;disconnected;none;enabled;-83;19;0;-1;0;0;1;1;0;0;13379;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740554;104;2017-12-14 02:27:44;Charging;66.00;Europe/Lisbon;pt;532628;520428;2746644;77844;ac;Good;4.36;30.20;0.01;35047;12821;WIFI;WIFI;lte;disconnected;none;enabled;-83;19;0;-1;0;0;1;1;0;0;13379;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740555;104;2017-12-14 02:27:49;Charging;67.00;Europe/Lisbon;pt;536052;522592;2746644;69100;ac;Good;4.36;30.20;0.01;35052;12822;WIFI;WIFI;lte;disconnected;none;enabled;-83;19;0;-1;0;0;1;1;0;0;13379;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740556;104;2017-12-14 02:27:38;Charging;66.00;Europe/Lisbon;pt;559596;515776;2746644;50892;ac;Good;4.36;30.20;0.02;35041;12821;WIFI;WIFI;lte;disconnected;none;enabled;-83;19;0;-1;0;0;1;1;0;0;13379;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740557;104;2017-12-14 02:28:15;Charging;67.00;Europe/Lisbon;pt;544112;530756;2746644;48620;ac;Good;4.36;30.10;0.34;35078;12843;WIFI;WIFI;lte;disconnected;none;enabled;-83;19;0;-1;0;0;1;1;0;0;13379;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740558;104;2017-12-14 02:28:30;Charging;68.00;Europe/Lisbon;pt;540404;534820;2746644;51320;ac;Good;4.36;30.00;1.00;35093;12854;WIFI;WIFI;lte;disconnected;none;enabled;-83;19;0;-1;0;0;1;1;0;0;13379;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740559;104;2017-12-14 02:29:33;Charging;69.00;Europe/Lisbon;pt;542492;533436;2746644;48224;ac;Good;4.36;29.50;0.25;35156;12913;WIFI;WIFI;lte;disconnected;none;enabled;-83;19;0;-1;0;0;1;1;0;0;13379;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740560;104;2017-12-14 02:30:02;Charging;70.00;Europe/Lisbon;pt;530452;530580;2746644;61532;ac;Good;4.36;29.40;0.26;35184;12934;WIFI;WIFI;lte;disconnected;none;enabled;-83;19;0;-1;0;0;1;1;0;0;13379;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740561;104;2017-12-14 02:30:38;Charging;71.00;Europe/Lisbon;pt;530528;538556;2746644;53156;ac;Good;4.36;29.10;0.26;35220;12962;WIFI;WIFI;lte;disconnected;none;enabled;-83;19;0;-1;0;0;1;1;0;0;13379;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740562;104;2017-12-14 02:31:33;Charging;72.00;Europe/Lisbon;pt;521048;530508;2746644;73076;ac;Good;4.35;28.80;0.28;35275;13011;WIFI;WIFI;lte;disconnected;none;enabled;-83;19;0;-1;0;0;1;1;0;0;13379;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740563;104;2017-12-14 02:32:19;Charging;73.00;Europe/Lisbon;pt;521596;533328;2746644;69268;ac;Good;4.35;28.40;0.28;35321;13053;WIFI;WIFI;lte;disconnected;none;enabled;-83;19;0;-1;0;0;1;1;0;0;13379;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740564;104;2017-12-14 02:33:15;Charging;74.00;Europe/Lisbon;pt;527500;535096;2746644;60348;ac;Good;4.36;28.00;0.55;35377;13105;WIFI;WIFI;lte;disconnected;none;enabled;-83;19;0;-1;0;0;1;1;0;0;13379;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740565;104;2017-12-14 02:34:18;Charging;75.00;Europe/Lisbon;pt;566876;539752;2746644;47680;ac;Good;4.36;27.60;0.32;35441;13158;WIFI;WIFI;lte;disconnected;none;enabled;-83;19;0;-1;0;0;1;1;0;0;13379;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740566;104;2017-12-14 02:35:17;Charging;76.00;Europe/Lisbon;pt;548676;548348;2746644;48200;ac;Good;4.36;27.40;0.39;35500;13195;WIFI;WIFI;lte;disconnected;none;enabled;-83;19;0;-1;0;0;1;1;0;0;13379;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740567;104;2017-12-14 02:36:45;Charging;77.00;Europe/Lisbon;pt;549604;549880;2746644;48516;ac;Good;4.36;26.90;0.26;35588;13274;WIFI;WIFI;lte;disconnected;none;enabled;-83;19;0;-1;0;0;1;1;0;0;13379;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740568;104;2017-12-14 02:37:51;Charging;78.00;Europe/Lisbon;pt;549884;549832;2746644;48320;ac;Good;4.35;26.50;0.79;35654;13334;WIFI;WIFI;lte;disconnected;none;enabled;-83;19;0;-1;0;0;1;1;0;0;13379;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740569;104;2017-12-14 10:25:27;Discharging;100.00;Europe/Lisbon;pt;824004;824132;2746644;45792;unplugged;Good;4.30;19.60;0.82;63710;37490;disconnected;WIFI;lte;disconnected;none;enabled;-83;19;1;-1;0;0;1;1;0;0;13156;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740570;104;2017-12-14 10:28:54;Discharging;99.00;Europe/Lisbon;pt;733248;763620;2746644;60856;unplugged;Good;4.11;23.60;0.30;63917;37490;disconnected;WIFI;lte;disconnected;none;enabled;-81;13;1;-1;0;0;1;1;0;0;13163;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740571;104;2017-12-14 10:31:24;Discharging;98.00;Europe/Lisbon;pt;655008;692860;2746644;85932;unplugged;Good;4.10;25.00;0.34;64066;37490;disconnected;WIFI;lte;disconnected;none;enabled;-84;13;1;-1;0;0;1;1;0;0;13144;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740572;104;2017-12-14 10:33:54;Discharging;97.00;Europe/Lisbon;pt;671748;678428;2746644;51484;unplugged;Good;4.01;26.00;0.31;64217;37490;disconnected;WIFI;lte;disconnected;none;enabled;-84;13;1;-1;0;0;1;1;0;0;13141;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740573;104;2017-12-14 10:35:55;Discharging;96.00;Europe/Lisbon;pt;651924;668072;2746644;80224;unplugged;Good;4.00;26.70;0.40;64337;37490;disconnected;WIFI;lte;disconnected;none;enabled;-87;13;1;-1;0;0;1;1;0;0;13134;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740574;104;2017-12-14 10:38:25;Discharging;95.00;Europe/Lisbon;pt;693864;652588;2746644;46132;unplugged;Good;4.01;27.20;0.37;64487;37490;disconnected;WIFI;lte;disconnected;none;enabled;-88;6;1;-1;0;0;1;1;0;0;13128;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740575;104;2017-12-14 10:40:55;Discharging;94.00;Europe/Lisbon;pt;662776;666984;2746644;53872;unplugged;Good;3.97;27.40;0.62;64638;37490;disconnected;WIFI;lte;disconnected;none;enabled;-86;13;1;-1;0;0;1;1;0;0;13111;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740576;104;2017-12-14 10:42:56;Discharging;93.00;Europe/Lisbon;pt;669512;658584;2746644;50192;unplugged;Good;4.02;28.20;0.51;64758;37490;disconnected;WIFI;lte;disconnected;none;enabled;-83;13;1;-1;0;0;1;1;0;0;13094;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740577;104;2017-12-14 10:44:56;Discharging;92.00;Europe/Lisbon;pt;631844;630800;2746644;68688;unplugged;Good;4.03;28.60;0.52;64878;37490;disconnected;WIFI;lte;disconnected;none;enabled;-82;13;1;-1;0;0;1;1;0;0;13082;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740578;104;2017-12-14 10:46:56;Discharging;91.00;Europe/Lisbon;pt;603640;597588;2746644;67368;unplugged;Good;3.98;29.10;0.52;64999;37490;disconnected;WIFI;lte;disconnected;none;enabled;-87;13;1;-1;0;0;1;1;0;0;13058;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740579;104;2017-12-14 10:53:04;Discharging;90.00;Europe/Lisbon;pt;607052;605172;2746644;54596;unplugged;Good;3.97;27.50;0.45;65367;37696;disconnected;WIFI;lte;disconnected;none;enabled;-67;65;1;-1;0;0;1;1;0;0;13061;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740580;104;2017-12-14 10:55:34;Discharging;89.00;Europe/Lisbon;pt;585276;578340;2746644;54552;unplugged;Good;3.95;28.10;0.36;65517;37696;disconnected;WIFI;lte;disconnected;none;enabled;-72;52;1;-1;0;0;1;1;0;0;13046;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740581;104;2017-12-14 10:57:34;Discharging;88.00;Europe/Lisbon;pt;569264;569736;2746644;79112;unplugged;Good;3.98;27.80;0.29;65636;37696;disconnected;WIFI;lte;disconnected;none;enabled;-70;52;1;-1;0;0;1;1;0;0;13046;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740582;104;2017-12-14 11:01:05;Discharging;87.00;Europe/Lisbon;pt;538040;607804;2746644;59596;unplugged;Good;4.02;28.70;0.31;65846;37696;disconnected;WIFI;lte;disconnected;none;enabled;-73;52;1;-1;0;0;1;1;0;0;13208;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740583;104;2017-12-15 00:31:58;Discharging;36.00;Europe/Lisbon;pt;576884;576644;2746644;16920;unplugged;Good;3.93;35.20;0.64;114501;71110;disconnected;WIFI;lte;disconnected;none;enabled;-86;13;0;-1;0;0;0;1;0;0;13000;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740584;104;2017-12-15 00:34:56;Discharging;35.00;Europe/Lisbon;pt;627016;626852;2746644;48004;unplugged;Good;3.72;29.40;0.40;114679;71158;disconnected;WIFI;lte;disconnected;none;enabled;-73;52;1;-1;0;0;0;1;0;0;12998;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740585;104;2017-12-15 00:36:55;Charging;36.00;Europe/Lisbon;pt;639696;602164;2746644;48420;ac;Good;3.99;30.80;0.44;114798;71176;disconnected;WIFI;lte;disconnected;none;enabled;-85;26;1;-1;0;0;0;1;0;0;12998;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740677;104;2017-12-15 00:37:13;Charging;36.00;Europe/Lisbon;pt;621324;594296;2746644;48232;ac;Good;4.16;31.40;-3.30;114814;71176;WIFI;WIFI;lte;disconnected;none;enabled;-85;13;0;-1;0;0;0;1;0;0;12998;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740678;104;2017-12-15 00:37:20;Charging;36.00;Europe/Lisbon;pt;623032;590384;2746644;47700;ac;Good;4.16;31.70;0.34;114822;71176;WIFI;WIFI;lte;disconnected;none;enabled;-85;13;0;-1;0;0;0;1;0;0;12998;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740679;104;2017-12-15 00:37:11;Charging;36.00;Europe/Lisbon;pt;600484;611552;2746644;47152;ac;Good;4.15;31.40;0.01;114812;71176;WIFI;WIFI;lte;disconnected;none;enabled;-85;13;0;-1;0;0;0;1;0;0;12998;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740680;104;2017-12-15 00:37:01;Charging;36.00;Europe/Lisbon;pt;596864;596748;2746644;46916;ac;Good;4.03;31.00;0.53;114803;71176;WIFI;WIFI;lte;disconnected;none;enabled;-85;13;0;-1;0;0;0;1;0;0;12998;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740681;104;2017-12-15 00:37:08;Charging;36.00;Europe/Lisbon;pt;598892;606580;2746644;55528;ac;Good;4.03;31.00;0.01;114809;71176;WIFI;WIFI;lte;disconnected;none;enabled;-85;13;0;-1;0;0;0;1;0;0;12998;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740682;104;2017-12-15 00:37:16;Charging;36.00;Europe/Lisbon;pt;619964;593548;2746644;49228;ac;Good;4.16;31.50;0.18;114817;71176;WIFI;WIFI;lte;disconnected;none;enabled;-85;13;0;-1;0;0;0;1;0;0;12998;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740683;104;2017-12-15 00:38:03;Charging;37.00;Europe/Lisbon;pt;639784;631256;2746644;48172;ac;Good;3.96;31.90;0.52;114865;71176;WIFI;WIFI;lte;disconnected;none;enabled;-76;26;1;-1;0;0;0;1;0;0;12996;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740684;104;2017-12-15 00:39:26;Charging;38.00;Europe/Lisbon;pt;600740;601324;2746644;46924;ac;Good;4.17;33.00;0.53;114948;71176;WIFI;WIFI;lte;disconnected;none;enabled;-77;19;0;-1;0;0;0;1;0;0;12995;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740685;104;2017-12-15 00:40:04;Charging;39.00;Europe/Lisbon;pt;604248;601668;2746644;48888;ac;Good;4.20;32.80;0.35;114986;71209;WIFI;WIFI;lte;disconnected;none;enabled;-77;19;0;-1;0;0;0;1;0;0;12995;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740686;104;2017-12-15 00:40:46;Charging;40.00;Europe/Lisbon;pt;605176;604456;2746644;47276;ac;Good;4.22;32.50;0.44;115028;71241;WIFI;WIFI;lte;disconnected;none;enabled;-77;19;0;-1;0;0;0;1;0;0;12995;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740687;104;2017-12-15 00:41:17;Charging;41.00;Europe/Lisbon;pt;607668;607164;2746644;48612;ac;Good;4.24;32.20;0.43;115059;71268;WIFI;WIFI;lte;disconnected;none;enabled;-77;19;0;-1;0;0;0;1;0;0;12995;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740688;104;2017-12-15 00:41:52;Charging;42.00;Europe/Lisbon;pt;599136;609016;2746644;55736;ac;Good;4.25;31.90;0.33;115094;71300;WIFI;WIFI;lte;disconnected;none;enabled;-77;19;0;-1;0;0;0;1;0;0;12995;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740689;104;2017-12-15 00:42:28;Charging;43.00;Europe/Lisbon;pt;608160;608084;2746644;49216;ac;Good;4.26;31.70;0.31;115130;71333;WIFI;WIFI;lte;disconnected;none;enabled;-77;19;0;-1;0;0;0;1;0;0;12995;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740691;104;2017-12-15 00:43:06;Charging;44.00;Europe/Lisbon;pt;602464;607952;2746644;54736;ac;Good;4.27;31.60;0.32;115168;71367;WIFI;WIFI;lte;disconnected;none;enabled;-77;19;0;-1;0;0;0;1;0;0;12995;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740694;104;2017-12-15 00:43:43;Charging;45.00;Europe/Lisbon;pt;601796;609908;2746644;53428;ac;Good;4.28;31.60;0.33;115205;71401;WIFI;WIFI;lte;disconnected;none;enabled;-77;19;0;-1;0;0;0;1;0;0;12995;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740695;104;2017-12-15 00:44:19;Charging;46.00;Europe/Lisbon;pt;610056;609420;2746644;48468;ac;Good;4.29;31.50;0.33;115241;71428;WIFI;WIFI;lte;disconnected;none;enabled;-77;19;0;-1;0;0;0;1;0;0;12995;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740698;104;2017-12-15 00:45:25;Charging;47.00;Europe/Lisbon;pt;610464;609788;2746644;47944;ac;Good;4.30;31.30;0.32;115307;71490;WIFI;WIFI;lte;disconnected;none;enabled;-77;19;0;-1;0;0;0;1;0;0;12995;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740700;104;2017-12-15 00:45:47;Charging;48.00;Europe/Lisbon;pt;616212;616100;2746644;47528;ac;Good;4.30;31.30;0.70;115329;71509;WIFI;WIFI;lte;disconnected;none;enabled;-77;19;0;-1;0;0;0;1;0;0;12995;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740702;104;2017-12-15 00:46:17;Charging;49.00;Europe/Lisbon;pt;603928;631672;2746644;56084;ac;Good;4.31;31.20;0.01;115358;71516;WIFI;WIFI;lte;disconnected;none;enabled;-77;19;0;-1;0;0;0;1;0;0;12995;26036;294;3610"
+ },
+ {
+   "FIELD1": "2740705;104;2017-12-15 00:46:47;Charging;50.00;Europe/Lisbon;pt;605952;630720;2746644;48228;ac;Good;4.32;31.20;0.22;115388;71544;WIFI;WIFI;lte;disconnected;none;enabled;-77;19;0;-1;0;0;0;1;0;0;12995;26036;294;3610"
+ },
+ {
+   "FIELD1": "2797385;104;2017-12-15 00:46:57;Charging;50.00;Europe/Lisbon;pt;607452;620948;2746644;58108;ac;Good;4.32;31.30;0.01;115399;71545;WIFI;WIFI;lte;disconnected;none;enabled;-77;19;0;-1;0;0;0;1;0;0;12995;26036;294;3610"
+ },
+ {
+   "FIELD1": "2797386;104;2017-12-15 00:46:49;Charging;50.00;Europe/Lisbon;pt;608652;627392;2746644;48224;ac;Good;4.32;31.30;0.01;115391;71544;WIFI;WIFI;lte;disconnected;none;enabled;-77;19;0;-1;0;0;0;1;0;0;12995;26036;294;3610"
+ },
+ {
+   "FIELD1": "2797387;104;2017-12-15 00:46:54;Charging;50.00;Europe/Lisbon;pt;614624;620608;2746644;48648;ac;Good;4.32;31.30;0.01;115396;71545;WIFI;WIFI;lte;disconnected;none;enabled;-77;19;0;-1;0;0;0;1;0;0;12995;26036;294;3610"
+ },
+ {
+   "FIELD1": "2797399;104;2017-12-15 00:46:52;Charging;50.00;Europe/Lisbon;pt;603912;627752;2746644;53436;ac;Good;4.32;31.30;0.14;115393;71545;WIFI;WIFI;lte;disconnected;none;enabled;-77;19;0;-1;0;0;0;1;0;0;12995;26036;294;3610"
+ },
+ {
+   "FIELD1": "2797409;104;2017-12-15 00:47:01;Charging;50.00;Europe/Lisbon;pt;617036;618148;2746644;49200;ac;Good;4.32;31.30;0.01;115403;71546;WIFI;WIFI;lte;disconnected;none;enabled;-77;19;0;-1;0;0;0;1;0;0;12995;26036;294;3610"
+ },
+ {
+   "FIELD1": "2797410;104;2017-12-15 00:47:21;Charging;51.00;Europe/Lisbon;pt;616816;619036;2746644;51012;ac;Good;4.32;31.30;0.01;115423;71556;WIFI;WIFI;lte;disconnected;none;enabled;-77;19;0;-1;0;0;0;1;0;0;12995;26036;294;3610"
+ },
+ {
+   "FIELD1": "2797411;104;2017-12-15 00:47:59;Charging;52.00;Europe/Lisbon;pt;618000;618092;2746644;48432;ac;Good;4.33;31.30;0.20;115460;71588;WIFI;WIFI;lte;disconnected;none;enabled;-77;19;0;-1;0;0;0;1;0;0;12995;26036;294;3610"
+ },
+ {
+   "FIELD1": "2797412;104;2017-12-15 00:48:35;Charging;53.00;Europe/Lisbon;pt;618080;618712;2746644;48344;ac;Good;4.34;31.30;0.22;115496;71621;WIFI;WIFI;lte;disconnected;none;enabled;-77;19;0;-1;0;0;0;1;0;0;12995;26036;294;3610"
+ },
+ {
+   "FIELD1": "2797438;104;2017-12-17 01:31:05;Charging;55.00;Europe/Lisbon;pt;628008;638516;2746644;49652;ac;Good;4.35;13.80;0.81;290851;214107;WIFI;WIFI;lte;disconnected;none;enabled;-57;130;0;-1;0;0;0;1;0;0;12383;26036;294;3610"
+ },
+ {
+   "FIELD1": "2797439;104;2017-12-17 01:30:55;Charging;54.00;Europe/Lisbon;pt;635268;636968;2746644;47552;ac;Good;4.16;13.20;0.70;290840;214107;disconnected;WIFI;lte;disconnected;none;enabled;-57;130;0;-1;0;0;0;1;0;0;12371;26036;294;3610"
+ },
+ {
+   "FIELD1": "2797440;104;2017-12-16 11:00:27;Discharging;100.00;Europe/Lisbon;pt;655808;763236;2746644;48032;unplugged;Good;4.24;19.20;0.57;238610;172743;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;1;-1;0;0;0;1;0;0;12275;26036;294;3610"
+ },
+ {
+   "FIELD1": "2797441;104;2017-12-17 01:31:25;Charging;55.00;Europe/Lisbon;pt;624172;624776;2746644;50192;ac;Good;4.35;14.90;0.56;290869;214107;WIFI;WIFI;lte;disconnected;none;enabled;-57;130;0;-1;0;0;0;1;0;0;12382;26036;294;3610"
+ },
+ {
+   "FIELD1": "2797442;104;2017-12-16 00:49:17;Charging;50.00;Europe/Lisbon;pt;663228;665132;2746644;48412;ac;Good;4.33;31.30;0.41;201938;138451;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12459;26036;294;3610"
+ },
+ {
+   "FIELD1": "2797443;104;2017-12-16 00:48:25;Charging;49.00;Europe/Lisbon;pt;663148;664440;2746644;48376;ac;Good;4.32;31.10;0.46;201886;138402;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12459;26036;294;3610"
+ },
+ {
+   "FIELD1": "2797444;104;2017-12-17 01:31:35;Charging;55.00;Europe/Lisbon;pt;616904;632580;2746644;51040;ac;Good;4.35;15.20;0.59;290879;214107;WIFI;WIFI;lte;disconnected;none;enabled;-57;130;0;-1;0;0;0;1;0;0;12381;26036;294;3610"
+ },
+ {
+   "FIELD1": "2797445;104;2017-12-16 00:47:55;Charging;48.00;Europe/Lisbon;pt;661220;664032;2746644;49548;ac;Good;4.32;31.00;0.37;201856;138373;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12459;26036;294;3610"
+ },
+ {
+   "FIELD1": "2797446;104;2017-12-15 00:49:11;Charging;54.00;Europe/Lisbon;pt;611016;620144;2746644;53816;ac;Good;4.34;31.30;0.25;115532;71653;WIFI;WIFI;lte;disconnected;none;enabled;-77;19;0;-1;0;0;0;1;0;0;12995;26036;294;3610"
+ },
+ {
+   "FIELD1": "2797447;104;2017-12-15 10:41:13;Discharging;100.00;Europe/Lisbon;pt;666116;666420;2746644;47644;unplugged;Good;4.29;18.60;0.57;151056;103469;disconnected;WIFI;lte;disconnected;none;enabled;-75;39;1;-1;0;0;0;1;0;0;12523;26036;294;3610"
+ },
+ {
+   "FIELD1": "2797448;104;2017-12-15 10:45:11;Discharging;99.00;Europe/Lisbon;pt;652092;652656;2746644;47072;unplugged;Good;4.17;23.60;0.25;151294;103469;disconnected;WIFI;lte;disconnected;none;enabled;-78;26;1;-1;0;0;0;1;0;0;12521;26036;294;3610"
+ },
+ {
+   "FIELD1": "2797449;104;2017-12-15 10:48:42;Discharging;98.00;Europe/Lisbon;pt;624124;624168;2746644;48596;unplugged;Good;4.07;25.60;0.32;151504;103469;disconnected;WIFI;lte;disconnected;none;enabled;-82;13;1;-1;0;0;0;1;0;0;12523;26036;294;3610"
+ },
+ {
+   "FIELD1": "2797450;104;2017-12-15 10:52:12;Discharging;97.00;Europe/Lisbon;pt;572824;578604;2746644;47196;unplugged;Good;4.09;26.70;0.31;151715;103469;disconnected;WIFI;lte;disconnected;none;enabled;-88;5;1;-1;0;0;0;1;0;0;12520;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800156;104;2017-12-17 01:32:25;Charging;57.00;Europe/Lisbon;pt;623320;640220;2746644;47516;ac;Good;4.35;15.90;0.41;290929;214107;WIFI;WIFI;lte;disconnected;none;enabled;-57;130;0;-1;0;0;0;1;0;0;12136;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800158;104;2017-12-17 01:31:45;Charging;56.00;Europe/Lisbon;pt;618140;634216;2746644;48180;ac;Good;4.35;15.50;0.49;290888;214107;WIFI;WIFI;lte;disconnected;none;enabled;-57;130;0;-1;0;0;0;1;0;0;12382;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800159;104;2017-12-17 01:32:35;Charging;57.00;Europe/Lisbon;pt;714412;568088;2746644;38716;ac;Good;4.35;16.20;0.50;290938;214107;WIFI;WIFI;lte;disconnected;none;enabled;-57;130;0;-1;0;0;0;1;0;0;12255;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800160;104;2017-12-17 01:32:45;Charging;57.00;Europe/Lisbon;pt;672804;588060;2746644;45168;ac;Good;4.35;16.20;0.01;290947;214107;WIFI;WIFI;lte;disconnected;none;enabled;-57;130;0;-1;0;0;0;1;0;0;12240;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800161;104;2017-12-16 00:47:22;Charging;47.00;Europe/Lisbon;pt;662812;664276;2746644;47464;ac;Good;4.31;31.00;0.43;201823;138342;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12459;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800162;104;2017-12-16 00:46:49;Charging;46.00;Europe/Lisbon;pt;660312;667676;2746644;47120;ac;Good;4.30;31.00;0.45;201790;138312;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12459;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800163;104;2017-12-16 00:46:19;Charging;45.00;Europe/Lisbon;pt;657824;667336;2746644;49844;ac;Good;4.30;31.00;0.39;201760;138283;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12459;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800164;104;2017-12-16 00:45:33;Charging;44.00;Europe/Lisbon;pt;662348;663496;2746644;47144;ac;Good;4.29;30.80;0.40;201714;138244;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12459;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800165;104;2017-12-17 01:32:55;Charging;57.00;Europe/Lisbon;pt;680856;680708;2746644;46852;ac;Good;4.35;16.40;0.68;290958;214107;WIFI;WIFI;lte;disconnected;none;enabled;-57;130;0;-1;0;0;0;1;0;0;12487;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800166;104;2017-12-16 00:44:40;Charging;43.00;Europe/Lisbon;pt;662528;662636;2746644;48728;ac;Good;4.28;30.80;0.47;201661;138193;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12459;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800167;104;2017-12-16 00:44:04;Charging;42.00;Europe/Lisbon;pt;669988;646764;2746644;53152;ac;Good;4.28;30.70;0.39;201625;138159;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12459;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800169;104;2017-12-16 00:43:34;Charging;41.00;Europe/Lisbon;pt;667476;649420;2746644;52236;ac;Good;4.27;30.60;0.43;201595;138130;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12459;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800170;104;2017-12-16 00:43:03;Charging;40.00;Europe/Lisbon;pt;666252;651708;2746644;49764;ac;Good;4.27;30.60;0.46;201564;138100;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12460;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800171;104;2017-12-15 10:56:43;Discharging;96.00;Europe/Lisbon;pt;601024;587648;2746644;53236;unplugged;Good;4.12;27.50;0.25;151985;103469;disconnected;WIFI;lte;disconnected;none;enabled;-77;26;1;-1;0;0;0;1;0;0;12517;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800173;104;2017-12-15 11:00:13;Discharging;95.00;Europe/Lisbon;pt;559384;559360;2746644;47464;unplugged;Good;4.06;28.00;0.35;152195;103469;disconnected;WIFI;lte;disconnected;none;enabled;-70;58;1;-1;0;0;0;1;0;0;12512;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800174;104;2017-12-15 11:03:01;Discharging;94.00;Europe/Lisbon;pt;591480;582496;2746644;47004;unplugged;Good;4.04;27.90;0.59;152363;103472;disconnected;WIFI;lte;disconnected;none;enabled;-67;65;1;-1;0;0;0;1;0;0;12565;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800175;104;2017-12-15 11:05:31;Discharging;93.00;Europe/Lisbon;pt;554836;555596;2746644;47380;unplugged;Good;4.02;28.70;0.39;152514;103472;disconnected;WIFI;lte;disconnected;none;enabled;-69;39;1;-1;0;0;0;1;0;0;12544;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800177;104;2017-12-15 11:08:31;Discharging;92.00;Europe/Lisbon;pt;518596;518544;2746644;48516;unplugged;Good;4.06;29.90;0.41;152694;103472;disconnected;WIFI;lte;disconnected;none;enabled;-67;58;1;-1;0;0;0;1;0;0;12544;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800178;104;2017-12-15 11:11:02;Discharging;91.00;Europe/Lisbon;pt;535736;526624;2746644;71560;unplugged;Good;4.03;30.10;0.39;152844;103472;disconnected;WIFI;lte;disconnected;none;enabled;-80;26;1;-1;0;0;0;1;0;0;12513;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800179;104;2017-12-15 11:13:32;Discharging;90.00;Europe/Lisbon;pt;557348;542696;2746644;60600;unplugged;Good;4.04;29.70;0.34;152994;103472;disconnected;WIFI;lte;disconnected;none;enabled;-70;52;1;-1;0;0;0;1;0;0;12527;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800180;104;2017-12-15 11:16:32;Discharging;89.00;Europe/Lisbon;pt;539920;515336;2746644;58136;unplugged;Good;4.04;29.80;0.37;153174;103472;disconnected;WIFI;lte;disconnected;none;enabled;-62;65;1;-1;0;0;0;1;0;0;12527;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800181;104;2017-12-15 11:19:02;Discharging;88.00;Europe/Lisbon;pt;559012;541004;2746644;49156;unplugged;Good;4.04;29.10;0.47;153325;103472;disconnected;WIFI;lte;disconnected;none;enabled;-64;65;1;-1;0;0;0;1;0;0;12536;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800182;104;2017-12-15 11:23:03;Discharging;87.00;Europe/Lisbon;pt;597732;597956;2746644;47960;unplugged;Good;4.01;29.30;0.35;153565;103472;disconnected;WIFI;lte;disconnected;none;enabled;-63;65;1;-1;0;0;0;1;0;0;12526;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800184;104;2017-12-15 11:26:33;Discharging;86.00;Europe/Lisbon;pt;585304;576752;2746644;50416;unplugged;Good;4.03;29.40;0.27;153775;103472;disconnected;WIFI;lte;disconnected;none;enabled;-61;65;1;-1;0;0;0;1;0;0;12522;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800187;104;2017-12-15 11:35:05;Discharging;85.00;Europe/Lisbon;pt;647460;648440;2746644;47532;unplugged;Good;3.89;24.70;0.40;154287;103763;disconnected;WIFI;lte;disconnected;none;enabled;-82;13;1;-1;0;0;0;1;0;0;12524;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800189;104;2017-12-15 11:37:35;Discharging;84.00;Europe/Lisbon;pt;614200;649108;2746644;67984;unplugged;Good;3.96;25.20;0.31;154437;103763;disconnected;WIFI;lte;disconnected;none;enabled;-74;26;1;-1;0;0;0;1;0;0;12521;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800190;104;2017-12-15 11:41:36;Discharging;83.00;Europe/Lisbon;pt;632992;625936;2746644;61044;unplugged;Good;3.99;25.90;0.63;154677;103763;disconnected;WIFI;lte;disconnected;none;enabled;-77;26;1;-1;0;0;0;1;0;0;12520;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800191;104;2017-12-15 11:45:36;Discharging;82.00;Europe/Lisbon;pt;628928;590580;2746644;76612;unplugged;Good;3.97;26.40;0.36;154918;103763;disconnected;WIFI;lte;disconnected;none;enabled;-77;26;1;-1;0;0;0;1;0;0;12519;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800192;104;2017-12-15 11:49:37;Discharging;81.00;Europe/Lisbon;pt;596644;604836;2746644;74948;unplugged;Good;3.96;27.00;0.50;155158;103763;disconnected;WIFI;lte;disconnected;none;enabled;-82;13;1;-1;0;0;0;1;0;0;12518;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800193;104;2017-12-15 11:53:07;Discharging;80.00;Europe/Lisbon;pt;587016;590528;2746644;81888;unplugged;Good;3.92;27.90;0.24;155369;103763;disconnected;WIFI;lte;disconnected;none;enabled;-81;26;1;-1;0;0;0;1;0;0;12518;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800194;104;2017-12-15 11:56:38;Discharging;79.00;Europe/Lisbon;pt;577136;589212;2746644;65756;unplugged;Good;3.89;27.70;0.44;155579;103763;disconnected;WIFI;lte;disconnected;none;enabled;-70;19;1;-1;0;0;0;1;0;0;12515;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800195;104;2017-12-15 12:00:38;Discharging;78.00;Europe/Lisbon;pt;580920;586676;2746644;57300;unplugged;Good;3.99;27.60;0.22;155820;103781;disconnected;WIFI;lte;disconnected;none;enabled;-70;26;1;-1;0;0;0;1;0;0;12513;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800196;104;2017-12-15 12:06:08;Discharging;77.00;Europe/Lisbon;pt;557060;568328;2746644;49136;unplugged;Good;3.97;27.60;0.01;156151;103781;disconnected;WIFI;edge;disconnected;none;enabled;-78;52;0;-1;0;0;0;1;0;0;12513;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800197;104;2017-12-15 12:13:44;Discharging;76.00;Europe/Lisbon;pt;544496;544488;2746644;48072;unplugged;Good;3.85;24.60;0.60;156606;104086;disconnected;WIFI;lte;disconnected;none;enabled;-76;39;1;-1;0;0;0;1;0;0;12511;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800198;104;2017-12-15 12:16:14;Discharging;75.00;Europe/Lisbon;pt;516180;516888;2746644;50276;unplugged;Good;3.85;25.10;0.48;156756;104086;disconnected;WIFI;lte;disconnected;none;enabled;-77;26;1;-1;0;0;0;1;0;0;12509;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800200;104;2017-12-16 00:30:41;Charging;20.00;Europe/Lisbon;pt;664836;676804;2746644;36728;ac;Good;3.60;31.10;0.67;200824;137482;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;1;-1;0;0;0;1;0;0;12461;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800201;104;2017-12-16 00:30:52;Charging;21.00;Europe/Lisbon;pt;661824;661972;2746644;46796;ac;Good;3.83;31.50;0.82;200837;137482;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;1;-1;0;0;0;1;0;0;12459;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800202;104;2017-12-16 00:31:44;Charging;22.00;Europe/Lisbon;pt;644800;668596;2746644;57528;ac;Good;4.10;32.10;0.98;200886;137491;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12460;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800203;104;2017-12-16 00:32:45;Charging;23.00;Europe/Lisbon;pt;656036;667580;2746644;47644;ac;Good;4.15;31.60;0.01;200947;137550;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12460;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800204;104;2017-12-16 00:33:10;Charging;24.00;Europe/Lisbon;pt;649748;662908;2746644;56484;ac;Good;4.16;31.40;0.20;200971;137573;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12460;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800205;104;2017-12-16 00:34:01;Charging;25.00;Europe/Lisbon;pt;664692;664692;2746644;44196;ac;Good;4.17;31.00;0.35;201023;137622;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12460;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800206;104;2017-12-16 00:34:21;Charging;26.00;Europe/Lisbon;pt;658312;657964;2746644;70128;ac;Good;4.18;30.90;0.01;201043;137640;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12460;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800207;104;2017-12-16 00:34:49;Charging;27.00;Europe/Lisbon;pt;669228;658220;2746644;58996;ac;Good;4.18;30.80;0.01;201071;137666;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12460;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800208;104;2017-12-16 00:35:34;Charging;28.00;Europe/Lisbon;pt;667300;660992;2746644;56924;ac;Good;4.19;30.60;0.01;201116;137706;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12460;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800209;104;2017-12-16 00:36:13;Charging;29.00;Europe/Lisbon;pt;679436;653316;2746644;52468;ac;Good;4.20;30.50;0.17;201155;137742;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12460;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800210;104;2017-12-16 00:36:43;Charging;30.00;Europe/Lisbon;pt;668916;653824;2746644;64460;ac;Good;4.20;30.40;0.01;201185;137769;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12460;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800211;104;2017-12-16 00:37:14;Charging;31.00;Europe/Lisbon;pt;678384;653552;2746644;54724;ac;Good;4.21;30.30;0.65;201216;137799;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12460;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800212;104;2017-12-16 00:38:15;Charging;32.00;Europe/Lisbon;pt;681080;654304;2746644;51112;ac;Good;4.22;30.30;0.01;201277;137857;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12460;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800213;104;2017-12-16 00:38:46;Charging;33.00;Europe/Lisbon;pt;679888;654372;2746644;52552;ac;Good;4.22;30.30;0.01;201308;137887;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12460;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800214;104;2017-12-16 00:39:14;Charging;34.00;Europe/Lisbon;pt;679240;658184;2746644;49812;ac;Good;4.23;30.30;0.01;201337;137914;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12460;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800215;104;2017-12-16 00:39:46;Charging;35.00;Europe/Lisbon;pt;671804;638232;2746644;50628;ac;Good;4.22;30.40;0.54;201368;137924;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12460;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800216;104;2017-12-16 00:40:30;Charging;36.00;Europe/Lisbon;pt;659896;651944;2746644;54492;ac;Good;4.24;30.50;0.40;201411;137953;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12460;26036;294;3610"
+ },
+ {
+   "FIELD1": "2800217;104;2017-12-16 00:41:04;Charging;37.00;Europe/Lisbon;pt;663428;653596;2746644;48356;ac;Good;4.24;30.50;0.47;201445;137985;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12460;26036;294;3610"
+ },
+ {
+   "FIELD1": "2807036;104;2017-12-17 04:47:56;Full;100.00;Europe/Lisbon;pt;551508;551716;2746644;44476;ac;Good;4.34;13.40;0.72;302660;222758;WIFI;WIFI;lte;disconnected;none;enabled;-59;130;0;-1;0;0;0;1;0;0;12087;26036;294;3610"
+ },
+ {
+   "FIELD1": "2807037;104;2017-12-17 01:33:05;Charging;57.00;Europe/Lisbon;pt;704072;705320;2746644;47220;ac;Good;4.35;16.40;0.72;290968;214107;WIFI;WIFI;lte;disconnected;none;enabled;-57;130;0;-1;0;0;0;1;0;0;12495;26036;294;3610"
+ },
+ {
+   "FIELD1": "2807039;104;2017-12-17 04:48:01;Full;100.00;Europe/Lisbon;pt;560756;564380;2746644;47288;ac;Good;4.35;13.70;0.01;302664;222758;WIFI;WIFI;lte;disconnected;none;enabled;-59;130;0;-1;0;0;0;1;0;0;12087;26036;294;3610"
+ },
+ {
+   "FIELD1": "2807040;104;2017-12-16 00:42:33;Charging;39.00;Europe/Lisbon;pt;666700;651512;2746644;48660;ac;Good;4.26;30.60;0.38;201534;138071;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12460;26036;294;3610"
+ },
+ {
+   "FIELD1": "2807041;104;2017-12-16 00:42:03;Charging;38.00;Europe/Lisbon;pt;666044;651128;2746644;49412;ac;Good;4.26;30.60;0.39;201504;138042;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;0;1;0;0;12460;26036;294;3610"
+ },
+ {
+   "FIELD1": "2807042;104;2017-12-17 04:48:25;Full;100.00;Europe/Lisbon;pt;555724;557504;2746644;67372;ac;Good;4.35;14.20;0.01;302686;222759;WIFI;WIFI;lte;disconnected;none;enabled;-59;130;0;-1;0;0;0;1;0;0;12087;26036;294;3610"
+ },
+ {
+   "FIELD1": "2807043;104;2017-12-17 04:48:37;Full;100.00;Europe/Lisbon;pt;564804;559908;2746644;56596;ac;Good;4.36;14.40;0.01;302700;222760;WIFI;WIFI;lte;disconnected;none;enabled;-59;130;0;-1;0;0;0;1;0;0;12086;26036;294;3610"
+ },
+ {
+   "FIELD1": "2807044;104;2017-12-17 04:48:21;Full;100.00;Europe/Lisbon;pt;555676;555744;2746644;69172;ac;Good;4.36;14.10;0.25;302682;222759;WIFI;WIFI;lte;disconnected;none;enabled;-59;130;0;-1;0;0;0;1;0;0;12087;26036;294;3610"
+ },
+ {
+   "FIELD1": "2807045;104;2017-12-17 04:48:11;Full;100.00;Europe/Lisbon;pt;559048;571272;2746644;53828;ac;Good;4.35;13.90;0.26;302673;222758;WIFI;WIFI;lte;disconnected;none;enabled;-59;130;0;-1;0;0;0;1;0;0;12087;26036;294;3610"
+ },
+ {
+   "FIELD1": "2807046;104;2017-12-17 04:48:31;Full;100.00;Europe/Lisbon;pt;565212;556816;2746644;58728;ac;Good;4.35;14.30;0.01;302693;222760;WIFI;WIFI;lte;disconnected;none;enabled;-59;130;0;-1;0;0;0;1;0;0;12087;26036;294;3610"
+ },
+ {
+   "FIELD1": "2807047;104;2017-12-17 13:08:10;Charging;88.00;Europe/Lisbon;pt;609804;617484;2746644;40428;ac;Good;4.11;16.20;0.68;332673;249820;disconnected;WIFI;lte;disconnected;none;enabled;-59;117;0;-1;0;0;0;1;0;0;12159;26036;294;3610"
+ },
+ {
+   "FIELD1": "2807048;104;2017-12-17 13:08:27;Charging;89.00;Europe/Lisbon;pt;601848;615080;2746644;53796;ac;Good;4.36;16.40;0.75;332690;249823;WIFI;WIFI;lte;disconnected;none;enabled;-59;117;0;-1;0;0;0;1;0;0;12159;26036;294;3610"
+ },
+ {
+   "FIELD1": "2807049;104;2017-12-17 13:08:39;Charging;90.00;Europe/Lisbon;pt;612032;615276;2746644;46696;ac;Good;4.36;16.40;0.33;332701;249825;WIFI;WIFI;lte;disconnected;none;enabled;-59;117;0;-1;0;0;0;1;0;0;12159;26036;294;3610"
+ },
+ {
+   "FIELD1": "2807051;104;2017-12-17 13:08:45;Charging;91.00;Europe/Lisbon;pt;613048;614284;2746644;47732;ac;Good;4.35;16.40;0.46;332706;249829;WIFI;WIFI;lte;disconnected;none;enabled;-59;117;0;-1;0;0;0;1;0;0;12159;26036;294;3610"
+ },
+ {
+   "FIELD1": "2807052;104;2017-12-17 13:09:11;Charging;92.00;Europe/Lisbon;pt;610104;616696;2746644;48524;ac;Good;4.35;16.50;0.01;332732;249852;WIFI;WIFI;lte;disconnected;none;enabled;-59;117;0;-1;0;0;0;1;0;0;12159;26036;294;3610"
+ },
+ {
+   "FIELD1": "2807053;104;2017-12-17 13:09:22;Charging;93.00;Europe/Lisbon;pt;612112;614752;2746644;48516;ac;Good;4.35;16.50;0.41;332743;249860;WIFI;WIFI;lte;disconnected;none;enabled;-59;117;0;-1;0;0;0;1;0;0;12159;26036;294;3610"
+ },
+ {
+   "FIELD1": "2807054;104;2017-12-17 13:09:30;Charging;94.00;Europe/Lisbon;pt;612428;615816;2746644;47280;ac;Good;4.35;16.50;0.46;332751;249866;WIFI;WIFI;lte;disconnected;none;enabled;-59;117;0;-1;0;0;0;1;0;0;12159;26036;294;3610"
+ },
+ {
+   "FIELD1": "2807055;104;2017-12-17 13:09:32;Charging;95.00;Europe/Lisbon;pt;605100;622876;2746644;48268;ac;Good;4.36;16.50;0.38;332753;249867;WIFI;WIFI;lte;disconnected;none;enabled;-59;117;0;-1;0;0;0;1;0;0;12159;26036;294;3610"
+ },
+ {
+   "FIELD1": "2807056;104;2017-12-17 13:09:47;Charging;96.00;Europe/Lisbon;pt;603040;626976;2746644;47764;ac;Good;4.35;16.50;0.38;332768;249877;WIFI;WIFI;lte;disconnected;none;enabled;-59;117;0;-1;0;0;0;1;0;0;12159;26036;294;3610"
+ },
+ {
+   "FIELD1": "2807057;104;2017-12-17 13:10:38;Charging;97.00;Europe/Lisbon;pt;602340;629100;2746644;47292;ac;Good;4.35;16.50;0.39;332819;249924;WIFI;WIFI;lte;disconnected;none;enabled;-59;117;0;-1;0;0;0;1;0;0;12159;26036;294;3610"
+ },
+ {
+   "FIELD1": "2853281;104;2017-12-17 13:10:45;Charging;97.00;Europe/Lisbon;pt;605200;618552;2746644;54360;ac;Good;4.36;16.50;0.32;332826;249925;WIFI;WIFI;lte;disconnected;none;enabled;-59;117;0;-1;0;0;0;1;0;0;12159;26036;294;3610"
+ },
+ {
+   "FIELD1": "2853287;104;2017-12-17 13:10:49;Charging;97.00;Europe/Lisbon;pt;602760;630624;2746644;48532;ac;Good;4.36;16.50;0.33;332830;249925;WIFI;WIFI;lte;disconnected;none;enabled;-59;117;0;-1;0;0;0;1;0;0;12159;26036;294;3610"
+ },
+ {
+   "FIELD1": "2853289;104;2017-12-17 13:10:47;Charging;97.00;Europe/Lisbon;pt;604816;618712;2746644;56700;ac;Good;4.35;16.50;0.34;332828;249925;WIFI;WIFI;lte;disconnected;none;enabled;-59;117;0;-1;0;0;0;1;0;0;12160;26036;294;3610"
+ },
+ {
+   "FIELD1": "2853290;104;2017-12-17 13:11:37;Charging;98.00;Europe/Lisbon;pt;618736;618684;2746644;47552;ac;Good;4.35;16.50;0.01;332879;249962;WIFI;WIFI;lte;disconnected;none;enabled;-59;117;0;-1;0;0;0;1;0;0;12159;26036;294;3610"
+ },
+ {
+   "FIELD1": "2853291;104;2017-12-17 13:13:35;Charging;99.00;Europe/Lisbon;pt;613948;623644;2746644;47848;ac;Good;4.36;16.50;0.01;332997;250057;WIFI;WIFI;lte;disconnected;none;enabled;-59;117;0;-1;0;0;0;1;0;0;12159;26036;294;3610"
+ },
+ {
+   "FIELD1": "2853292;104;2017-12-17 13:15:10;Charging;100.00;Europe/Lisbon;pt;615844;620084;2746644;48552;ac;Good;4.35;16.50;0.01;333092;250137;WIFI;WIFI;lte;disconnected;none;enabled;-59;117;0;-1;0;0;0;1;0;0;12160;26036;294;3610"
+ },
+ {
+   "FIELD1": "2853293;104;2017-12-17 13:25:05;Discharging;99.00;Europe/Lisbon;pt;635660;636076;2746644;48572;unplugged;Good;4.07;19.90;0.01;333687;250436;disconnected;WIFI;edge;disconnected;none;enabled;-62;104;0;-1;0;0;0;1;0;0;12165;26036;294;3610"
+ },
+ {
+   "FIELD1": "2853294;104;2017-12-17 13:28:39;Charging;100.00;Europe/Lisbon;pt;596376;632296;2746644;51744;ac;Good;4.35;19.50;0.29;333900;250547;WIFI;WIFI;lte;disconnected;none;enabled;-58;78;0;-1;0;0;0;1;0;0;12165;26036;294;3610"
+ },
+ {
+   "FIELD1": "2853295;104;2017-12-18 08:51:37;Discharging;99.00;Europe/Lisbon;pt;490876;541640;2746644;47688;unplugged;Good;4.05;20.90;0.25;403681;308442;disconnected;WIFI;lte;disconnected;none;enabled;-61;52;1;-1;0;0;1;1;0;0;11801;26036;294;3610"
+ },
+ {
+   "FIELD1": "2853298;104;2017-12-18 09:10:07;Charging;96.00;Europe/Lisbon;pt;503460;509284;2746644;44472;ac;Good;4.32;20.30;0.67;404790;308913;WIFI;WIFI;lte;disconnected;none;enabled;-56;117;0;-1;0;0;1;1;0;0;11849;26036;294;3610"
+ },
+ {
+   "FIELD1": "2853300;104;2017-12-18 09:10:39;Charging;97.00;Europe/Lisbon;pt;515820;515780;2746644;50288;ac;Good;4.35;20.10;0.24;404822;308913;WIFI;WIFI;lte;disconnected;none;enabled;-55;117;0;-1;0;0;1;1;0;0;11846;26036;294;3610"
+ },
+ {
+   "FIELD1": "2853303;104;2017-12-18 09:10:54;Charging;98.00;Europe/Lisbon;pt;513692;513376;2746644;48312;ac;Good;4.35;20.40;0.20;404836;308915;WIFI;WIFI;lte;disconnected;none;enabled;-55;117;0;-1;0;0;1;1;0;0;11846;26036;294;3610"
+ },
+ {
+   "FIELD1": "2853304;104;2017-12-18 09:11:08;Charging;99.00;Europe/Lisbon;pt;512044;515932;2746644;49816;ac;Good;4.35;20.30;0.01;404850;308926;WIFI;WIFI;lte;disconnected;none;enabled;-55;117;0;-1;0;0;1;1;0;0;11846;26036;294;3610"
+ },
+ {
+   "FIELD1": "2853305;104;2017-12-18 09:11:15;Charging;100.00;Europe/Lisbon;pt;511992;511744;2746644;48652;ac;Good;4.35;20.20;0.44;404857;308928;WIFI;WIFI;lte;disconnected;none;enabled;-55;117;0;-1;0;0;1;1;0;0;11846;26036;294;3610"
+ },
+ {
+   "FIELD1": "2853306;104;2017-12-19 00:58:51;Charging;37.00;Europe/Lisbon;pt;705116;709900;2746644;52408;ac;Good;3.89;18.20;0.68;461715;351950;disconnected;WIFI;lte;disconnected;none;enabled;-56;72;0;-1;0;0;1;1;0;0;11919;26036;294;3610"
+ },
+ {
+   "FIELD1": "2853307;104;2017-12-19 00:59:12;Charging;38.00;Europe/Lisbon;pt;715396;716912;2746644;47496;ac;Good;4.25;19.30;0.63;461735;351950;disconnected;WIFI;lte;disconnected;none;enabled;-56;72;0;-1;0;0;1;1;0;0;11918;26036;294;3610"
+ },
+ {
+   "FIELD1": "2853308;104;2017-12-19 00:59:51;Charging;39.00;Europe/Lisbon;pt;709432;709404;2746644;48636;ac;Good;4.29;20.40;0.27;461773;351955;WIFI;WIFI;lte;disconnected;none;enabled;-56;72;0;-1;0;0;1;1;0;0;11920;26036;294;3610"
+ },
+ {
+   "FIELD1": "2853309;104;2017-12-19 01:00:28;Charging;40.00;Europe/Lisbon;pt;717052;705540;2746644;64284;ac;Good;4.31;20.90;0.27;461809;351964;WIFI;WIFI;lte;disconnected;none;enabled;-56;72;0;-1;0;0;1;1;0;0;11920;26036;294;3610"
+ },
+ {
+   "FIELD1": "2853310;104;2017-12-19 01:01:15;Charging;41.00;Europe/Lisbon;pt;712236;712080;2746644;53328;ac;Good;4.33;21.50;0.38;461856;351991;WIFI;WIFI;lte;disconnected;none;enabled;-56;72;0;-1;0;0;1;1;0;0;11921;26036;294;3610"
+ },
+ {
+   "FIELD1": "2853311;104;2017-12-19 01:01:47;Charging;42.00;Europe/Lisbon;pt;708876;713616;2746644;55700;ac;Good;4.34;21.90;0.28;461888;352022;WIFI;WIFI;lte;disconnected;none;enabled;-56;72;0;-1;0;0;1;1;0;0;11921;26036;294;3610"
+ },
+ {
+   "FIELD1": "2878621;104;2017-12-19 01:01:57;Charging;42.00;Europe/Lisbon;pt;715592;712968;2746644;51220;ac;Good;4.34;22.00;0.24;461898;352022;WIFI;WIFI;lte;disconnected;none;enabled;-56;72;0;-1;0;0;1;1;0;0;11920;26036;294;3610"
+ },
+ {
+   "FIELD1": "2878623;104;2017-12-19 01:01:49;Charging;42.00;Europe/Lisbon;pt;710072;708128;2746644;61748;ac;Good;4.34;21.90;0.25;461890;352022;WIFI;WIFI;lte;disconnected;none;enabled;-56;72;0;-1;0;0;1;1;0;0;11921;26036;294;3610"
+ },
+ {
+   "FIELD1": "2878626;104;2017-12-19 23:41:01;Charging;34.00;Europe/Lisbon;pt;685424;694660;2746644;48476;ac;Good;4.21;26.80;0.26;543443;408183;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11954;26036;294;3610"
+ },
+ {
+   "FIELD1": "2878634;104;2017-12-19 23:40:21;Charging;33.00;Europe/Lisbon;pt;701032;702064;2746644;47364;ac;Good;4.19;26.30;0.65;543404;408183;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11949;26036;294;3610"
+ },
+ {
+   "FIELD1": "2878642;104;2017-12-19 01:01:50;Charging;42.00;Europe/Lisbon;pt;711444;720584;2746644;47208;ac;Good;4.34;21.90;0.65;461892;352022;WIFI;WIFI;lte;disconnected;none;enabled;-56;72;0;-1;0;0;1;1;0;0;11921;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916633;104;2017-12-19 23:41:31;Charging;35.00;Europe/Lisbon;pt;683264;693700;2746644;54116;ac;Good;4.22;27.00;0.38;543472;408183;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11953;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916634;104;2017-12-19 23:41:41;Charging;35.00;Europe/Lisbon;pt;691204;691816;2746644;48296;ac;Good;4.23;27.20;0.39;543482;408183;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11953;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916635;104;2017-12-19 01:01:50;Charging;42.00;Europe/Lisbon;pt;711444;720584;2746644;47208;ac;Good;4.34;21.90;0.65;461892;352022;WIFI;WIFI;lte;disconnected;none;enabled;-56;72;0;-1;0;0;1;1;0;0;11921;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916636;104;2017-12-19 01:02:09;Charging;43.00;Europe/Lisbon;pt;714208;715380;2746644;48620;ac;Good;4.34;22.10;0.01;461911;352025;WIFI;WIFI;lte;disconnected;none;enabled;-56;72;0;-1;0;0;1;1;0;0;11920;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916637;104;2017-12-19 01:02:00;Charging;42.00;Europe/Lisbon;pt;713720;714604;2746644;51400;ac;Good;4.34;22.00;0.31;461901;352023;WIFI;WIFI;lte;disconnected;none;enabled;-56;72;0;-1;0;0;1;1;0;0;11920;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916638;104;2017-12-19 01:02:13;Charging;43.00;Europe/Lisbon;pt;716748;715956;2746644;47500;ac;Good;4.34;22.20;0.01;461915;352026;WIFI;WIFI;lte;disconnected;none;enabled;-56;72;0;-1;0;0;1;1;0;0;11920;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916639;104;2017-12-19 01:02:46;Charging;44.00;Europe/Lisbon;pt;714968;714748;2746644;48740;ac;Good;4.35;22.60;0.36;461948;352051;WIFI;WIFI;lte;disconnected;none;enabled;-56;72;0;-1;0;0;1;1;0;0;11920;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916641;104;2017-12-19 01:03:24;Charging;45.00;Europe/Lisbon;pt;713480;712944;2746644;48244;ac;Good;4.35;22.90;0.26;461986;352079;WIFI;WIFI;lte;disconnected;none;enabled;-56;72;0;-1;0;0;1;1;0;0;11920;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916642;104;2017-12-19 01:04:08;Charging;46.00;Europe/Lisbon;pt;711728;713524;2746644;52356;ac;Good;4.35;23.30;0.49;462030;352116;WIFI;WIFI;lte;disconnected;none;enabled;-56;72;0;-1;0;0;1;1;0;0;11920;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916643;104;2017-12-19 01:04:44;Charging;47.00;Europe/Lisbon;pt;708480;707824;2746644;61036;ac;Good;4.35;23.50;0.65;462066;352148;WIFI;WIFI;lte;disconnected;none;enabled;-56;72;0;-1;0;0;1;1;0;0;11920;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916644;104;2017-12-19 01:05:35;Charging;48.00;Europe/Lisbon;pt;721744;699676;2746644;53608;ac;Good;4.36;23.70;0.46;462117;352190;WIFI;WIFI;lte;disconnected;none;enabled;-56;72;0;-1;0;0;1;1;0;0;11920;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916645;104;2017-12-19 01:05:56;Charging;49.00;Europe/Lisbon;pt;719900;704304;2746644;54148;ac;Good;4.35;23.80;0.21;462138;352202;WIFI;WIFI;lte;disconnected;none;enabled;-56;72;0;-1;0;0;1;1;0;0;11920;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916646;104;2017-12-19 01:06:33;Charging;50.00;Europe/Lisbon;pt;718772;707292;2746644;50360;ac;Good;4.36;24.00;0.26;462175;352234;WIFI;WIFI;lte;disconnected;none;enabled;-56;72;0;-1;0;0;1;1;0;0;11920;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916647;104;2017-12-19 01:07:10;Charging;51.00;Europe/Lisbon;pt;717988;700996;2746644;61900;ac;Good;4.35;24.10;0.23;462212;352268;WIFI;WIFI;lte;disconnected;none;enabled;-56;72;0;-1;0;0;1;1;0;0;11920;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916648;104;2017-12-19 01:07:57;Charging;52.00;Europe/Lisbon;pt;710152;701540;2746644;72156;ac;Good;4.35;24.20;0.01;462259;352309;WIFI;WIFI;lte;disconnected;none;enabled;-56;72;0;-1;0;0;1;1;0;0;11920;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916649;104;2017-12-19 01:08:32;Charging;53.00;Europe/Lisbon;pt;711700;702072;2746644;69936;ac;Good;4.36;24.30;0.57;462294;352339;WIFI;WIFI;lte;disconnected;none;enabled;-56;72;0;-1;0;0;1;1;0;0;11920;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916650;104;2017-12-19 09:53:13;Discharging;100.00;Europe/Lisbon;pt;714580;662596;2746644;106668;unplugged;Good;4.30;19.50;0.72;493776;379670;disconnected;WIFI;lte;disconnected;none;enabled;-55;52;1;-1;0;0;1;1;0;0;11912;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916651;104;2017-12-19 10:16:08;Discharging;99.00;Europe/Lisbon;pt;666524;746020;2746644;118256;unplugged;Good;4.26;26.20;0.01;495150;380426;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;1;1;0;0;11914;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916652;104;2017-12-19 10:37:50;Discharging;98.00;Europe/Lisbon;pt;724476;724572;2746644;48432;unplugged;Good;3.97;27.60;0.70;496452;381462;disconnected;WIFI;lte;disconnected;none;enabled;-79;26;1;-1;0;0;1;1;0;0;11913;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916653;104;2017-12-19 10:49:04;Discharging;97.00;Europe/Lisbon;pt;622912;628388;2746644;48528;unplugged;Good;3.98;22.50;0.38;497126;381784;disconnected;WIFI;lte;disconnected;none;enabled;-78;19;1;-1;0;0;1;1;0;0;11911;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916654;104;2017-12-19 10:51:21;Discharging;96.00;Europe/Lisbon;pt;531836;559216;2746644;60972;unplugged;Good;4.04;23.10;0.31;497263;381803;disconnected;WIFI;lte;disconnected;none;enabled;-80;26;1;-1;0;0;1;1;0;0;11909;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916655;104;2017-12-19 10:53:51;Discharging;95.00;Europe/Lisbon;pt;476372;478088;2746644;48588;unplugged;Good;4.03;24.90;0.39;497413;381803;disconnected;WIFI;lte;disconnected;none;enabled;-76;13;1;-1;0;0;1;1;0;0;11909;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916656;104;2017-12-19 10:56:22;Discharging;94.00;Europe/Lisbon;pt;486004;489228;2746644;52312;unplugged;Good;4.05;26.20;0.30;497563;381803;disconnected;WIFI;lte;disconnected;none;enabled;-73;26;1;-1;0;0;1;1;0;0;11907;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916657;104;2017-12-19 10:59:22;Discharging;93.00;Europe/Lisbon;pt;481000;485064;2746644;62004;unplugged;Good;4.07;27.00;0.34;497743;381803;disconnected;WIFI;lte;disconnected;none;enabled;-80;19;1;-1;0;0;1;1;0;0;11906;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916658;104;2017-12-19 11:06:08;Discharging;92.00;Europe/Lisbon;pt;641980;642452;2746644;48384;unplugged;Good;3.93;28.40;0.62;498150;381910;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;1;-1;0;0;1;1;0;0;11906;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916659;104;2017-12-19 11:08:38;Discharging;91.00;Europe/Lisbon;pt;644216;655936;2746644;83796;unplugged;Good;4.05;26.90;0.25;498300;381910;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;1;-1;0;0;1;1;0;0;11905;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916660;104;2017-12-19 11:11:38;Discharging;90.00;Europe/Lisbon;pt;657560;664272;2746644;77712;unplugged;Good;4.04;26.30;0.25;498480;381910;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;1;-1;0;0;1;1;0;0;11905;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916661;104;2017-12-19 11:15:09;Discharging;89.00;Europe/Lisbon;pt;660608;673956;2746644;74680;unplugged;Good;3.96;26.30;0.32;498690;381910;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;1;-1;0;0;1;1;0;0;11905;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916662;104;2017-12-19 11:18:09;Discharging;88.00;Europe/Lisbon;pt;652944;664620;2746644;88828;unplugged;Good;3.99;26.30;0.27;498871;381910;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;1;-1;0;0;1;1;0;0;11905;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916663;104;2017-12-19 11:21:09;Discharging;87.00;Europe/Lisbon;pt;675756;668792;2746644;60864;unplugged;Good;4.01;26.60;0.45;499051;381910;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;1;-1;0;0;1;1;0;0;11905;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916664;104;2017-12-19 11:24:10;Discharging;86.00;Europe/Lisbon;pt;661936;669376;2746644;76720;unplugged;Good;3.97;26.90;0.30;499231;381910;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;1;-1;0;0;1;1;0;0;11904;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916665;104;2017-12-19 11:27:40;Discharging;85.00;Europe/Lisbon;pt;667880;666956;2746644;75540;unplugged;Good;3.99;27.30;0.30;499442;381910;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;1;-1;0;0;1;1;0;0;11904;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916666;104;2017-12-19 11:30:40;Discharging;84.00;Europe/Lisbon;pt;709848;712300;2746644;48220;unplugged;Good;4.04;27.80;0.01;499623;381910;disconnected;unknown;lte;disconnected;none;enabled;-127;-1;0;-1;0;0;1;1;0;0;11904;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916667;104;2017-12-19 22:19:43;Discharging;43.00;Europe/Lisbon;pt;718756;719344;2746644;48044;unplugged;Good;3.76;25.90;0.45;538565;405612;disconnected;WIFI;lte;disconnected;none;enabled;-72;72;1;-1;0;1;1;1;0;0;11973;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916668;104;2017-12-19 22:21:52;Discharging;42.00;Europe/Lisbon;pt;681924;681864;2746644;48268;unplugged;Good;3.60;26.90;0.41;538694;405612;disconnected;WIFI;lte;disconnected;none;enabled;-73;26;1;-1;0;1;1;1;0;0;11972;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916669;104;2017-12-19 22:24:22;Discharging;41.00;Europe/Lisbon;pt;733824;734384;2746644;47952;unplugged;Good;3.73;27.30;0.22;538844;405612;disconnected;WIFI;lte;disconnected;none;enabled;-78;52;1;-1;0;0;1;1;0;0;11971;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916670;104;2017-12-19 22:26:22;Discharging;40.00;Europe/Lisbon;pt;712712;662172;2746644;50624;unplugged;Good;3.64;27.30;0.48;538964;405612;disconnected;WIFI;lte;disconnected;none;enabled;-76;52;1;-1;0;0;1;1;0;0;11970;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916671;104;2017-12-19 22:29:53;Discharging;39.00;Europe/Lisbon;pt;669072;649044;2746644;58780;unplugged;Good;3.63;27.60;0.37;539174;405612;disconnected;WIFI;lte;disconnected;none;enabled;-78;58;1;-1;0;0;1;1;0;0;11968;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916672;104;2017-12-19 22:32:23;Discharging;38.00;Europe/Lisbon;pt;623740;634572;2746644;59384;unplugged;Good;3.63;28.20;0.28;539325;405612;disconnected;WIFI;lte;disconnected;none;enabled;-82;52;1;-1;0;0;1;1;0;0;11967;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916673;104;2017-12-19 22:35:50;Discharging;37.00;Europe/Lisbon;pt;727920;710316;2746644;47116;unplugged;Good;3.68;28.10;0.30;539532;405627;disconnected;WIFI;lte;disconnected;none;enabled;-71;52;1;-1;0;0;1;1;0;0;11969;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916674;104;2017-12-19 23:39:41;Charging;32.00;Europe/Lisbon;pt;696120;697476;2746644;47128;ac;Good;3.82;24.40;0.68;543364;408183;disconnected;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11950;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916675;104;2017-12-19 23:41:21;Charging;34.00;Europe/Lisbon;pt;692060;691848;2746644;48560;ac;Good;4.22;26.90;0.34;543462;408183;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11953;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916676;104;2017-12-19 23:41:51;Charging;35.00;Europe/Lisbon;pt;685700;686232;2746644;61244;ac;Good;4.23;27.20;0.01;543492;408183;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11953;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916677;104;2017-12-19 23:42:11;Charging;36.00;Europe/Lisbon;pt;679324;680012;2746644;79112;ac;Good;4.24;27.40;0.01;543513;408183;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11953;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916678;104;2017-12-19 23:42:45;Charging;37.00;Europe/Lisbon;pt;689096;681900;2746644;64148;ac;Good;4.24;27.60;0.21;543546;408188;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11951;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916679;104;2017-12-19 23:43:24;Charging;38.00;Europe/Lisbon;pt;693972;684416;2746644;48460;ac;Good;4.25;27.90;0.28;543585;408190;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11951;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916680;104;2017-12-19 23:44:04;Charging;39.00;Europe/Lisbon;pt;698008;686792;2746644;46312;ac;Good;4.26;28.10;0.35;543625;408205;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11951;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916681;104;2017-12-19 23:44:35;Charging;40.00;Europe/Lisbon;pt;694480;687512;2746644;50572;ac;Good;4.27;28.20;0.28;543656;408229;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11951;26036;294;3610"
+ },
+ {
+   "FIELD1": "2916682;104;2017-12-19 23:45:34;Charging;41.00;Europe/Lisbon;pt;697560;688540;2746644;56216;ac;Good;4.28;28.30;0.24;543715;408277;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11951;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955606;104;2017-12-21 15:27:04;Charging;64.00;Europe/Lisbon;pt;465348;465472;2746644;46644;ac;Good;4.30;27.00;0.73;686608;524530;WIFI;WIFI;lte;disconnected;none;enabled;-61;117;0;-1;0;0;1;1;0;0;11776;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955607;104;2017-12-21 15:26:44;Charging;63.00;Europe/Lisbon;pt;437604;475924;2746644;46788;ac;Good;4.02;25.90;0.66;686588;524530;disconnected;WIFI;lte;disconnected;none;enabled;-61;117;0;-1;0;0;1;1;0;0;11776;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955608;104;2017-12-21 11:50:15;Discharging;72.00;Europe/Lisbon;pt;535696;536104;2746644;47784;unplugged;Good;4.26;25.40;0.64;673598;514257;disconnected;WIFI;lte;disconnected;none;enabled;-58;72;1;-1;0;0;1;1;0;0;11778;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955609;104;2017-12-20 00:47:18;Full;100.00;Europe/Lisbon;pt;678828;694624;2746644;50144;ac;Good;4.36;22.80;0.33;547419;411575;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11951;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955610;104;2017-12-20 00:45:05;Charging;99.00;Europe/Lisbon;pt;688072;687428;2746644;48204;ac;Good;4.35;22.90;0.29;547286;411451;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11951;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955611;104;2017-12-20 00:43:00;Charging;98.00;Europe/Lisbon;pt;680388;688736;2746644;53576;ac;Good;4.36;23.10;0.45;547161;411333;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11951;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955612;104;2017-12-20 00:41:14;Charging;97.00;Europe/Lisbon;pt;688448;688012;2746644;48908;ac;Good;4.36;23.20;0.39;547056;411237;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11952;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955613;104;2017-12-20 00:39:15;Charging;96.00;Europe/Lisbon;pt;685548;685072;2746644;49860;ac;Good;4.36;23.40;0.01;546937;411140;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11952;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955614;104;2017-12-20 00:37:44;Charging;95.00;Europe/Lisbon;pt;683220;683156;2746644;49352;ac;Good;4.36;23.50;0.01;546846;411056;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11952;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955615;104;2017-12-21 15:27:14;Charging;64.00;Europe/Lisbon;pt;464764;466200;2746644;47756;ac;Good;4.32;27.50;0.50;686617;524530;WIFI;WIFI;lte;disconnected;none;enabled;-61;117;0;-1;0;0;1;1;0;0;11776;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955616;104;2017-12-20 00:36:08;Charging;94.00;Europe/Lisbon;pt;680776;690864;2746644;47432;ac;Good;4.35;23.60;0.31;546750;410975;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11952;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955617;104;2017-12-20 00:34:52;Charging;93.00;Europe/Lisbon;pt;682108;683424;2746644;57556;ac;Good;4.35;23.80;0.01;546674;410913;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11952;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955618;104;2017-12-20 00:33:27;Charging;92.00;Europe/Lisbon;pt;680168;688580;2746644;53724;ac;Good;4.36;23.90;1.60;546589;410834;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11952;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955619;104;2017-12-20 00:32:15;Charging;91.00;Europe/Lisbon;pt;679760;687268;2746644;57692;ac;Good;4.36;24.10;0.52;546517;410765;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11952;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955620;104;2017-12-20 00:31:14;Charging;90.00;Europe/Lisbon;pt;687984;688232;2746644;44688;ac;Good;4.35;24.20;0.01;546456;410706;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11952;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955621;104;2017-12-20 00:30:26;Charging;89.00;Europe/Lisbon;pt;679088;695020;2746644;49376;ac;Good;4.36;24.30;0.01;546408;410661;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11952;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955622;104;2017-12-20 00:29:03;Charging;88.00;Europe/Lisbon;pt;677556;689888;2746644;56496;ac;Good;4.36;24.50;0.01;546325;410584;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11952;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955623;104;2017-12-20 00:27:59;Charging;87.00;Europe/Lisbon;pt;683948;688384;2746644;48452;ac;Good;4.36;24.70;0.56;546261;410525;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11952;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955624;104;2017-12-20 00:27:17;Charging;86.00;Europe/Lisbon;pt;676816;687036;2746644;59824;ac;Good;4.35;24.90;0.01;546219;410486;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11952;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955625;104;2017-12-20 00:26:46;Charging;85.00;Europe/Lisbon;pt;684600;685412;2746644;50072;ac;Good;4.36;24.90;0.26;546188;410457;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11952;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955626;104;2017-12-20 00:25:43;Charging;84.00;Europe/Lisbon;pt;682484;692176;2746644;45544;ac;Good;4.35;25.00;0.37;546125;410398;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11952;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955627;104;2017-12-20 00:23:56;Charging;83.00;Europe/Lisbon;pt;685896;686464;2746644;48492;ac;Good;4.36;25.30;0.01;546018;410298;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11952;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955628;104;2017-12-20 00:21:56;Charging;82.00;Europe/Lisbon;pt;686244;684688;2746644;47128;ac;Good;4.36;25.70;0.49;545898;410189;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11952;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955629;104;2017-12-20 00:20:18;Charging;81.00;Europe/Lisbon;pt;661404;695940;2746644;54544;ac;Good;4.36;25.90;0.01;545800;410102;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11952;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955630;104;2017-12-20 00:18:27;Charging;80.00;Europe/Lisbon;pt;665340;697348;2746644;48912;ac;Good;4.36;26.30;0.01;545689;409995;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11952;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955631;104;2017-12-21 15:27:24;Charging;64.00;Europe/Lisbon;pt;460016;472120;2746644;48612;ac;Good;4.31;27.80;0.62;686628;524530;WIFI;WIFI;lte;disconnected;none;enabled;-61;117;0;-1;0;0;1;1;0;0;11769;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955632;104;2017-12-20 00:16:50;Charging;79.00;Europe/Lisbon;pt;657668;703988;2746644;49596;ac;Good;4.36;26.70;0.01;545592;409905;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11952;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955633;104;2017-12-20 00:15:34;Charging;78.00;Europe/Lisbon;pt;679652;679912;2746644;47992;ac;Good;4.36;26.90;0.58;545516;409839;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11952;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955634;104;2017-12-20 00:13:58;Charging;77.00;Europe/Lisbon;pt;668800;688404;2746644;56456;ac;Good;4.36;27.30;0.01;545420;409749;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11952;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955635;104;2017-12-20 00:12:29;Charging;76.00;Europe/Lisbon;pt;676388;649384;2746644;76364;ac;Good;4.36;27.60;0.35;545331;409669;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11953;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955636;104;2017-12-20 00:11:13;Charging;75.00;Europe/Lisbon;pt;692204;695652;2746644;47488;ac;Good;4.36;28.00;0.78;545254;409610;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11953;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955637;104;2017-12-20 00:09:56;Charging;74.00;Europe/Lisbon;pt;713420;689024;2746644;48968;ac;Good;4.36;27.50;0.24;545177;409565;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11952;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955638;104;2017-12-20 00:08:55;Charging;73.00;Europe/Lisbon;pt;713860;689600;2746644;48292;ac;Good;4.36;27.80;0.24;545116;409506;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11952;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955639;104;2017-12-20 00:07:55;Charging;72.00;Europe/Lisbon;pt;713508;688872;2746644;48476;ac;Good;4.36;28.00;0.28;545056;409448;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11952;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955640;104;2017-12-20 00:06:35;Charging;71.00;Europe/Lisbon;pt;699144;697088;2746644;48444;ac;Good;4.35;28.30;0.47;544976;409383;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11951;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955641;104;2017-12-20 00:05:34;Charging;70.00;Europe/Lisbon;pt;699140;686980;2746644;60700;ac;Good;4.36;28.50;0.01;544915;409331;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11951;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955642;104;2017-12-20 00:05:03;Charging;69.00;Europe/Lisbon;pt;700400;688776;2746644;58444;ac;Good;4.36;28.60;0.26;544884;409302;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11951;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955643;104;2017-12-20 00:03:49;Charging;68.00;Europe/Lisbon;pt;692608;705400;2746644;48032;ac;Good;4.35;28.80;0.01;544810;409231;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11951;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955644;104;2017-12-20 00:03:00;Charging;67.00;Europe/Lisbon;pt;691340;697644;2746644;58320;ac;Good;4.36;28.90;0.31;544761;409187;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11951;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955645;104;2017-12-20 00:01:59;Charging;66.00;Europe/Lisbon;pt;689828;697196;2746644;59592;ac;Good;4.36;29.10;0.24;544700;409128;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11951;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955646;104;2017-12-20 00:01:09;Charging;65.00;Europe/Lisbon;pt;694548;697360;2746644;60412;ac;Good;4.36;29.20;0.01;544650;409085;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11951;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955647;104;2017-12-21 15:27:34;Charging;64.00;Europe/Lisbon;pt;460844;465088;2746644;58256;ac;Good;4.34;28.00;0.30;686637;524530;WIFI;WIFI;lte;disconnected;none;enabled;-61;117;0;-1;0;0;1;1;0;0;11765;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955648;104;2017-12-20 00:00:37;Charging;64.00;Europe/Lisbon;pt;683080;694756;2746644;65984;ac;Good;4.36;29.20;0.26;544618;409077;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11951;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955649;104;2017-12-19 23:59:35;Charging;63.00;Europe/Lisbon;pt;698732;699764;2746644;48420;ac;Good;4.35;29.40;0.43;544556;409026;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11950;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955650;104;2017-12-19 23:59:07;Charging;62.00;Europe/Lisbon;pt;699000;699556;2746644;49548;ac;Good;4.35;29.40;0.33;544528;409000;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11950;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955651;104;2017-12-19 23:58:07;Charging;61.00;Europe/Lisbon;pt;699216;700208;2746644;49020;ac;Good;4.36;29.50;0.36;544468;408941;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11950;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955652;104;2017-12-19 23:57:19;Charging;60.00;Europe/Lisbon;pt;692564;693100;2746644;53872;ac;Good;4.36;29.60;0.29;544420;408900;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11950;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955653;104;2017-12-19 23:56:44;Charging;59.00;Europe/Lisbon;pt;692764;698168;2746644;47520;ac;Good;4.36;29.60;0.48;544385;408867;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11950;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955654;104;2017-12-19 23:45:34;Charging;41.00;Europe/Lisbon;pt;697560;688540;2746644;56216;ac;Good;4.28;28.30;0.24;543715;408277;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11951;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955655;104;2017-12-19 23:46:16;Charging;42.00;Europe/Lisbon;pt;681208;685020;2746644;53956;ac;Good;4.29;28.50;0.01;543757;408307;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11950;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955656;104;2017-12-19 23:46:41;Charging;43.00;Europe/Lisbon;pt;682012;685176;2746644;52664;ac;Good;4.29;28.60;0.36;543782;408332;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11950;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955657;104;2017-12-19 23:47:08;Charging;44.00;Europe/Lisbon;pt;683844;686504;2746644;49332;ac;Good;4.30;28.80;0.01;543809;408351;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11950;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955658;104;2017-12-19 23:47:49;Charging;45.00;Europe/Lisbon;pt;684824;685300;2746644;49172;ac;Good;4.31;28.80;0.24;543850;408387;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11950;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955659;104;2017-12-19 23:48:26;Charging;46.00;Europe/Lisbon;pt;684684;685024;2746644;48500;ac;Good;4.32;28.90;0.01;543888;408419;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11951;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955660;104;2017-12-19 23:49:04;Charging;47.00;Europe/Lisbon;pt;685296;684216;2746644;48348;ac;Good;4.32;29.00;0.01;543926;408454;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11951;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955661;104;2017-12-19 23:49:45;Charging;48.00;Europe/Lisbon;pt;683820;678216;2746644;57876;ac;Good;4.33;29.10;0.01;543967;408493;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11951;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955699;104;2017-12-23 00:16:42;Charging;18.00;Europe/Lisbon;pt;578388;578436;2746644;47220;ac;Good;4.14;23.30;0.67;804787;614462;WIFI;WIFI;lte;disconnected;inout;enabled;-58;117;0;-1;0;0;1;1;0;0;11462;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955700;104;2017-12-23 00:16:22;Charging;17.00;Europe/Lisbon;pt;580096;580184;2746644;46496;ac;Good;3.68;22.40;0.73;804766;614458;disconnected;WIFI;lte;disconnected;inout;enabled;-58;117;0;-1;0;0;1;1;0;0;11462;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955701;104;2017-12-21 16:54:29;Discharging;100.00;Europe/Lisbon;pt;525208;530084;2746644;47804;unplugged;Good;4.30;18.00;0.68;691853;528853;disconnected;WIFI;hsupa;disconnected;none;enabled;-64;78;1;-1;0;0;1;1;0;0;11688;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955702;104;2017-12-19 23:56:09;Charging;58.00;Europe/Lisbon;pt;693280;694752;2746644;51020;ac;Good;4.36;29.60;0.52;544350;408835;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11950;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955703;104;2017-12-19 23:55:34;Charging;57.00;Europe/Lisbon;pt;676148;706408;2746644;55100;ac;Good;4.36;29.60;0.35;544315;408806;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11950;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955704;104;2017-12-19 23:54:37;Charging;56.00;Europe/Lisbon;pt;674588;708708;2746644;47772;ac;Good;4.36;29.60;0.01;544258;408755;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11950;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955705;104;2017-12-19 23:54:01;Charging;55.00;Europe/Lisbon;pt;673304;709876;2746644;48124;ac;Good;4.36;29.60;0.46;544222;408724;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11950;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955706;104;2017-12-19 23:53:16;Charging;54.00;Europe/Lisbon;pt;671304;707352;2746644;50868;ac;Good;4.36;29.60;0.01;544178;408686;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11950;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955707;104;2017-12-19 23:52:45;Charging;53.00;Europe/Lisbon;pt;679996;700532;2746644;50132;ac;Good;4.36;29.60;0.41;544147;408660;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11950;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955708;104;2017-12-19 23:52:14;Charging;52.00;Europe/Lisbon;pt;680724;700216;2746644;49188;ac;Good;4.35;29.50;0.01;544116;408631;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11950;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955709;104;2017-12-19 23:51:43;Charging;51.00;Europe/Lisbon;pt;679252;699104;2746644;48464;ac;Good;4.35;29.50;0.25;544085;408601;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11950;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955710;104;2017-12-19 23:51:18;Charging;50.00;Europe/Lisbon;pt;675292;697452;2746644;54828;ac;Good;4.35;29.50;0.32;544060;408578;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11950;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955711;104;2017-12-19 23:50:17;Charging;49.00;Europe/Lisbon;pt;682596;679004;2746644;57784;ac;Good;4.34;29.20;0.01;543999;408523;WIFI;WIFI;lte;disconnected;none;enabled;-55;72;0;-1;0;0;1;1;0;0;11951;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955712;104;2017-12-23 00:17:02;Charging;18.00;Europe/Lisbon;pt;564644;566484;2746644;48064;ac;Good;4.16;24.20;0.61;804806;614462;WIFI;WIFI;lte;disconnected;inout;enabled;-58;117;0;-1;0;0;1;1;0;0;11461;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955713;104;2017-12-23 00:17:22;Charging;19.00;Europe/Lisbon;pt;560268;574808;2746644;50276;ac;Good;4.18;24.60;0.36;804825;614462;WIFI;WIFI;lte;disconnected;inout;enabled;-58;117;0;-1;0;0;1;1;0;0;11461;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955714;104;2017-12-23 00:16:52;Charging;18.00;Europe/Lisbon;pt;559524;574232;2746644;47140;ac;Good;4.08;23.80;0.68;804796;614462;WIFI;WIFI;lte;disconnected;inout;enabled;-58;117;0;-1;0;0;1;1;0;0;11461;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955715;104;2017-12-23 00:17:32;Charging;19.00;Europe/Lisbon;pt;531396;548056;2746644;113332;ac;Good;4.19;24.80;0.01;804834;614462;WIFI;WIFI;lte;disconnected;inout;enabled;-58;117;0;-1;0;0;1;1;0;0;11461;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955716;104;2017-12-23 00:18:01;Charging;20.00;Europe/Lisbon;pt;515852;570644;2746644;106884;ac;Good;4.20;25.10;0.01;804863;614462;WIFI;WIFI;lte;disconnected;inout;enabled;-58;117;0;-1;0;0;1;1;0;0;11461;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955717;104;2017-12-23 00:18:31;Charging;21.00;Europe/Lisbon;pt;575568;589328;2746644;48132;ac;Good;4.22;25.70;0.33;804893;614462;WIFI;WIFI;lte;disconnected;inout;enabled;-58;117;0;-1;0;0;1;1;0;0;11311;26036;294;3610"
+ },
+ {
+   "FIELD1": "2955718;104;2017-12-23 00:19:09;Charging;22.00;Europe/Lisbon;pt;475780;568748;2746644;102800;ac;Good;4.22;26.20;0.48;804930;614464;WIFI;WIFI;lte;disconnected;inout;enabled;-58;117;0;-1;0;0;1;1;0;0;11316;26036;294;3610"
+ },
+ {
+   "FIELD1": "2982893;104;2017-12-23 00:19:13;Charging;22.00;Europe/Lisbon;pt;404728;691144;2746644;47648;ac;Good;4.22;26.30;0.56;804936;614464;WIFI;WIFI;lte;disconnected;inout;enabled;-58;117;0;-1;0;0;1;1;0;0;11464;26036;294;3610"
+ },
+ {
+   "FIELD1": "2982894;104;2017-12-23 00:19:11;Charging;22.00;Europe/Lisbon;pt;418384;565516;2746644;167256;ac;Good;4.22;26.30;0.52;804932;614464;WIFI;WIFI;lte;disconnected;inout;enabled;-58;117;0;-1;0;0;1;1;0;0;11316;26036;294;3610"
+ },
+ {
+   "FIELD1": "2982895;104;2017-12-23 00:19:54;Charging;23.00;Europe/Lisbon;pt;553340;552504;2746644;46548;ac;Good;4.22;26.80;0.53;804978;614473;WIFI;WIFI;lte;disconnected;inout;enabled;-58;117;0;-1;0;0;1;1;0;0;11464;26036;294;3610"
+ },
+ {
+   "FIELD1": "2982896;104;2017-12-23 14:50:16;Discharging;91.00;Europe/Lisbon;pt;635700;635400;2746644;47100;unplugged;Good;4.24;29.90;0.67;857199;655499;disconnected;WIFI;gprs;disconnected;inout;enabled;-68;72;1;-1;0;0;1;1;0;0;11600;26036;294;3610"
+ },
+ {
+   "FIELD1": "2982897;104;2017-12-23 14:53:24;Discharging;90.00;Europe/Lisbon;pt;587412;588024;2746644;48100;unplugged;Good;4.17;26.60;0.01;857386;655521;disconnected;WIFI;edge;disconnected;inout;enabled;-61;72;0;-1;0;0;1;1;0;0;11600;26036;294;3610"
+ },
+ {
+   "FIELD1": "2982898;104;2017-12-24 01:27:52;Charging;45.00;Europe/Lisbon;pt;617296;617004;2746644;42452;ac;Good;3.95;19.20;0.63;895457;684802;disconnected;WIFI;lte;disconnected;inout;enabled;-59;72;0;-1;0;0;1;1;0;0;11605;26036;294;3610"
+ },
+ {
+   "FIELD1": "2982899;104;2017-12-24 01:28:05;Charging;46.00;Europe/Lisbon;pt;624804;620936;2746644;23672;ac;Good;4.26;20.00;0.01;895469;684802;WIFI;WIFI;lte;disconnected;inout;enabled;-59;72;0;-1;0;0;1;1;0;0;11605;26036;294;3610"
+ },
+ {
+   "FIELD1": "2982900;104;2017-12-24 01:28:35;Charging;47.00;Europe/Lisbon;pt;610080;619884;2746644;48504;ac;Good;4.30;21.30;0.47;895497;684802;WIFI;WIFI;lte;disconnected;inout;enabled;-59;72;0;-1;0;0;1;1;0;0;11605;26036;294;3610"
+ },
+ {
+   "FIELD1": "2982901;104;2017-12-24 01:29:09;Charging;48.00;Europe/Lisbon;pt;612088;608208;2746644;53964;ac;Good;4.33;21.90;0.37;895530;684809;WIFI;WIFI;lte;disconnected;inout;enabled;-59;72;0;-1;0;0;1;1;0;0;11605;26036;294;3610"
+ },
+ {
+   "FIELD1": "2982902;104;2017-12-24 01:29:53;Charging;49.00;Europe/Lisbon;pt;602392;618064;2746644;57088;ac;Good;4.35;22.40;0.18;895574;684844;WIFI;WIFI;lte;disconnected;inout;enabled;-59;72;0;-1;0;0;1;1;0;0;11605;26036;294;3610"
+ },
+ {
+   "FIELD1": "2982903;104;2017-12-24 01:30:46;Charging;50.00;Europe/Lisbon;pt;615976;615480;2746644;48104;ac;Good;4.35;22.80;0.40;895627;684885;WIFI;WIFI;lte;disconnected;inout;enabled;-59;72;0;-1;0;0;1;1;0;0;11605;26036;294;3610"
+ },
+ {
+   "FIELD1": "2982904;104;2017-12-24 01:30:55;Charging;51.00;Europe/Lisbon;pt;608868;622936;2746644;47048;ac;Good;4.35;22.90;0.54;895636;684891;WIFI;WIFI;lte;disconnected;inout;enabled;-59;72;0;-1;0;0;1;1;0;0;11605;26036;294;3610"
+ },
+ {
+   "FIELD1": "2982905;104;2017-12-24 01:31:38;Charging;52.00;Europe/Lisbon;pt;614556;621048;2746644;49424;ac;Good;4.35;23.10;0.22;895679;684925;WIFI;WIFI;lte;disconnected;inout;enabled;-59;72;0;-1;0;0;1;1;0;0;11605;26036;294;3610"
+ },
+ {
+   "FIELD1": "2982906;104;2017-12-24 01:32:12;Charging;53.00;Europe/Lisbon;pt;613212;625496;2746644;47308;ac;Good;4.35;23.30;0.20;895713;684951;WIFI;WIFI;lte;disconnected;inout;enabled;-59;72;0;-1;0;0;1;1;0;0;11605;26036;294;3610"
+ },
+ {
+   "FIELD1": "2982907;104;2017-12-24 01:32:54;Charging;54.00;Europe/Lisbon;pt;617392;614040;2746644;51216;ac;Good;4.35;23.40;0.37;895755;684984;WIFI;WIFI;lte;disconnected;inout;enabled;-59;72;0;-1;0;0;1;1;0;0;11605;26036;294;3610"
+ },
+ {
+   "FIELD1": "2982908;104;2017-12-24 01:33:25;Charging;55.00;Europe/Lisbon;pt;617324;613888;2746644;53308;ac;Good;4.36;23.50;0.25;895786;685014;WIFI;WIFI;lte;disconnected;inout;enabled;-59;72;0;-1;0;0;1;1;0;0;11605;26036;294;3610"
+ },
+ {
+   "FIELD1": "2982910;104;2017-12-24 01:34:09;Charging;56.00;Europe/Lisbon;pt;611392;613352;2746644;64236;ac;Good;4.35;23.60;0.19;895830;685049;WIFI;WIFI;lte;disconnected;inout;enabled;-59;72;0;-1;0;0;1;1;0;0;11605;26036;294;3610"
+ },
+ {
+   "FIELD1": "2982913;104;2017-12-24 01:34:48;Charging;57.00;Europe/Lisbon;pt;610936;615676;2746644;62960;ac;Good;4.35;23.70;0.23;895869;685084;WIFI;WIFI;lte;disconnected;inout;enabled;-59;72;0;-1;0;0;1;1;0;0;11605;26036;294;3610"
+ },
+ {
+   "FIELD1": "2982917;104;2017-12-24 01:35:30;Charging;58.00;Europe/Lisbon;pt;614756;619180;2746644;51272;ac;Good;4.36;23.80;0.32;895911;685112;WIFI;WIFI;lte;disconnected;inout;enabled;-59;72;0;-1;0;0;1;1;0;0;11605;26036;294;3610"
+ },
+ {
+   "FIELD1": "2982920;104;2017-12-24 01:36:26;Charging;59.00;Europe/Lisbon;pt;623484;618308;2746644;48516;ac;Good;4.35;24.00;0.01;895968;685158;WIFI;WIFI;lte;disconnected;inout;enabled;-59;72;0;-1;0;0;1;1;0;0;11605;26036;294;3610"
+ }
+]
