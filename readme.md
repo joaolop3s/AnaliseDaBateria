@@ -15,7 +15,7 @@ Antes de começar, verifique se o seu dispositivo atende aos seguintes requisito
 
 Android:
 ```bash
-Fazer o download da aplicação, e seguir os passos do instalador.
+Fazer o download da aplicação, e seguir os passos de instalação.
 ```
 
 
