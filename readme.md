@@ -1,6 +1,8 @@
-## 💻 Introdução.
+## ✏ Introdução.
 
 Este projeto consiste numa aplicação para dispositivos Android, que tem o intuito de analisar detalhes sobre o consumo da bateria de um dispositivo móvel.
+Permite aos utilizadores analisar o comportamento da sua bateria, ao longo de um período de tempo editável.
+Permite analisar possiveis comportamentos de consumo que estejam a prejudicar o rendimento da bateria.
 
 
 ## 💻 Pré-requisitos
