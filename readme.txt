@@ -4,9 +4,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 * Dispositivo Android com versão superior a 8.0(Oreo).
 
-## 🚀 Instalando <nome_do_projeto>
-
-Para instalar a aplicação, siga estas etapas:
+## 🚀 Instalação
 
 Android:
 ```
@@ -14,7 +12,11 @@ Fazer o download da aplicação, e seguir os passos do instalador.
 ```
 
 
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
+## 🔧 Funcionalidades
+
+* Analisar dados de consumo da bateria de um dispositivo móvel.
+* Analisar várias caracteristicas normalmente ligadas ao consumo da bateria(apps, sensores, etc).
+
 
 ## 📫 Contribuindo para o projeto.
 Para contribuir para o projeto, siga estas etapas:
