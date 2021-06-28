@@ -3,9 +3,6 @@
 Este projeto consiste numa aplicação para dispositivos Android, que tem o intuito de analisar detalhes sobre o consumo da bateria de um dispositivo móvel.
 
 
-
-
-
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se o seu dispositivo atende aos seguintes requisitos:
