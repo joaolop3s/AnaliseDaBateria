@@ -132,7 +132,7 @@ export default TableInfo = ({route,navigation}) => {
         var i
 
         for(i=0;i<n_ppm;i++){ //colocar n_ppm
-            state_table.tableData.push("T.D.B" + "\n" + state[i].point.toFixed(3) + "%" + "\n" + state[i].data)
+            state_table.tableData.push("Taxa de Descarga" + "\n" + state[i].point.toFixed(3) + "%" + "\n" + state[i].data)
             state_table.widthArr.push(100)
             state_table.heightArr.push(100)
             state_table.apps_header.push("APPS")
@@ -231,6 +231,7 @@ export default TableInfo = ({route,navigation}) => {
                         containerStyle={{width:wp('15%'),backgroundColor:"#ffb3b3"}}
                         title = "Sensores"
                         size = {wp('1.25%')}
+                        titleProps={{fontWeight:"bold"}}
                         textStyle={{fontSize:wp('1.5%')}}
                         checkedIcon='dot-circle-o'
                         uncheckedIcon='circle-o'
@@ -245,6 +246,7 @@ export default TableInfo = ({route,navigation}) => {
                         title="Apps"
                         size = {wp('1.25%')}
                         textStyle={{fontSize:wp('1.5%')}}
+                        titleProps={{fontWeight:"bold"}}
                         checkedIcon='dot-circle-o'
                         uncheckedIcon='circle-o'
                         checked={appsEnabled}
@@ -256,7 +258,7 @@ export default TableInfo = ({route,navigation}) => {
                         containerStyle={{width:wp('12%'),backgroundColor:"#ffb3b3"}}
                         title="Outros"
                         size = {wp('1.25%')}
-                        textStyle={{fontSize:wp('1.5%')}}
+                        textStyle={{fontSize:wp('1.5%'),fontWeight:"bold"}}
                         checkedIcon='dot-circle-o'
                         uncheckedIcon='circle-o'
                         checked={isEnabled}
@@ -273,7 +275,7 @@ export default TableInfo = ({route,navigation}) => {
                         containerStyle={{width:wp('12%'),backgroundColor:"#c6ffb3"}}
                         title="Tempo"
                         size = {wp('1.25%')}
-                        textStyle={{fontSize:wp('1.5%')}}
+                        textStyle={{fontSize:wp('1.5%'),fontWeight:"bold"}}
                         checked={sortByTime}
                         onPress={() => {
                             setSortByPPM(false)
@@ -281,12 +283,11 @@ export default TableInfo = ({route,navigation}) => {
                     }}/>
 
 
-                
                     <CheckBox
                         containerStyle={{width:wp('10%'),backgroundColor:"#c6ffb3"}}
-                        title="T.D.B"
+                        title="Taxa de descarga"
                         size = {wp('1.25%')}
-                        textStyle={{fontSize:wp('1.5%')}}
+                        textStyle={{fontSize:wp('1%'),fontWeight:"bold"}}
                         checked={sortByPPM}
                         onPress={() => {
                             setSortByTime(false)
@@ -396,7 +397,7 @@ export default TableInfo = ({route,navigation}) => {
                         <TableWrapper style={styles.row}>
                             {
                             state_table.tableData.map((cellData, cellIndex) => (
-                                <Cell width={100} key={cellIndex} data={cellData} style={{backgroundColor:red(cellIndex,state)}} />
+                                <Cell width={100} key={cellIndex} textStyle={{fontSize:wp('1.5%'),fontWeight:"bold"}} data={cellData} style={{backgroundColor:red(cellIndex,state)}} />
                             ))
                             }
                         </TableWrapper>

@@ -27,7 +27,7 @@ export default DisplayVideo =  (props) => {
             status.isPlaying ? video.current.pauseAsync() : video.current.playAsync()
           }
         >
-          <Text>{status.isPlaying ? 'Pause' : 'Play'}</Text>
+          <Text style={{fontWeight:"bold"}}>{status.isPlaying ? 'Pausa' : 'Play'}</Text>
         </TouchableOpacity>
 
 
@@ -39,7 +39,7 @@ export default DisplayVideo =  (props) => {
             }
           }
         >
-          <Text>{"Avançar"}</Text>
+          <Text style={{fontWeight:"bold"}}>{"Avançar"}</Text>
         </TouchableOpacity>
 
 

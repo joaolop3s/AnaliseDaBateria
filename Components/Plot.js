@@ -1285,7 +1285,7 @@ export default Plot = (props) => {
                                       }
                                     }
                                   >
-                                    <Text>Calendário</Text>
+                                    <Text style={{fontWeight:"bold"}}>Calendário</Text>
                                   </TouchableOpacity> : null}
                 
 
@@ -1312,7 +1312,7 @@ export default Plot = (props) => {
                       }
                     }
                 >
-                  <Text>Analisar detalhes</Text>
+                  <Text style={{fontWeight:"bold"}}>Analisar detalhes</Text>
                 </TouchableOpacity>
 
 
@@ -1333,8 +1333,11 @@ export default Plot = (props) => {
                     }
                   }
                 >
-                  {compare==false ? <Text>Comparar</Text> :  <Text>Fechar</Text>}
+                  {compare==false ? <Text style={{fontWeight:"bold"}}>Comparar</Text> :  <Text>Fechar</Text>}
                 </TouchableOpacity>
+
+
+
 
               </View>
 
@@ -1521,6 +1524,7 @@ const styles = StyleSheet.create({
   textStyle: {
     color: "black",
     textAlign: "center",
+    fontWeight:"bold"
   },
   modalText: {
     marginBottom: 15,
