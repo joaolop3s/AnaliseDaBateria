@@ -403,8 +403,6 @@ async function read_data(dates){
   var periods = readPeriods(lines,dates);
   var values = calculate_ppms(periods)
 
-  //console.log(values[0])
-
 
 
   points = values[0]

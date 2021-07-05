@@ -135,7 +135,7 @@ export default TableInfo = ({route,navigation}) => {
             state_table.tableData.push("Taxa de Descarga" + "\n" + state[i].point.toFixed(3) + "%" + "\n" + state[i].data)
             state_table.widthArr.push(100)
             state_table.heightArr.push(100)
-            state_table.apps_header.push("APPS")
+            state_table.apps_header.push("APPS " + "(" + state[i].apps.length + ")")
             state_table.sensors_header.push("SENSORS")
             state_table.temperature_header.push(<Image source={require('../assets/temperatura.png')} fadeDuration={0} style={{ width: 20, height: 20 }}/>)
             state_table.brilho_header.push(<Image source={require('../assets/brilho.png')} fadeDuration={0} style={{ width: 20, height: 20 }}/>)

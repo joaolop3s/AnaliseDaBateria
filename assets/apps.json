@@ -697,5 +697,74 @@
  },
  {
    "FIELD1": "125171218;2934403;com.google.android.googlequicksearchbox:interactor;NULL;0;Service;NULL;0;null;2017-12-22 06:25:20;2017-12-22 06:25:20"
- }
+ },
+ {
+  "FIELD1": "125171201;2927334;com.android.bluetooth;Bluetooth Share;1;Service;6.0.1;23;null;2017-12-22 06:25:20;2017-12-22 06:25:20"
+},
+{
+  "FIELD1": "125171202;2927334;com.google.android.apps.messaging:rcs;NULL;0;Service;NULL;0;null;2017-12-22 06:25:20;2017-12-22 06:25:20"
+},
+{
+  "FIELD1": "125171203;2927334;com.google.android.music:main;Google Play MÃºsica;1;Service;8.6.6626-1.Z;66261;null;2017-12-22 06:25:20;2017-12-22 06:25:20"
+},
+{
+  "FIELD1": "125171204;2927334;com.facebook.katana:videoplayer;NULL;0;Service;NULL;0;null;2017-12-22 06:25:20;2017-12-22 06:25:20"
+},
+{
+  "FIELD1": "125171205;2927334;com.facebook.orca:videoplayer;NULL;0;Service;NULL;0;null;2017-12-22 06:25:20;2017-12-22 06:25:20"
+},
+{
+  "FIELD1": "125171206;2927334;com.google.android.gms.persistent;Google Backup Transport;1;Service;6.0.1;23;null;2017-12-22 06:25:20;2017-12-22 06:25:20"
+},
+{
+  "FIELD1": "125171207;2927334;com.android.systemui;IU do sist.;1;Service;6.0.1;23;null;2017-12-22 06:25:20;2017-12-22 06:25:20"
+},
+{
+  "FIELD1": "125171208;2927334;com.facebook.orca;Messenger;0;Service;147.0.0.25.86;84175391;com.android.vending;2017-12-22 06:25:20;2017-12-22 06:25:20"
+},
+{
+  "FIELD1": "125171209;2927334;com.google.android.gms;ServiÃ§os do Google Play;1;Service;11.9.51 (438-177350961);11951438;com.android.vending;2017-12-22 06:25:20;2017-12-22 06:25:20"
+},
+{
+  "FIELD1": "125171210;2927334;com.instagram.android:mqtt;NULL;0;Service;NULL;0;null;2017-12-22 06:25:20;2017-12-22 06:25:20"
+},
+{
+  "FIELD1": "125171211;2927334;com.qualcomm.qcrilmsgtunnel;com.qualcomm.qcrilmsgtunnel;1;Service;6.0.1;23;null;2017-12-22 06:25:20;2017-12-22 06:25:20"
+},
+{
+  "FIELD1": "125171212;2927334;system;LocalizaÃ§Ã£o Fundida;1;Service;6.0.1;23;null;2017-12-22 06:25:20;2017-12-22 06:25:20"
+},
+{
+  "FIELD1": "125171213;2927334;com.facebook.katana;Facebook;0;Service;153.0.0.54.88;84570984;com.android.vending;2017-12-22 06:25:20;2017-12-22 06:25:20"
+},
+{
+  "FIELD1": "125171214;2927334;com.touchtype.swiftkey;Teclado SwiftKey;0;Service;6.7.3.30;820183523;com.android.vending;2017-12-22 06:25:20;2017-12-22 06:25:20"
+},
+{
+  "FIELD1": "125171215;2927334;com.google.android.googlequicksearchbox:search;NULL;0;Service;NULL;0;null;2017-12-22 06:25:20;2017-12-22 06:25:20"
+},
+{
+  "FIELD1": "125171216;2927334;com.android.phone;ServiÃ§os de telemÃ³vel;1;Service;6.0.1;23;null;2017-12-22 06:25:20;2017-12-22 06:25:20"
+},
+{
+  "FIELD1": "125171217;2927334;com.facebook.katana:notification;NULL;0;Service;NULL;0;null;2017-12-22 06:25:20;2017-12-22 06:25:20"
+},
+{
+  "FIELD1": "125171218;2927334;com.google.android.googlequicksearchbox:interactor;NULL;0;Service;NULL;0;null;2017-12-22 06:25:20;2017-12-22 06:25:20"
+},
+{
+  "FIELD1": "123493311;2927334;com.instagram.android:mqtt;NULL;0;Service;NULL;0;null;2017-12-20 18:05:16;2017-12-20 18:05:16"
+},
+{
+  "FIELD1": "123493312;2927334;com.qualcomm.qcrilmsgtunnel;com.qualcomm.qcrilmsgtunnel;1;Service;6.0.1;23;null;2017-12-20 18:05:16;2017-12-20 18:05:16"
+},
+{
+  "FIELD1": "123493313;2927334;system;LocalizaÃ§Ã£o Fundida;1;Service;6.0.1;23;null;2017-12-20 18:05:16;2017-12-20 18:05:16"
+},
+{
+  "FIELD1": "123493314;2927334;com.facebook.katana;Facebook;0;Service;153.0.0.54.88;84570984;com.android.vending;2017-12-20 18:05:16;2017-12-20 18:05:16"
+},
+{
+  "FIELD1": "123493315;2927334;com.touchtype.swiftkey;Teclado SwiftKey;0;Service;6.7.3.30;820183523;com.android.vending;2017-12-20 18:05:16;2017-12-20 18:05:16"
+}
 ]

@@ -21,6 +21,7 @@
     "expo-app-loading": "^1.0.3",
     "expo-application": "~3.1.2",
     "expo-asset": "~8.3.1",
+    "expo-av": "~9.1.2",
     "expo-file-system": "~11.0.2",
     "expo-file-system-view": "^0.1.7",
     "expo-font": "~9.1.0",
@@ -53,10 +54,9 @@
     "react-native-table-component": "^1.2.1",
     "react-native-tooltips": "^1.0.3",
     "react-native-walkthrough-tooltip": "^1.2.0",
-    "react-native-web": "~0.13.12",
+    "react-native-web": "^0.17.1",
     "react-papaparse": "^3.14.0",
-    "victory-native": "^35.3.2",
-    "expo-av": "~9.1.2"
+    "victory-native": "^35.3.2"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0"
