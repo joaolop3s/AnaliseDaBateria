@@ -1,3 +1,8 @@
+## 📱 Aplicação - Google Play
+
+* https://play.google.com/store/apps/details?id=com.joaolop3s.d3project
+
+
 ## ✏ Introdução.
 
 * Este projeto consiste numa aplicação para dispositivos Android, que tem o intuito de analisar detalhes sobre o consumo da bateria de um dispositivo móvel.
