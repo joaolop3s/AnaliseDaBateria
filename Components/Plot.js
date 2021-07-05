@@ -35,7 +35,7 @@ LocaleConfig.defaultLocale = 'pt';
 
 
 //IMPORT MANUALLY DATA TO APP
-import data from '../assets/samples42.json' //import data from '../assets/samples42.json'
+import data from '../assets/samples4A.json' //import data from '../assets/samples42.json'
 import apps_data from '../assets/apps.json'
 
 
@@ -335,6 +335,12 @@ function read_sensors(periods) {
 
 }
 
+function getRandomIntInclusive(min, max) {
+  min = Math.ceil(min);
+  max = Math.floor(max);
+  return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
 
 //funtion to calculate mds_coordinates
 function mds_classic(matrix,dimensions){
@@ -401,8 +407,16 @@ async function read_data(dates){
 
 
   var periods = readPeriods(lines,dates);
-  var values = calculate_ppms(periods)
+  var num = getRandomIntInclusive(1,3)
 
+
+  periods.splice(periods.length/1.5,periods.length-periods.length/1.5)
+  
+  console.log(num)
+  console.log(periods.length)
+
+  var values = calculate_ppms(periods)
+  
 
 
   points = values[0]
