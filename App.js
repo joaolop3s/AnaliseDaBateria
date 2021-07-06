@@ -22,7 +22,7 @@ export default App => {
       <NavigationContainer style={styles.container}>
         <Stack.Navigator>
           <Stack.Screen name="DisplayVideo" component={DisplayVideo} options={{ title: 'Tutorial de utilização',headerTitleStyle : {fontSize:15}} }/>
-          <Stack.Screen name="Plot" component={Plot}  options={{ title: 'Períodos de utilização da bateria',headerTitleStyle : {fontSize:15}}  }/> 
+          <Stack.Screen name="Plot" component={Plot}  previous={null} options={{ title: 'Períodos de utilização da bateria',detachPreviousScreen:true,headerTitleStyle : {fontSize:15}}  }/> 
           <Stack.Screen name="Home Page" component={Home}/>
           <Stack.Screen name="Help" component={Help}/>
           <Stack.Screen name="SampleAnalysis" component={SampleAnalysis}/>

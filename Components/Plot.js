@@ -35,7 +35,10 @@ LocaleConfig.defaultLocale = 'pt';
 
 
 //IMPORT MANUALLY DATA TO APP
-import data from '../assets/samples4A.json' //import data from '../assets/samples42.json'
+import data from '../assets/samples42.json' //import data from '../assets/samples42.json'
+import dataA from '../assets/samples4A.json' //import data from '../assets/samples42.json'
+import dataB from '../assets/samples4B.json' //import data from '../assets/samples42.json'
+import dataC from '../assets/samples4C.json' //import data from '../assets/samples42.json'
 import apps_data from '../assets/apps.json'
 
 
@@ -48,6 +51,7 @@ var calendarTip = false
 var compareTip = false
 var calendarTipFirstTime = true
 var compareTipFirstTime = true
+var dataset = 0
 
 const d3 = {
   shape,
@@ -372,8 +376,15 @@ function mds_classic(matrix,dimensions){
 async function read_data(dates){
 
   var lines =  []
-  for(i=0;i<data.length;i++){
-    lines.push(data[i]["FIELD1"])
+
+    if(first_time==true){
+      console.log("...................")
+      dataset = getRandomIntInclusive(1,3)
+      dataset=1
+    }
+
+  for(i=0;i<dataB.length;i++){
+    lines.push(dataB[i]["FIELD1"])
   }
 
   //console.log(lines.length)
@@ -407,18 +418,27 @@ async function read_data(dates){
 
 
   var periods = readPeriods(lines,dates);
-  var num = getRandomIntInclusive(1,3)
 
 
-  periods.splice(periods.length/1.5,periods.length-periods.length/1.5)
-  
-  console.log(num)
-  console.log(periods.length)
+  if(dates.length==0){
+    if(dataset===1){
+      periods.splice(periods.length/1.5,periods.length-periods.length/1.5+1)
+    }else if(dataset===2){
+      periods.splice(periods.length/2,periods.length-periods.length/2+1)
+    }else {
+      periods.splice(periods.length/3,periods.length-periods.length/3+1)
+    }
+    console.log(periods.length)
+  }
+
+    // for(i=0;i<periods.length;i++){
+    //   console.log(periods[i][0])
+    // }
+    console.log(periods.length)
+
 
   var values = calculate_ppms(periods)
   
-
-
   points = values[0]
   //points.splice(-1,1)
   periods = values[1]
@@ -1347,6 +1367,7 @@ export default Plot = (props) => {
                 >
                   {compare==false ? <Text style={{fontWeight:"bold"}}>Comparar</Text> :  <Text>Fechar</Text>}
                 </TouchableOpacity>
+                <Text>{dataset}</Text>
 
 
 
