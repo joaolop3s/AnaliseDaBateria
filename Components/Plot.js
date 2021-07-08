@@ -378,9 +378,7 @@ async function read_data(dates){
   var lines =  []
 
     if(first_time==true){
-      console.log("...................")
       dataset = getRandomIntInclusive(1,3)
-      dataset=1
     }
 
   for(i=0;i<dataB.length;i++){
@@ -419,24 +417,28 @@ async function read_data(dates){
 
   var periods = readPeriods(lines,dates);
 
+    // console.log(periods.length)
+    // for(i=0;i<periods.length;i++){
+    //   console.log(periods[i])
+    // }
 
   if(dates.length==0){
     if(dataset===1){
+      periods.splice(0,1)
       periods.splice(periods.length/1.5,periods.length-periods.length/1.5+1)
     }else if(dataset===2){
+      periods.splice(0,1)
       periods.splice(periods.length/2,periods.length-periods.length/2+1)
     }else {
+      periods.splice(0,1)
       periods.splice(periods.length/3,periods.length-periods.length/3+1)
     }
     console.log(periods.length)
   }
 
-    // for(i=0;i<periods.length;i++){
-    //   console.log(periods[i][0])
-    // }
-    console.log(periods.length)
-
-
+  
+  
+  console.log(periods.length)
   var values = calculate_ppms(periods)
   
   points = values[0]
