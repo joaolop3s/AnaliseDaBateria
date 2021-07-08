@@ -36,9 +36,9 @@ LocaleConfig.defaultLocale = 'pt';
 
 //IMPORT MANUALLY DATA TO APP
 import data from '../assets/samples42.json' //import data from '../assets/samples42.json'
-import dataA from '../assets/samples4A.json' //import data from '../assets/samples42.json'
-import dataB from '../assets/samples4B.json' //import data from '../assets/samples42.json'
-import dataC from '../assets/samples4C.json' //import data from '../assets/samples42.json'
+import dataA from '../assets/auxFile1.json' //import data from '../assets/samples42.json'
+import dataB from '../assets/auxFile2.json' //import dataB from '../assets/samples4B.json''
+import dataC from '../assets/auxFile3.json' //import data from '../assets/samples42.json'
 import apps_data from '../assets/apps.json'
 
 
@@ -381,11 +381,23 @@ async function read_data(dates){
       dataset = getRandomIntInclusive(1,3)
     }
 
-  for(i=0;i<dataB.length;i++){
-    lines.push(dataB[i]["FIELD1"])
-  }
+    if(dataset===1){
+      for(i=0;i<dataA.length;i++){
+        lines.push(dataA[i]["FIELD1"])
+      }
+    } else if(dataset===2){
+      for(i=0;i<dataB.length;i++){
+        lines.push(dataB[i]["FIELD1"])
+      }
+    } else {
+      for(i=0;i<dataC.length;i++){
+        lines.push(dataC[i]["FIELD1"])
+      }
+    }
 
-  //console.log(lines.length)
+
+
+
 
   // if(first_time==true){
   //   const permissions =  StorageAccessFramework.requestDirectoryPermissionsAsync();
@@ -416,28 +428,6 @@ async function read_data(dates){
 
 
   var periods = readPeriods(lines,dates);
-
-    // console.log(periods.length)
-    // for(i=0;i<periods.length;i++){
-    //   console.log(periods[i])
-    // }
-
-  if(dates.length==0){
-    if(dataset===1){
-      periods.splice(0,1)
-      periods.splice(periods.length/1.5,periods.length-periods.length/1.5+1)
-    }else if(dataset===2){
-      periods.splice(0,1)
-      periods.splice(periods.length/2,periods.length-periods.length/2+1)
-    }else {
-      periods.splice(0,1)
-      periods.splice(periods.length/3,periods.length-periods.length/3+1)
-    }
-    console.log(periods.length)
-  }
-
-  
-  
   console.log(periods.length)
   var values = calculate_ppms(periods)
   
