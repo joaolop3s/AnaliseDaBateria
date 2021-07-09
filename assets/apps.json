@@ -71,68 +71,69 @@
  {
    "FIELD1": "5390;165;com.instagram.android:igplayer;NULL;0;Service;NULL;0;null;2017-10-09 07:43:00;2017-10-09 07:43:00"
  },
+ 
  {
-   "FIELD1": "115923980;2713745;com.hmatalonga.greenhub;BatteryHub;0;Service;v1.1.0;14;com.android.vending;2017-12-14 00:43:40;2017-12-14 00:43:40"
+   "FIELD1": "115923980;2713746;com.hmatalonga.greenhub;BatteryHub;0;Service;v1.1.0;14;com.android.vending;2017-12-14 00:43:40;2017-12-14 00:43:40"
  },
  {
-   "FIELD1": "115923981;2713745;com.android.bluetooth;Bluetooth Share;1;Service;6.0.1;23;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
+   "FIELD1": "115923981;2713746;com.android.bluetooth;Bluetooth Share;1;Service;6.0.1;23;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
  },
  {
-   "FIELD1": "115923982;2713745;com.google.android.apps.messaging:rcs;NULL;0;Service;NULL;0;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
+   "FIELD1": "115923982;2713746;com.google.android.apps.messaging:rcs;NULL;0;Service;NULL;0;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
  },
  {
-   "FIELD1": "115923983;2713745;com.google.android.music:main;Google Play MÃºsica;1;Service;8.6.6626-1.Z;66261;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
+   "FIELD1": "115923983;2713746;com.google.android.music:main;Google Play MÃºsica;1;Service;8.6.6626-1.Z;66261;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
  },
  {
-   "FIELD1": "115923984;2713745;com.facebook.katana:videoplayer;NULL;0;Service;NULL;0;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
+   "FIELD1": "115923984;2713746;com.facebook.katana:videoplayer;NULL;0;Service;NULL;0;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
  },
  {
-   "FIELD1": "115923985;2713745;com.facebook.orca:videoplayer;NULL;0;Service;NULL;0;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
+   "FIELD1": "115923985;2713746;com.facebook.orca:videoplayer;NULL;0;Service;NULL;0;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
  },
  {
-   "FIELD1": "115923986;2713745;com.facebook.katana;Facebook;0;Service;152.0.0.42.136;83110613;com.android.vending;2017-12-14 00:43:40;2017-12-14 00:43:40"
+   "FIELD1": "115923986;2713746;com.facebook.katana;Facebook;0;Service;152.0.0.42.136;83110613;com.android.vending;2017-12-14 00:43:40;2017-12-14 00:43:40"
  },
  {
-   "FIELD1": "115923987;2713745;com.google.android.gms.persistent;Google Backup Transport;1;Service;6.0.1;23;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
+   "FIELD1": "115923987;2713746;com.google.android.gms.persistent;Google Backup Transport;1;Service;6.0.1;23;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
  },
  {
-   "FIELD1": "115923988;2713745;com.android.systemui;IU do sist.;1;Service;6.0.1;23;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
+   "FIELD1": "115923988;2713746;com.android.systemui;IU do sist.;1;Service;6.0.1;23;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
  },
  {
-   "FIELD1": "115923989;2713745;com.facebook.orca;Messenger;0;Service;146.0.0.33.136;83123525;com.android.vending;2017-12-14 00:43:40;2017-12-14 00:43:40"
+   "FIELD1": "115923989;2713746;com.facebook.orca;Messenger;0;Service;146.0.0.33.136;83123525;com.android.vending;2017-12-14 00:43:40;2017-12-14 00:43:40"
  },
  {
-   "FIELD1": "115923990;2713745;com.google.android.gms;ServiÃ§os do Google Play;1;Service;11.9.51 (438-177350961);11951438;com.android.vending;2017-12-14 00:43:40;2017-12-14 00:43:40"
+   "FIELD1": "115923990;2713746;com.google.android.gms;ServiÃ§os do Google Play;1;Service;11.9.51 (438-177350961);11951438;com.android.vending;2017-12-14 00:43:40;2017-12-14 00:43:40"
  },
  {
-   "FIELD1": "115923991;2713745;com.reddit.frontpage;Reddit;0;Service;2.21.0;202126;com.android.vending;2017-12-14 00:43:40;2017-12-14 00:43:40"
+   "FIELD1": "115923991;2713746;com.reddit.frontpage;Reddit;0;Service;2.21.0;202126;com.android.vending;2017-12-14 00:43:40;2017-12-14 00:43:40"
  },
  {
-   "FIELD1": "115923992;2713745;com.google.android.inputmethod.latin;Gboard;1;Service;6.7.15.175732024-release-armeabi-v7a;26671509;com.android.vending;2017-12-14 00:43:40;2017-12-14 00:43:40"
+   "FIELD1": "115923992;2713746;com.google.android.inputmethod.latin;Gboard;1;Service;6.7.15.175732024-release-armeabi-v7a;26671509;com.android.vending;2017-12-14 00:43:40;2017-12-14 00:43:40"
  },
  {
-   "FIELD1": "115923993;2713745;com.instagram.android:mqtt;NULL;0;Service;NULL;0;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
+   "FIELD1": "115923993;2713746;com.instagram.android:mqtt;NULL;0;Service;NULL;0;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
  },
  {
-   "FIELD1": "115923994;2713745;com.qualcomm.qcrilmsgtunnel;com.qualcomm.qcrilmsgtunnel;1;Service;6.0.1;23;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
+   "FIELD1": "115923994;2713746;com.qualcomm.qcrilmsgtunnel;com.qualcomm.qcrilmsgtunnel;1;Service;6.0.1;23;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
  },
  {
-   "FIELD1": "115923995;2713745;system;LocalizaÃ§Ã£o Fundida;1;Service;6.0.1;23;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
+   "FIELD1": "115923995;2713746;system;LocalizaÃ§Ã£o Fundida;1;Service;6.0.1;23;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
  },
  {
-   "FIELD1": "115923996;2713745;com.touchtype.swiftkey;Teclado SwiftKey;0;Service;6.7.3.28;820183491;com.android.vending;2017-12-14 00:43:40;2017-12-14 00:43:40"
+   "FIELD1": "115923996;2713746;com.touchtype.swiftkey;Teclado SwiftKey;0;Service;6.7.3.28;820183491;com.android.vending;2017-12-14 00:43:40;2017-12-14 00:43:40"
  },
  {
-   "FIELD1": "115923997;2713745;com.google.android.googlequicksearchbox:search;NULL;0;Service;NULL;0;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
+   "FIELD1": "115923997;2713746;com.google.android.googlequicksearchbox:search;NULL;0;Service;NULL;0;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
  },
  {
-   "FIELD1": "115923998;2713745;com.android.phone;ServiÃ§os de telemÃ³vel;1;Service;6.0.1;23;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
+   "FIELD1": "115923998;2713746;com.android.phone;ServiÃ§os de telemÃ³vel;1;Service;6.0.1;23;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
  },
  {
-   "FIELD1": "115923999;2713745;com.facebook.katana:notification;NULL;0;Service;NULL;0;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
+   "FIELD1": "115923999;2713746;com.facebook.katana:notification;NULL;0;Service;NULL;0;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
  },
  {
-   "FIELD1": "115924000;2713745;com.google.android.googlequicksearchbox:interactor;NULL;0;Service;NULL;0;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
+   "FIELD1": "115924000;2713746;com.google.android.googlequicksearchbox:interactor;NULL;0;Service;NULL;0;null;2017-12-14 00:43:40;2017-12-14 00:43:40"
  },
  {
    "FIELD1": "117578617;2753293;com.hmatalonga.greenhub;BatteryHub;0;Service;v1.1.0;14;com.android.vending;2017-12-15 14:06:54;2017-12-15 14:06:54"
@@ -1462,5 +1463,66 @@
 },
 {
   "FIELD1": "134923237;3166582;com.google.android.googlequicksearchbox:interactor;NULL;0;Service;NULL;0;null;2018-01-01 08:32:58;2018-01-01 08:32:58"
+},
+
+{
+  "FIELD1": "134923218;3090109;com.hmatalonga.greenhub;BatteryHub;0;Service;v1.1.0;14;com.android.vending;2018-01-01 08:32:58;2018-01-01 08:32:58"
+},
+{
+  "FIELD1": "134923219;3090109;com.android.bluetooth;Bluetooth Share;1;Service;6.0.1;23;null;2018-01-01 08:32:58;2018-01-01 08:32:58"
+},
+{
+  "FIELD1": "134923220;3090109;com.facebook.orca;Messenger;0;Foreground app;147.0.0.25.86;84175391;com.android.vending;2018-01-01 08:32:58;2018-01-01 08:32:58"
+},
+{
+  "FIELD1": "134923221;3090109;com.google.android.apps.messaging:rcs;NULL;0;Service;NULL;0;null;2018-01-01 08:32:58;2018-01-01 08:32:58"
+},
+{
+  "FIELD1": "134923222;3090109;com.google.android.music:main;Google Play MÃºsica;1;Service;8.6.6626-1.Z;66261;null;2018-01-01 08:32:58;2018-01-01 08:32:58"
+},
+{
+  "FIELD1": "134923223;3090109;com.facebook.katana:videoplayer;NULL;0;Service;NULL;0;null;2018-01-01 08:32:58;2018-01-01 08:32:58"
+},
+{
+  "FIELD1": "134923224;3090109;com.facebook.orca:videoplayer;NULL;0;Service;NULL;0;null;2018-01-01 08:32:58;2018-01-01 08:32:58"
+},
+{
+  "FIELD1": "134923225;3090109;com.facebook.katana;Facebook;0;Service;153.0.0.54.88;84570984;com.android.vending;2018-01-01 08:32:58;2018-01-01 08:32:58"
+},
+{
+  "FIELD1": "134923226;3090109;com.google.android.gms.persistent;Google Backup Transport;1;Service;6.0.1;23;null;2018-01-01 08:32:58;2018-01-01 08:32:58"
+},
+{
+  "FIELD1": "134923227;3090109;com.android.systemui;IU do sist.;1;Service;6.0.1;23;null;2018-01-01 08:32:58;2018-01-01 08:32:58"
+},
+{
+  "FIELD1": "134923228;3090109;com.google.android.gms;ServiÃ§os do Google Play;1;Service;11.9.51 (438-177350961);11951438;com.android.vending;2018-01-01 08:32:58;2018-01-01 08:32:58"
+},
+{
+  "FIELD1": "134923229;3090109;com.google.android.inputmethod.latin;Gboard;1;Service;6.8.8.178714143-release-armeabi-v7a;26680809;com.android.vending;2018-01-01 08:32:58;2018-01-01 08:32:58"
+},
+{
+  "FIELD1": "134923230;3090109;com.instagram.android:mqtt;NULL;0;Service;NULL;0;null;2018-01-01 08:32:58;2018-01-01 08:32:58"
+},
+{
+  "FIELD1": "134923231;3090109;com.qualcomm.qcrilmsgtunnel;com.qualcomm.qcrilmsgtunnel;1;Service;6.0.1;23;null;2018-01-01 08:32:58;2018-01-01 08:32:58"
+},
+{
+  "FIELD1": "134923232;3090109;system;LocalizaÃ§Ã£o Fundida;1;Service;6.0.1;23;null;2018-01-01 08:32:58;2018-01-01 08:32:58"
+},
+{
+  "FIELD1": "134923233;3090109;com.touchtype.swiftkey;Teclado SwiftKey;0;Service;6.7.3.30;820183523;com.android.vending;2018-01-01 08:32:58;2018-01-01 08:32:58"
+},
+{
+  "FIELD1": "134923234;3090109;com.google.android.googlequicksearchbox:search;NULL;0;Service;NULL;0;null;2018-01-01 08:32:58;2018-01-01 08:32:58"
+},
+{
+  "FIELD1": "134923235;3090109;com.android.phone;ServiÃ§os de telemÃ³vel;1;Service;6.0.1;23;null;2018-01-01 08:32:58;2018-01-01 08:32:58"
+},
+{
+  "FIELD1": "134923236;3090109;com.facebook.katana:notification;NULL;0;Service;NULL;0;null;2018-01-01 08:32:58;2018-01-01 08:32:58"
+},
+{
+  "FIELD1": "134923237;3090109;com.google.android.googlequicksearchbox:interactor;NULL;0;Service;NULL;0;null;2018-01-01 08:32:58;2018-01-01 08:32:58"
 }
 ]

@@ -45,9 +45,11 @@ const styles = StyleSheet.create({
     text: { textAlign: 'center', fontWeight: '100' },
     dataWrapper: { marginTop: -1 },
     row: { flexDirection: 'row', backgroundColor: '#E7EDE7',alignItems:"center",justifyContent:"center"},
+    col: { flexDirection: 'column', backgroundColor: '#E7EDE7',alignItems:"center",justifyContent:"center"},
     btn: { width: 58, height: 18, marginLeft: 15, backgroundColor: '#c8e1ff', borderRadius: 2 },
     btnText: { textAlign: 'center' },
     title: { flex: 1, backgroundColor: '#f6f8fa' },
+    wrapper: { flexDirection: 'row' },
   });
 
   function getMinPPM(state) {
@@ -122,14 +124,20 @@ export default TableInfo = ({route,navigation}) => {
         apps_header : [],
         tableData_sensors: [],
         tableData_apps: [],
-        tableDataAux : [],
-        tableTitle: ['Title'],
+        tableTitle: ['Momentos', 'Temp', 'Mem', 'Bri'],
 
     }
 
-
     function header(n_ppm,state){ //numero de ppms
         var i
+        state_table.cpu_data.push(<Image source={require('../assets/cpu.png')} fadeDuration={0} style={{ width: 20, height: 20 }}/>)
+        state_table.brilho_data.push(<Image source={require('../assets/brilho.png')} fadeDuration={0} style={{ width: 20, height: 20 }}/>)
+        state_table.memory_data.push(<Image source={require('../assets/memory.png')} fadeDuration={0} style={{ width: 20, height: 20 }}/>)
+        state_table.temperature_data.push(<Image source={require('../assets/temperatura.png')} fadeDuration={0} style={{ width: 20, height: 20 }}/>)
+        state_table.apps_header.push("")
+        state_table.sensors_header.push("")
+        state_table.widthArr.push(100)
+        state_table.heightArr.push(100)
 
         for(i=0;i<n_ppm;i++){ //colocar n_ppm
             state_table.tableData.push("Taxa de Descarga" + "\n" + state[i].point.toFixed(3) + "%" + "\n" + state[i].data)
@@ -137,13 +145,13 @@ export default TableInfo = ({route,navigation}) => {
             state_table.heightArr.push(100)
             state_table.apps_header.push("APPS " + "(" + state[i].apps.length + ")")
             state_table.sensors_header.push("SENSORS")
-            state_table.temperature_header.push(<Image source={require('../assets/temperatura.png')} fadeDuration={0} style={{ width: 20, height: 20 }}/>)
-            state_table.brilho_header.push(<Image source={require('../assets/brilho.png')} fadeDuration={0} style={{ width: 20, height: 20 }}/>)
-            state_table.cpu_header.push(<Image source={require('../assets/cpu.png')} fadeDuration={0} style={{ width: 20, height: 20 }}/>)
-            state_table.memory_header.push(<Image source={require('../assets/memory.png')} fadeDuration={0} style={{ width: 20, height: 20 }}/>)
+            // state_table.temperature_header.push(<Image source={require('../assets/temperatura.png')} fadeDuration={0} style={{ width: 20, height: 20 }}/>)
+            // state_table.brilho_header.push(<Image source={require('../assets/brilho.png')} fadeDuration={0} style={{ width: 20, height: 20 }}/>)
+            // state_table.cpu_header.push(<Image source={require('../assets/cpu.png')} fadeDuration={0} style={{ width: 20, height: 20 }}/>)
+            // state_table.memory_header.push(<Image source={require('../assets/memory.png')} fadeDuration={0} style={{ width: 20, height: 20 }}/>)
             state_table.cpu_data.push(state[i].cpu_usage + " %")
             state_table.brilho_data.push(state[i].brightness + " %")
-            state_table.memory_data.push(parseInt((state[i].memory[0])*0.001).toFixed(2) + " MBytes")
+            state_table.memory_data.push(parseInt((state[i].memory[0])*0.001).toFixed(2) + " MB")
             state_table.temperature_data.push(state[i].temperature + " ºC")
         }
     }
@@ -154,6 +162,9 @@ export default TableInfo = ({route,navigation}) => {
     var max_ppm = getMaxPPM(state)
     var min_ppm = getMinPPM(state)
     colorScale.domain([min_ppm,max_ppm])
+
+    state_table.tableData_apps.push([])
+    state_table.tableData_sensors.push([])
 
     for(i=0;i<state.length;i++){
         var aux_arr = []
@@ -186,13 +197,13 @@ export default TableInfo = ({route,navigation}) => {
 
         // console.log(state[i].apps.length)
         // state_table.tableData_apps.push(state[i].apps.length)
+
+
         state_table.tableData_apps.push(state[i].apps)
         state_table.tableData_sensors.push(aux_arr)
 
         
     }
-
-    state_table.tableDataAux.push(aux)
 
     const [fontsLoaded] = useFonts({ IcoMoon: require('../assets/icomoon/fonts/icomoon.ttf') });
     if (!fontsLoaded) {
@@ -393,8 +404,8 @@ export default TableInfo = ({route,navigation}) => {
                         </Tooltip>
 
 
-
                         <TableWrapper style={styles.row}>
+                            <Cell width={100} key={0} textStyle={{fontSize:wp('1.5%'),fontWeight:"bold"}} data={state_table.tableTitle[0]} />
                             {
                             state_table.tableData.map((cellData, cellIndex) => (
                                 <Cell width={100} key={cellIndex} textStyle={{fontSize:wp('1.5%'),fontWeight:"bold"}} data={cellData} style={{backgroundColor:red(cellIndex,state)}} />
@@ -405,14 +416,15 @@ export default TableInfo = ({route,navigation}) => {
                         {isEnabled ? <View>
 
                             <Table borderStyle={{borderWidth: 1, borderColor: '#C1C0B9'}}>
-                                <Row data={state_table.temperature_header}  widthArr={state_table.widthArr} style={styles.header_sensors}  />
-                                <Row data={state_table.temperature_data}  widthArr={state_table.widthArr} style={styles.row}  />
-                                <Row data={state_table.memory_header}  widthArr={state_table.widthArr} style={styles.header_sensors}  />
-                                <Row data={state_table.memory_data}  widthArr={state_table.widthArr} style={styles.row}  />
-                                <Row data={state_table.cpu_header}  widthArr={state_table.widthArr} style={styles.header_sensors}  />
-                                <Row data={state_table.cpu_data}  widthArr={state_table.widthArr} style={styles.row}  />
-                                <Row data={state_table.brilho_header}  widthArr={state_table.widthArr} style={styles.header_sensors}  />
-                                <Row data={state_table.brilho_data}  widthArr={state_table.widthArr} style={styles.row}  />
+                                    {/* <Row data={state_table.temperature_header}  widthArr={state_table.widthArr} style={styles.header_sensors}  /> */}
+                                    <Row data={state_table.temperature_data}  widthArr={state_table.widthArr} style={styles.row}  />
+                                    {/* <Row data={state_table.memory_header}  widthArr={state_table.widthArr} style={styles.header_sensors}  /> */}
+                                    <Row data={state_table.memory_data}  widthArr={state_table.widthArr} style={styles.row}  />
+                                    {/* <Row data={state_table.cpu_header}  widthArr={state_table.widthArr} style={styles.header_sensors}  /> */}
+                                    <Row data={state_table.cpu_data}  widthArr={state_table.widthArr} style={styles.row}  />
+                                    {/* <Row data={state_table.brilho_header}  widthArr={state_table.widthArr} style={styles.header_sensors}  /> */}
+                                    <Row data={state_table.brilho_data}  widthArr={state_table.widthArr} style={styles.row}  />
+                                
                             </Table>
                             </View> 
                         :null}
