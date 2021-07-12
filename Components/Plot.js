@@ -616,7 +616,6 @@ function sensors_info(sampleID){
 
 
 
-
 function getMinY() {
 
   return coordenadas_mds.reduce((min, p) => p.y < min ? p.y : min, coordenadas_mds[0].y);
@@ -1365,7 +1364,16 @@ export default Plot = (props) => {
                 >
                   {compare==false ? <Text style={{fontWeight:"bold"}}>Comparar</Text> :  <Text>Fechar</Text>}
                 </TouchableOpacity>
-                <Text>{dataset}</Text>
+
+                <View
+                  style={{
+                    borderWidth: 2,
+                    borderColor: "darkgreen",
+                    borderRadius: 5,
+                  }}>
+                  <Text>Opção : {dataset}</Text>
+                </View>
+                
 
 
 
