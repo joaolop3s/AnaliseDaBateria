@@ -481,8 +481,6 @@ async function read_data(dates){
       reset_coor()
   }
 
-  //console.log(coordenadas)
-
 
   read_sensors(periods)
 
@@ -600,15 +598,22 @@ function sensors_info(sampleID){
   
     let result = "\n"
 
+    
+    let aux = data.split(" ")
+    let dia = aux[0]
+    let hora = aux[1].split(":")[0] + ":" + aux[1].split(":")[1]
+
+
 
   return  result+= "Taxa de descarga da bateria por minuto : " + (parseFloat(point)).toFixed(3) +"%\n" +
       "Brilho do ecrã : " + brightness +"%\n"
-        + "Memória ativa : " + parseInt(memory[0])*0.001 +" Mb\n"
+        + "Memória ativa : " + parseInt((memory[0])*0.001).toFixed(2) + " MB\n"
         + "Percentagem do CPU em uso : " +cpu_usage +"%\n"
         +"Temperatura : " + temperature +"ºC\n"
-        +"Periodo inicio amostra : " + data +"\n"
+        +"Periodo inicio amostra : " + dia +" " + hora +"\n"
 
 }
+
 
 
 
@@ -1146,13 +1151,13 @@ export default Plot = (props) => {
                 (coor, i) => 
                   <TextSvg
                     fill="#000000"
-                    x={i*windowWidth-(50*i) - (75*i)}
+                    x={i*windowWidth-(100*i)}
                     y={windowHeight}
                     style={styles.styleText}
                     font={`12px Arial`}
                     key={i}
                     >
-                    {auxDates[i].split(" ")[1] + "\n" + auxDates[i].split(" ")[0] }
+                    {auxDates[i].split(" ")[0] + " " + auxDates[i].split(" ")[1].split(":")[0] + ":" +auxDates[i].split(" ")[1].split(":")[1] + "\n"}
                     
                   </TextSvg>
               ) : null}

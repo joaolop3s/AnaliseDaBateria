@@ -140,7 +140,12 @@ export default TableInfo = ({route,navigation}) => {
         state_table.heightArr.push(100)
 
         for(i=0;i<n_ppm;i++){ //colocar n_ppm
-            state_table.tableData.push("Taxa de Descarga" + "\n" + state[i].point.toFixed(3) + "%" + "\n" + state[i].data)
+            state_table.tableData.push("Taxa de Descarga" + "\n" + 
+            state[i].point.toFixed(3) + "%" + "\n" + 
+            state[i].data.split(" ")[0] + " " +
+            state[i].data.split(" ")[1].split(":")[0] + ":" + state[i].data.split(" ")[1].split(":")[1])
+
+
             state_table.widthArr.push(100)
             state_table.heightArr.push(100)
             state_table.apps_header.push("APPS " + "(" + state[i].apps.length + ")")
@@ -333,7 +338,7 @@ export default TableInfo = ({route,navigation}) => {
                     <View style={{ alignContent:'center',alignItems:'center',width: wp('4.5%'), height: wp('4.5%'),backgroundColor:"#c6ffb3"}}>
                         <TouchableOpacity onPress={() => {
                             setDescendingOrder(false)
-                            setAscendingOrder(!ascendingOrder)}
+                            setAscendingOrder(true)}
                         }>
                             <ImageBackground source={require("../assets/ascending2.png")} style={{width: wp('4.5%'), height: wp('4.5%')}}>
 
@@ -344,7 +349,7 @@ export default TableInfo = ({route,navigation}) => {
                     <View style={{ alignContent:'center',alignItems:'center',width: wp('4.5%'), height: wp('4.5%'),marginLeft : 10,backgroundColor:"#c6ffb3"}}>
                         <TouchableOpacity onPress={() => {
                             setAscendingOrder(false)
-                            setDescendingOrder(!descendingOrder)}
+                            setDescendingOrder(true)}
                         }>
                             <ImageBackground source={require("../assets/descending2.png")} style={{width: wp('4.5%'), height: wp('4.5%'),backgroundColor:"#c6ffb3"}}>
 
