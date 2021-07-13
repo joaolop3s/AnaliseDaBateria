@@ -21,7 +21,7 @@
       "bundleIdentifier": "com.joaolop3s.d3project"
     },
     "android": {
-      "versionCode": 4,
+      "versionCode": 5,
       "adaptiveIcon": {
         "foregroundImage": "./assets/icone.png",
         "backgroundColor": "#FFFFFF"
