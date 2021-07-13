@@ -379,7 +379,6 @@ async function read_data(dates){
 
     if(first_time==true){
       dataset = getRandomIntInclusive(1,3)
-      dataset=3
     }
 
     if(dataset===1){
